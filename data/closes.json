@@ -1,0 +1,9 @@
+{
+  "_info": "Tägliche Schlusskurse in EUR je Position, gepflegt von der geplanten Claude-Aufgabe. Format: KEY: [[\"JJJJ-MM-TT\", Kurs], ...]",
+  "NVDA": [],
+  "AMZN": [],
+  "BTC": [],
+  "WORLD": [],
+  "EM": [],
+  "EUROPE": []
+}

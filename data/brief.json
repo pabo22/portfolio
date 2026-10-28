@@ -1,0 +1,154 @@
+{
+  "updated": "2026-10-28T15:40:00+01:00",
+  "headline": "KI-Optimismus trägt Tech, Öl gibt nach – heute Abend entscheidet die Fed",
+  "summary": "Technologie- und Chipwerte führen die Erholung an: Der Börsengang-Antrag von Anthropic und starke Zahlen von SK Hynix haben das Vertrauen in KI-Investitionen gestärkt. Energiewerte leiden unter einem nachgebenden Ölpreis, weil die Gespräche zwischen den USA und dem Iran Hoffnung machen. Heute um 19:00 Uhr verkündet die Fed ihren Zinsentscheid (erwartet: keine Änderung), danach berichten Microsoft und Alphabet, am Donnerstag Amazon.",
+  "indices": [
+    { "name": "S&P 500", "value": "7.722,60", "chg": 0.60, "asof": "27.10." },
+    { "name": "Nasdaq", "value": "26.477,81", "chg": 1.18, "asof": "27.10." },
+    { "name": "Dow Jones", "value": "52.377,57", "chg": 0.03, "asof": "27.10." },
+    { "name": "Russell 2000", "value": "2.818,87", "chg": 1.16, "asof": "27.10." },
+    { "name": "DAX", "value": "ca. 25.710", "chg": 0.5, "asof": "28.10. mittags" },
+    { "name": "US-Rendite 10J", "value": "4,99 %", "chg": null, "asof": "27.10." },
+    { "name": "Öl (WTI)", "value": "knapp 100 $", "chg": null, "asof": "27.10." }
+  ],
+  "sectors": [
+    { "key": "it", "strength": 2, "text": "Tech rund +2 % am 27.10., Chips gefragt: Anthropic-Börsengang-Antrag und starke SK-Hynix-Zahlen." },
+    { "key": "fin", "strength": 1, "text": "Deutsche Bank +4,2 % nach Rekordquartal (28.10.), SoFi rund +15 % nach Zahlen (27.10.)." },
+    { "key": "disc", "strength": 0, "text": "Mercedes erholt sich nach Zahlen (+1,2 %). Amazon berichtet am Donnerstag." },
+    { "key": "crypto", "strength": 0, "text": "Bitcoin seitwärts zwischen 79.000 und 86.500 $, wartet auf die Fed." },
+    { "key": "ind", "strength": -1, "text": "Boeing rund −10 % (Auslieferungsziel gesenkt), Xylem −11,6 % (Prognose gesenkt). Gegenbeispiel Pentair +12,9 %." },
+    { "key": "mat", "strength": -1, "text": "Chemie schwach: Symrise über −9 % nach vorsichtigem Ausblick, BASF trotz guter Zahlen leicht im Minus." },
+    { "key": "energy", "strength": -2, "text": "Öl gibt nach (WTI knapp unter 100 $) wegen Hoffnung auf USA-Iran-Diplomatie. Valero rund −7 %." }
+  ],
+  "movers": {
+    "us": {
+      "asof": "27.10.",
+      "up": [
+        { "name": "SoFi Technologies", "chg": 15.0, "why": "Zahlen über Erwartung" },
+        { "name": "Pentair", "chg": 12.93, "why": "Zahlen über Erwartung" },
+        { "name": "Bloom Energy", "chg": null, "why": "starke Zahlen" }
+      ],
+      "down": [
+        { "name": "Xylem", "chg": -11.64, "why": "Zahlen verfehlt, Prognose gesenkt" },
+        { "name": "Boeing", "chg": -10.0, "why": "Auslieferungsziel gesenkt" },
+        { "name": "Valero", "chg": -7.0, "why": "nachgebender Ölpreis" },
+        { "name": "Cintas", "chg": -7.0, "why": "FTC will Übernahme von UniFirst stoppen" }
+      ]
+    },
+    "de": {
+      "asof": "28.10. mittags",
+      "up": [
+        { "name": "Befesa", "chg": 8.1, "why": "erwartete US-Steuergutschrift" },
+        { "name": "Deutsche Bank", "chg": 4.2, "why": "Rekordgewinn im Quartal" },
+        { "name": "Mercedes-Benz", "chg": 1.2, "why": "Gewinnplus nach Prognosesenkung am Vortag" }
+      ],
+      "down": [
+        { "name": "Symrise", "chg": -9.0, "why": "schwächerer Ausblick für Q4" },
+        { "name": "DWS", "chg": -1.4, "why": "Gewinn unter Erwartung" },
+        { "name": "BASF", "chg": -0.2, "why": "Q4-Ausblick unter Konsens" }
+      ]
+    }
+  },
+  "triggers": [
+    { "title": "KI-Optimismus kehrt zurück", "sectors": ["it", "comm"], "text": "Anthropic hat den Börsengang beantragt, SK Hynix meldete unerwartet starke Zahlen. Beides stützt die These, dass sich die hohen KI-Investitionen auszahlen." },
+    { "title": "Ölpreis fällt auf Diplomatie-Hoffnung", "sectors": ["energy"], "text": "Gespräche zwischen den USA und dem Iran drücken den Ölpreis von über 100 $ (WTI) leicht nach unten. Raffinerien und Ölförderer geben nach, Verbraucher und Airlines profitieren." },
+    { "title": "Inflation und Zinsen bleiben hoch", "sectors": ["it", "re", "util", "crypto"], "text": "US-Verbraucherpreise +3,7 % (September), 10-jährige US-Rendite um 5 %. Die Fed hat im September erhöht, für Dezember ist eine weitere Erhöhung im Gespräch. Hohe Zinsen drücken auf hoch bewertete Wachstumswerte und Bitcoin." },
+    { "title": "Zahlensaison läuft", "sectors": ["it", "comm", "disc", "fin"], "text": "Microsoft und Alphabet heute, Amazon am Donnerstag. Aussagen zu KI-Investitionen (Capex) wirken direkt auf Chipwerte wie NVIDIA." }
+  ],
+  "positions": {
+    "NVDA": "Profitiert vom wieder anziehenden KI-Optimismus. Die Investitionspläne von Microsoft, Alphabet (heute) und Amazon (Donnerstag) sind direkte Signale für die Chipnachfrage. Eigene Zahlen am 18.11.",
+    "AMZN": "Zahlen am Donnerstag nach US-Börsenschluss, Optionen preisen rund ±7 % Bewegung ein. Im Fokus: AWS-Wachstum (zuletzt +37 %) und die Investitionen (ca. 220 Mrd. $ für 2026).",
+    "BTC": "Seitwärts in der Spanne 79.000–86.500 $. Fed-Entscheid heute und großer Optionsverfall am Freitag (Max Pain 78.000 $) können kurzfristig bewegen.",
+    "WORLD": "Rund 70 % USA und stark Tech-lastig: NVIDIA, Microsoft, Apple, Amazon und Alphabet sind große Gewichte. Die Big-Tech-Zahlen diese Woche bewegen den ETF spürbar.",
+    "EM": "Chipwerte aus Taiwan und Korea (TSMC, SK Hynix, Samsung) profitieren vom KI-Schub. Hohe US-Zinsen und ein starker Dollar sind Gegenwind.",
+    "EUROPE": "Banken stark (Deutsche Bank), Chemie schwach (Symrise, BASF). EZB-Entscheid am Donnerstag. Energie ist nur ein kleiner Anteil."
+  },
+  "events": [
+    {
+      "date": "2026-10-28", "time": "19:00", "title": "Fed-Zinsentscheid", "kind": "Zinsen",
+      "text": "Erwartet wird keine Änderung (Wahrscheinlichkeit für eine Erhöhung zuletzt ca. 15 %). Wichtig ist der Ausblick von Fed-Chef Warsh auf Dezember; Pressekonferenz 19:30 Uhr.",
+      "sectors": { "it": "Ein harter Ton (Dezember-Erhöhung) belastet hoch bewertete Tech-Werte.", "fin": "Höhere Zinsen helfen Bankmargen.", "re": "Immobilien leiden unter steigenden Zinsen.", "crypto": "Zinsangst drückt auf Bitcoin, Entwarnung hilft." },
+      "positions": { "NVDA": "Zinsüberraschung trifft Wachstumswerte zuerst.", "BTC": "Reagiert oft stark auf den Ton der Pressekonferenz.", "WORLD": "Breiter Markteffekt über die US-Gewichtung." }
+    },
+    {
+      "date": "2026-10-28", "time": "nach US-Schluss", "title": "Zahlen Microsoft und Alphabet", "kind": "Zahlen",
+      "text": "Cloud-Wachstum und KI-Investitionen stehen im Fokus. Höhere Capex-Pläne sind gut für Chiphersteller, Zweifel an der Rendite wären ein Risiko.",
+      "sectors": { "it": "Capex-Aussagen bestimmen die Stimmung bei Chips und Software.", "comm": "Alphabet ist Schwergewicht im Sektor Kommunikation." },
+      "positions": { "NVDA": "Direktes Signal für die Nachfrage nach KI-Chips.", "AMZN": "Vergleichsmaßstab für AWS (Azure, Google Cloud).", "WORLD": "Beide gehören zu den größten Gewichten." }
+    },
+    {
+      "date": "2026-10-29", "time": "13:30", "title": "US-BIP (Q3) und PCE-Inflation", "kind": "Konjunktur",
+      "text": "Wachstums- und Inflationsdaten am Tag nach der Fed. Heiße Inflation würde die Erwartung einer Dezember-Erhöhung stärken.",
+      "sectors": { "it": "Zinsempfindlich.", "staples": "Defensiv, gefragt bei Konjunktursorgen." },
+      "positions": { "BTC": "Inflationsdaten bewegen Zinserwartungen und damit Bitcoin." }
+    },
+    {
+      "date": "2026-10-29", "time": "14:15", "title": "EZB-Zinsentscheid", "kind": "Zinsen",
+      "text": "Wirkt auf europäische Aktien und den Euro. Ein stärkerer Euro senkt den Euro-Wert deiner Dollar-Anlagen.",
+      "sectors": { "fin": "Europäische Banken reagieren auf den Zinsausblick." },
+      "positions": { "EUROPE": "Direkter Einfluss auf europäische Aktien.", "NVDA": "Nur über den Wechselkurs EUR/USD.", "AMZN": "Nur über den Wechselkurs EUR/USD." }
+    },
+    {
+      "date": "2026-10-29", "time": "nach US-Schluss", "title": "Zahlen Amazon (Q3)", "kind": "Zahlen",
+      "text": "Konsens: Gewinn je Aktie 1,96 $, Umsatz 202,2 Mrd. $. Optionen preisen rund ±7,4 % ein. Entscheidend sind AWS-Wachstum und Ausblick auf das Weihnachtsquartal.",
+      "sectors": { "disc": "Amazon ist das größte Gewicht im zyklischen Konsum.", "it": "Capex-Aussagen wirken auf Chipwerte." },
+      "positions": { "AMZN": "Direkte Position, größtes Einzelrisiko der Woche.", "NVDA": "AWS-Investitionen sind Chipnachfrage.", "WORLD": "Großes Gewicht im ETF." }
+    },
+    {
+      "date": "2026-10-30", "time": "09:00", "title": "Bitcoin-Optionsverfall", "kind": "Krypto",
+      "text": "Optionen für rund 10,9 Mrd. $ verfallen, Max Pain bei 78.000 $. Rund um große Verfälle schwankt der Kurs oft stärker.",
+      "sectors": { "crypto": "Kurzfristig erhöhte Schwankung." },
+      "positions": { "BTC": "Kurzfristiger Druck Richtung 78.000 $ möglich." }
+    },
+    {
+      "date": "2026-11-03", "time": "ganztägig", "title": "US-Midterms (Kongresswahl)", "kind": "Politik",
+      "text": "Basisfall vieler Beobachter und Prognosemärkte: ein geteilter Kongress, also wenig große Gesetze in den nächsten zwei Jahren. Historisch stieg der S&P 500 im Schnitt um 8,8 % in den drei Monaten nach einer Midterm-Wahl (seit 1946). Das ist eine Tendenz, keine Regel.",
+      "scenarios": [
+        { "name": "Geteilter Kongress (Basisfall)", "text": "Politischer Stillstand. Begünstigt Tech (KI-Investitionen) und Industrie (überparteiliche Rüstungs- und Infrastrukturausgaben)." },
+        { "name": "Republikaner gewinnen beide Kammern", "text": "Deregulierung und unternehmensfreundliche Politik. Gut für Energie, Banken und Kapitalmarktfirmen." },
+        { "name": "Demokraten gewinnen beide Kammern", "text": "Mehr Staatsausgaben und Energiewende. Mehr Regulierungsdruck auf klassische Energie, Pharma und große Tech-Konzerne." }
+      ],
+      "sectors": { "it": "Basisfall eher positiv; demokratische Mehrheit brächte mehr Regulierungsdruck.", "energy": "Gewinnt bei republikanischer Mehrheit.", "fin": "Gewinnt bei republikanischer Mehrheit (Deregulierung).", "health": "Pharma unter Druck bei demokratischer Mehrheit.", "ind": "Rüstung und Infrastruktur im Basisfall gestützt." },
+      "positions": { "NVDA": "Reagiert auf mögliche Regulierung großer Tech-Konzerne und Exportregeln.", "AMZN": "Ein Ziel möglicher Tech-Regulierung.", "WORLD": "Breiter Effekt über die US-Gewichtung; historisch gute Monate nach der Wahl.", "BTC": "Krypto-Regulierung ist Wahlkampfthema; das Ergebnis kann die Stimmung bewegen." }
+    },
+    {
+      "date": "2026-11-06", "time": "14:30", "title": "US-Arbeitsmarktbericht (Oktober)", "kind": "Konjunktur",
+      "text": "Starker Arbeitsmarkt stützt die Konjunktur, erhöht aber die Wahrscheinlichkeit weiterer Zinserhöhungen. Termin voraussichtlich (erster Freitag im Monat).",
+      "sectors": { "it": "Zinsempfindlich.", "fin": "Profitiert eher von höheren Zinsen." },
+      "positions": {}
+    },
+    {
+      "date": "2026-11-10", "time": "14:30", "title": "US-Inflation (CPI Oktober)", "kind": "Konjunktur",
+      "text": "Zuletzt 3,7 %. Ein weiterer Anstieg würde eine Fed-Erhöhung im Dezember wahrscheinlicher machen.",
+      "sectors": { "it": "Wachstumswerte reagieren am stärksten.", "re": "Zinsempfindlich.", "crypto": "Zinsempfindlich." },
+      "positions": { "NVDA": "Höhere Zinsen belasten die Bewertung.", "BTC": "Oft starke Reaktion auf Inflationsdaten." }
+    },
+    {
+      "date": "2026-11-18", "time": "nach US-Schluss", "title": "Zahlen NVIDIA (Q3 FY27)", "kind": "Zahlen",
+      "text": "Prognose für das Quartal: 108 Mrd. $ Umsatz. Die Zahlen gelten als Stimmungsbarometer für den gesamten KI-Sektor.",
+      "sectors": { "it": "Bewegt den gesamten Chip- und KI-Sektor." },
+      "positions": { "NVDA": "Direkte Position, binäres Ereignis.", "WORLD": "Großes Gewicht im ETF.", "EM": "Zulieferer wie TSMC und SK Hynix reagieren mit." }
+    },
+    {
+      "date": "2026-11-20", "time": "ganztägig", "title": "Großer Optionsverfall (US)", "kind": "Markt",
+      "text": "Monatlicher Optionsverfall; an solchen Tagen sind Kursausschläge und Umsätze oft erhöht.",
+      "sectors": {},
+      "positions": {}
+    },
+    {
+      "date": "2026-12-09", "time": "20:00", "title": "Fed-Zinsentscheid Dezember", "kind": "Zinsen",
+      "text": "Mit neuen Projektionen (Dot Plot). Die September-Projektion der Fed sieht für Dezember eine weitere Erhöhung, Fed-Chef Warsh hat sich davon distanziert.",
+      "sectors": { "it": "Zinsempfindlich.", "fin": "Profitiert eher.", "crypto": "Zinsempfindlich." },
+      "positions": {}
+    }
+  ],
+  "closes": {},
+  "sources": [
+    { "title": "TheStreet: Stock Market Today, 27.10.2026", "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-oct-27-2026" },
+    { "title": "Chartmill: S&P 500 Top Movers 27.10.2026", "url": "https://www.chartmill.com/news/VLO/Chartmill-56931-SP-500-Top-Movers-Today-Pentair-Gains-1293-Xylem-Drops-1164" },
+    { "title": "finanzen.ch: Aktien Frankfurt, 28.10.2026", "url": "https://www.finanzen.ch/nachrichten/aktien/aktien-frankfurt-weiter-auf-erholungskurs-ki-optimismus-nimmt-wieder-zu-1036676979" },
+    { "title": "Tiger Brokers: Fed-Entscheid Oktober, Warsh", "url": "https://www.itiger.com/news/1189778569" },
+    { "title": "Ameriprise: Midterm elections 2026", "url": "https://www.ameriprise.com/financial-news-research/insights/midterm-elections-2026-key-investor-takeaways" },
+    { "title": "FOMC-Termine Dezember 2026", "url": "https://fedratecalc.com/fomc-meeting-schedule/december-2026/" }
+  ]
+}
