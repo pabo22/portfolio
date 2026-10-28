@@ -9,9 +9,9 @@ Recherchiere mit der Websuche den Stand von heute (Zeitzone Europe/Berlin) und s
 - `updated`: aktueller Zeitpunkt mit Offset (ISO 8601).
 - `headline`, `summary`: Was den Markt gestern Abend (USA) und heute früh (Europa/Asien) bewegt hat.
 - `indices`: S&P 500, Nasdaq, Dow, Russell 2000 (letzter Schluss), DAX (letzter Schluss oder Vorbörse), US-Rendite 10 Jahre, Öl (WTI), optional Bitcoin. `chg` in Prozent oder `null`.
-- `sectors`: 6–9 Sektoren mit `strength` von −2 (sehr schwach) bis +2 (sehr stark) und einem Satz mit konkreten Beispielen. Erlaubte Schlüssel: `it, comm, disc, staples, health, fin, ind, energy, mat, util, re, crypto`.
-- `movers.us` und `movers.de`: je 3–4 Gewinner und Verlierer mit Prozent und Grund.
-- `triggers`: 3–5 Auslöser mit betroffenen Sektoren.
+- `sectors`: 6-9 Sektoren mit `strength` von −2 (sehr schwach) bis +2 (sehr stark) und einem Satz mit konkreten Beispielen. Erlaubte Schlüssel: `it, comm, disc, staples, health, fin, ind, energy, mat, util, re, crypto`.
+- `movers.us` und `movers.de`: je 3-4 Gewinner und Verlierer mit Prozent und Grund.
+- `triggers`: 3-5 Auslöser mit betroffenen Sektoren.
 - `positions`: je ein bis zwei Sätze, was die Lage für jede Position heißt. Schlüssel: `NVDA, AMZN, BTC, WORLD, EM, EUROPE` (und neue Positionen, siehe unten).
 - `events`: alle wichtigen Termine der nächsten ~6 Wochen (Zinsentscheide Fed/EZB, CPI, Arbeitsmarkt, Zahlen der gehaltenen Aktien und großer Index-Schwergewichte, Wahlen, große Optionsverfälle). Vergangene Termine entfernen. Zeiten in deutscher Zeit. Jeder Termin mit `sectors` und `positions` (was er für den Sektor bzw. die Position bedeutet); politische Ereignisse mit `scenarios`.
 - `sources`: die tatsächlich genutzten Quellen als Titel + URL.
@@ -40,3 +40,7 @@ Der aktuelle Bestand steht nicht im Repo (er liegt nur im Browser des Nutzers). 
 ## 4. Commit
 
 JSON vor dem Commit prüfen (`python3 -m json.tool data/brief.json`). Commit-Nachricht: `Marktanalyse JJJJ-MM-TT`. Direkt auf `main` pushen.
+
+## Schreibstil
+
+Keine Gedankenstriche (– oder —) in den Texten, stattdessen Punkt, Komma oder Bindestrich. Zahlenbereiche mit Bindestrich (79.000-86.500 $). Sätze kurz halten, damit sie am Handy gut lesbar sind.

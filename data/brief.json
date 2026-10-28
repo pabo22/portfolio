@@ -1,6 +1,6 @@
 {
   "updated": "2026-10-28T15:40:00+01:00",
-  "headline": "KI-Optimismus trägt Tech, Öl gibt nach – heute Abend entscheidet die Fed",
+  "headline": "KI-Optimismus trägt Tech, Öl gibt nach. Heute Abend entscheidet die Fed",
   "summary": "Technologie- und Chipwerte führen die Erholung an: Der Börsengang-Antrag von Anthropic und starke Zahlen von SK Hynix haben das Vertrauen in KI-Investitionen gestärkt. Energiewerte leiden unter einem nachgebenden Ölpreis, weil die Gespräche zwischen den USA und dem Iran Hoffnung machen. Heute um 19:00 Uhr verkündet die Fed ihren Zinsentscheid (erwartet: keine Änderung), danach berichten Microsoft und Alphabet, am Donnerstag Amazon.",
   "indices": [
     { "name": "S&P 500", "value": "7.722,60", "chg": 0.60, "asof": "27.10." },
@@ -58,7 +58,7 @@
   "positions": {
     "NVDA": "Profitiert vom wieder anziehenden KI-Optimismus. Die Investitionspläne von Microsoft, Alphabet (heute) und Amazon (Donnerstag) sind direkte Signale für die Chipnachfrage. Eigene Zahlen am 18.11.",
     "AMZN": "Zahlen am Donnerstag nach US-Börsenschluss, Optionen preisen rund ±7 % Bewegung ein. Im Fokus: AWS-Wachstum (zuletzt +37 %) und die Investitionen (ca. 220 Mrd. $ für 2026).",
-    "BTC": "Seitwärts in der Spanne 79.000–86.500 $. Fed-Entscheid heute und großer Optionsverfall am Freitag (Max Pain 78.000 $) können kurzfristig bewegen.",
+    "BTC": "Seitwärts in der Spanne 79.000-86.500 $. Fed-Entscheid heute und großer Optionsverfall am Freitag (Max Pain 78.000 $) können kurzfristig bewegen.",
     "WORLD": "Rund 70 % USA und stark Tech-lastig: NVIDIA, Microsoft, Apple, Amazon und Alphabet sind große Gewichte. Die Big-Tech-Zahlen diese Woche bewegen den ETF spürbar.",
     "EM": "Chipwerte aus Taiwan und Korea (TSMC, SK Hynix, Samsung) profitieren vom KI-Schub. Hohe US-Zinsen und ein starker Dollar sind Gegenwind.",
     "EUROPE": "Banken stark (Deutsche Bank), Chemie schwach (Symrise, BASF). EZB-Entscheid am Donnerstag. Energie ist nur ein kleiner Anteil."
