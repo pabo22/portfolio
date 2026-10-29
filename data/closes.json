@@ -1,9 +1,29 @@
 {
   "_info": "Tägliche Schlusskurse in EUR je Position, gepflegt von der geplanten Claude-Aufgabe. Format: KEY: [[\"JJJJ-MM-TT\", Kurs], ...]",
-  "NVDA": [],
-  "AMZN": [],
-  "BTC": [],
-  "WORLD": [],
+  "NVDA": [
+    [
+      "2026-10-28",
+      191.38
+    ]
+  ],
+  "AMZN": [
+    [
+      "2026-10-28",
+      227.2
+    ]
+  ],
+  "BTC": [
+    [
+      "2026-10-28",
+      72819.0
+    ]
+  ],
+  "WORLD": [
+    [
+      "2026-10-28",
+      131.41
+    ]
+  ],
   "EM": [],
   "EUROPE": []
 }
