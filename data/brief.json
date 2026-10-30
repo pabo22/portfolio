@@ -1,293 +1,253 @@
 {
-  "updated": "2026-10-29T06:55:00+01:00",
-  "headline": "Alphabet enttäuscht, Microsoft überzeugt. Fed hält still, heute EZB und Amazon",
-  "summary": "Die Fed hat die Zinsen bei 3,75-4 % belassen, zwei Mitglieder wollten erhöhen. US-Indizes schlossen leicht im Plus, Chips stark (SOX +1,75 %). Nachbörslich fiel Alphabet um rund 10 % wegen negativem Free Cashflow und schwächerer Suche, Microsoft stieg dank starkem Azure. Nasdaq-Futures liegen rund 1 % im Minus, Asien uneinheitlich. Öl steigt nach einem Bericht über mögliche US-Angriffe auf den Iran nach den Midterms. Heute: US-BIP, EZB-Entscheid und am Abend Amazon.",
+  "updated": "2026-10-30T06:55:00+01:00",
+  "headline": "Binance-Hack drückt Bitcoin, Amazon und Intel fallen nachbörslich",
+  "summary": "Die US-Indizes schlossen leicht im Minus, die Nasdaq fiel um 1,4 %, weil Alphabet 12,6 % verlor. Breite Werte waren stark, der gleichgewichtete S&P 500 stieg um 1,2 %. Nachbörslich fielen Amazon um rund 6-7 % und Intel deutlich zweistellig. Ein mutmaßlicher Hack bei Binance schickte Bitcoin auf rund 77.400 $. Der DAX schloss über 26.000 Punkten, die EZB ließ die Zinsen unverändert. In Asien fiel der KOSPI um 5,4 %, der Nikkei um 2,6 %. Heute: Bitcoin-Optionsverfall, Bank of Japan, Exxon und Chevron.",
   "indices": [
     {
       "name": "S&P 500",
-      "value": "7.743,98",
-      "chg": 0.28,
-      "asof": "28.10."
+      "value": "7.720,39",
+      "chg": -0.3,
+      "asof": "29.10."
     },
     {
       "name": "Nasdaq",
-      "value": "26.549,85",
-      "chg": 0.27,
-      "asof": "28.10."
+      "value": "26.184,72",
+      "chg": -1.38,
+      "asof": "29.10."
     },
     {
       "name": "Dow Jones",
-      "value": "52.475,10",
-      "chg": 0.19,
-      "asof": "28.10."
+      "value": "52.342,56",
+      "chg": -0.25,
+      "asof": "29.10."
     },
     {
       "name": "Russell 2000",
-      "value": "2.830,51",
-      "chg": 0.41,
-      "asof": "28.10."
+      "value": "2.859,22",
+      "chg": 1.01,
+      "asof": "29.10."
     },
     {
       "name": "DAX",
-      "value": "25.704,02",
-      "chg": 0.44,
-      "asof": "28.10."
+      "value": "26.039,68",
+      "chg": 1.31,
+      "asof": "29.10."
     },
     {
       "name": "US-Rendite 10J",
-      "value": "5,04 %",
+      "value": "4,98 %",
       "chg": null,
-      "asof": "28.10."
+      "asof": "29.10."
     },
     {
       "name": "Öl (WTI)",
-      "value": "102,78 $",
-      "chg": 2.88,
-      "asof": "28.10."
+      "value": "102,00 $",
+      "chg": -0.76,
+      "asof": "29.10."
     },
     {
       "name": "Bitcoin",
-      "value": "ca. 80.250 $",
-      "chg": -1.18,
-      "asof": "29.10. früh"
+      "value": "ca. 77.400 $",
+      "chg": null,
+      "asof": "30.10. früh"
     }
   ],
   "sectors": [
     {
-      "key": "it",
+      "key": "health",
+      "strength": 2,
+      "text": "Bester Sektor am 29.10. (+2,4 %). Eli Lilly +6,6 % auf Rekordhoch nach Umsatz +39 % und höherer Prognose, Merck +3,8 %. Alnylam fiel dagegen um 25 %."
+    },
+    {
+      "key": "re",
       "strength": 1,
-      "text": "Bester Sektor am 28.10. (+0,8 %), Chipindex SOX +1,75 %, Oracle +10,6 %. Nachbörslich trüben die Alphabet-Zahlen die Stimmung, Microsoft +3-5 %."
+      "text": "Zweitbester Sektor (+2,2 %). Die 10-jährige Rendite fiel um 7 Basispunkte auf 4,98 % und damit wieder unter 5 %."
+    },
+    {
+      "key": "staples",
+      "strength": 1,
+      "text": "Gefragt als sicherer Hafen (+1,5 %), während Geld aus Tech abfloss. Sprouts fiel trotzdem um 22,6 % nach gesenkter Prognose."
     },
     {
       "key": "fin",
       "strength": 1,
-      "text": "Zweitbester Sektor (+0,45 %). Deutsche Bank rund +4 % nach Rekordgewinn. Höhere Zinsen helfen den Margen."
+      "text": "Plus 1,4 %. Mastercard stieg um 4,2 % nach Zahlen. Der Markt sieht eine Zinserhöhung im Dezember zu rund 78 %."
     },
     {
-      "key": "energy",
-      "strength": 1,
-      "text": "WTI +2,9 % auf 102,78 $, Brent 115,32 $. Auslöser ist ein Bericht über mögliche US-Angriffe auf den Iran. Morgen berichten Exxon und Chevron."
-    },
-    {
-      "key": "health",
-      "strength": 1,
-      "text": "Biotech mit großen Ausschlägen: Genmab +28 % nach Studiendaten, Axogen +31 %. Heute berichten Eli Lilly und Merck."
-    },
-    {
-      "key": "crypto",
+      "key": "ind",
       "strength": 0,
-      "text": "Bitcoin um 80.000-81.500 $, die Marke 80.000 $ gilt als wichtige Unterstützung. Morgen großer Optionsverfall."
+      "text": "Sektor +1,0 %, aber Caterpillar fiel um 9,3 %, der schwächste Tag seit März 2020. Das Baugeschäft blieb hinter den Erwartungen."
+    },
+    {
+      "key": "it",
+      "strength": -1,
+      "text": "Tech -1,2 %, Chipindex SOX -1,4 %. ServiceNow -27 % und Fortinet -20 % schüren Sorgen um Software. Intel nachbörslich deutlich zweistellig im Minus wegen schwacher Prognose."
     },
     {
       "key": "comm",
-      "strength": -1,
-      "text": "Alphabet nachbörslich rund -10 %: Suchumsatz unter Erwartung, Free Cashflow rund -9 Mrd. $. Meta fiel nach Zahlen in der Vorwoche um 7 %."
+      "strength": -2,
+      "text": "Schwächster Sektor (-1,9 %). Alphabet verlor 12,6 %, der schlechteste Tag der Firmengeschichte und rund 500 Mrd. $ Börsenwert."
     },
     {
-      "key": "re",
-      "strength": -1,
-      "text": "Zweitschwächster Sektor (-0,73 %). Die 10-jährige Rendite stieg auf 5,04 %."
-    },
-    {
-      "key": "util",
-      "strength": -1,
-      "text": "Schwächster Sektor am 28.10. (-0,84 %), steigende Renditen belasten."
+      "key": "crypto",
+      "strength": -2,
+      "text": "Mutmaßlicher Hack bei Binance, Ein- und Auszahlungen gestoppt. Bitcoin fiel zeitweise Richtung 76.000 $, Ether und BNB verloren stärker."
     }
   ],
   "movers": {
     "us": {
-      "asof": "28.10.",
+      "asof": "29.10.",
       "up": [
         {
-          "name": "Axogen",
-          "chg": 31.47,
-          "why": "Umsatz +26 %, Prognose angehoben"
+          "name": "Glaukos",
+          "chg": 33.65,
+          "why": "Umsatz 211 Mio. $ statt 168 Mio. erwartet, Prognose erhöht"
         },
         {
-          "name": "Genmab",
-          "chg": 28.25,
-          "why": "positive Phase-3-Studie"
+          "name": "Crocs",
+          "chg": 25.54,
+          "why": "Gewinn über Erwartung, Jahresprognose zum dritten Mal erhöht"
         },
         {
-          "name": "SK Hynix (ADR)",
-          "chg": 13.3,
-          "why": "starkes Quartal dank hoher Speicherpreise"
+          "name": "Carvana",
+          "chg": 15.68,
+          "why": "Zahlen besser als erwartet, SEC schließt Untersuchung"
         },
         {
-          "name": "Oracle",
-          "chg": 10.58,
-          "why": "Free-Cashflow-Ziel 30 Mrd. $ für 2029"
+          "name": "Eli Lilly",
+          "chg": 6.63,
+          "why": "Umsatz +39 %, Prognose auf 91-92 Mrd. $ angehoben"
         }
       ],
       "down": [
         {
-          "name": "F5",
-          "chg": -20.43,
-          "why": "schwächerer Wachstumsausblick"
+          "name": "ServiceNow",
+          "chg": -26.95,
+          "why": "Ausblick für Auftragsbestand unter Erwartung"
         },
         {
-          "name": "Landstar System",
-          "chg": -17.76,
-          "why": "hohe Versicherungs- und Schadenkosten"
+          "name": "Alphabet",
+          "chg": -12.64,
+          "why": "Suche und Gewinn unter Erwartung, Free Cashflow negativ"
         },
         {
-          "name": "Enphase Energy",
-          "chg": -16.03,
-          "why": "schwache Solarnachfrage, Ausblick niedrig"
+          "name": "Caterpillar",
+          "chg": -9.25,
+          "why": "Baugeschäft schwächer als erhofft"
         },
         {
-          "name": "Alphabet (nachbörslich)",
+          "name": "Amazon (nachbörslich)",
           "chg": null,
-          "why": "rund -10 %, Umsatz und Gewinn unter Erwartung"
+          "why": "rund -6 bis -7 %, Gewinn und Ausblick knapp unter Erwartung"
         }
       ]
     },
     "de": {
-      "asof": "28.10.",
+      "asof": "29.10.",
       "up": [
         {
-          "name": "Befesa",
+          "name": "Basler",
           "chg": null,
-          "why": "knapp +5 %, erwartete US-Förderung"
+          "why": "gut +13 %, Prognose angehoben"
         },
         {
-          "name": "Deutsche Bank",
+          "name": "Salzgitter",
           "chg": null,
-          "why": "rund +4 %, erneut Rekordgewinn"
+          "why": "gut +11 %, Jahresziel erneut erhöht"
         },
         {
-          "name": "Mercedes-Benz",
-          "chg": null,
-          "why": "leicht im Plus nach Zahlen"
+          "name": "Adidas",
+          "chg": 5.8,
+          "why": "erwartet im 4. Quartal Rückkehr zu Wachstum"
+        },
+        {
+          "name": "VW Vz.",
+          "chg": 1.7,
+          "why": "trotz Quartalsverlust durch Porsche-Abschreibung"
         }
       ],
       "down": [
         {
-          "name": "Symrise",
-          "chg": null,
-          "why": "über -10 %, langsameres Wachstum im 4. Quartal"
+          "name": "Heidelberger Druck",
+          "chg": -11.0,
+          "why": "Prognose gesenkt"
         },
         {
-          "name": "DWS",
-          "chg": -1.7,
-          "why": "Gewinn unter Erwartung"
+          "name": "Knorr-Bremse",
+          "chg": null,
+          "why": "fast -7 %, Zahlen unter Erwartung"
         },
         {
-          "name": "Thyssenkrupp",
-          "chg": null,
-          "why": "rechnerisch belastet durch Abspaltung von TK Accelis"
+          "name": "Vonovia",
+          "chg": -3.0,
+          "why": "operativer Gewinn eher in unterer Hälfte der Zielspanne"
         }
       ]
     }
   },
   "triggers": [
     {
-      "title": "Big Tech: zwei Urteile an einem Abend",
+      "title": "Mutmaßlicher Hack bei Binance",
       "sectors": [
-        "it",
-        "comm"
+        "crypto"
       ],
-      "text": "Microsoft: Azure +48 %, Investitionen 45,2 Mrd. $ und damit unter Erwartung, Aktie nachbörslich im Plus. Alphabet: Cloud verdoppelt, aber Free Cashflow rund -9 Mrd. $. Die Investitionen 2026 bleiben bei 195-205 Mrd. $, für 2027 deutlich mehr. Der Markt belohnt Disziplin bei KI-Ausgaben."
+      "text": "Am 29.10. gegen 21:24 Uhr flossen Milliarden aus Binance-Wallets ab. Die Schätzungen reichen von rund 2,5 bis 6,3 Mrd. $. Binance stoppte Ein- und Auszahlungen und kündigte an, alle Verluste zu decken. Tether und Circle froren zusammen über 2,3 Mrd. $ ein. Rund 1,5 Mrd. $ an Krypto-Positionen wurden zwangsweise geschlossen."
     },
     {
-      "title": "Fed hält, Dezember-Erhöhung im Blick",
+      "title": "Amazon und Intel nach Börsenschluss",
       "sectors": [
-        "it",
+        "disc",
+        "it"
+      ],
+      "text": "Amazon: Gewinn je Aktie 1,89 $ statt 1,97 $, Umsatz 201,9 Mrd. $ knapp unter Erwartung. AWS wuchs um 39 % auf 46 Mrd. $, Investitionen 2026 bleiben bei rund 220 Mrd. $. Intel übertraf beim Gewinn, gab aber eine deutlich schwächere Prognose für das 4. Quartal."
+    },
+    {
+      "title": "Alphabet-Absturz und Software-Sorgen",
+      "sectors": [
+        "comm",
+        "it"
+      ],
+      "text": "Alphabet fiel um 12,6 %, ServiceNow um 27 %. Der Markt bestraft hohe KI-Ausgaben ohne Cashflow und fürchtet, dass KI klassische Software verdrängt. Geld floss in Gesundheit, Immobilien und Basiskonsum."
+    },
+    {
+      "title": "Starkes Wachstum, hohe Inflation",
+      "sectors": [
         "fin",
         "re",
         "util",
-        "crypto"
-      ],
-      "text": "Leitzins bleibt bei 3,75-4 %, Cook und Hammack stimmten für eine Erhöhung. Der Markt preist für Dezember rund 80 % Wahrscheinlichkeit einer Erhöhung ein. Die 2-jährige Rendite fiel nach der Pressekonferenz von Warsh, die 10-jährige liegt um 5 %."
-    },
-    {
-      "title": "Ölpreis und Iran",
-      "sectors": [
-        "energy",
-        "ind"
-      ],
-      "text": "Laut Wall Street Journal sollen die USA Golfstaaten auf eine kurze Militäroperation gegen den Iran nach den Midterms vorbereitet haben. Gleichzeitig gibt es Berichte über einen Brief von Vizepräsident Vance zur Wiederbelebung von Gesprächen. Szenarien: Eskalation würde Öl weiter treiben, Diplomatie würde es drücken."
-    },
-    {
-      "title": "Asien uneinheitlich",
-      "sectors": [
         "it"
       ],
-      "text": "KOSPI -2,6 % nach fast +7 % am Vortag, Samsung über -4 % trotz Rekordgewinn. Nikkei +0,3 %, Hang Seng +0,2 %."
+      "text": "US-BIP im 3. Quartal +3,4 % aufs Jahr gerechnet. PCE-Inflation 3,6 %, Kernrate 3,1 %. Die 10-jährige Rendite fiel trotzdem unter 5 %. Für Dezember sieht der Markt eine Fed-Erhöhung zu rund 78 %, vorher 84 %."
+    },
+    {
+      "title": "Öl und Iran-Diplomatie",
+      "sectors": [
+        "energy"
+      ],
+      "text": "WTI fiel um 0,8 % auf 102 $. Berichten zufolge haben US-Vertreter den Iran zu neuen Gesprächen kontaktiert, Katar soll vermitteln. Ein iranischer Vertreter lehnte die Bedingungen ab. Szenarien: Gespräche würden Öl drücken, ein Scheitern oder Eskalation es treiben."
     }
   ],
   "positions": {
-    "NVDA": "Am 28.10. -1,2 % trotz starkem Chipsektor. Das US-Justizministerium prüft die rund 13 Mrd. $ schwere Übernahme von Hugging Face. Hohe KI-Investitionen von Alphabet und Microsoft sind Chipnachfrage. Eigene Zahlen am 17.11.",
-    "AMZN": "Zahlen heute nach US-Schluss (Call 22:00 Uhr). Konsens Gewinn je Aktie 2,01 $, eigene Umsatzprognose 197-202 Mrd. $. Nach Alphabet und Microsoft schaut der Markt auf AWS-Wachstum und Free Cashflow.",
-    "BTC": "Rund 80.250 $ bzw. 72.030 € am Morgen. Die Fed-Pause brachte kaum Bewegung. Morgen 09:00 Uhr großer Optionsverfall, 80.000 $ gilt als wichtige Unterstützung.",
-    "WORLD": "Gegensätzliche Signale der Schwergewichte: Alphabet nachbörslich rund -10 %, Microsoft im Plus. Nasdaq-Futures rund -1 %. Amazon heute und Apple am 2.11. folgen.",
-    "EM": "Korea gibt nach starkem Vortag nach (KOSPI -2,6 %), Samsung schwach, SK Hynix +1,3 %. Asien ohne Japan -0,7 %. Hohe US-Renditen bleiben Gegenwind.",
-    "EUROPE": "DAX schloss bei 25.704 Punkten, zeitweise Fünfwochenhoch. Heute EZB-Entscheid, erwartet wird keine Änderung. Der höhere Ölpreis belastet energieintensive Branchen."
+    "NVDA": "Am 29.10. -0,8 % auf 213,66 $, der Chipindex fiel um 1,4 %. Amazon bestätigt rund 220 Mrd. $ Investitionen und erwartet über 40 % AWS-Wachstum 2027 und 2028, das ist Chipnachfrage. Nasdaq-Futures liegen im Minus. Eigene Zahlen am 17.11.",
+    "AMZN": "Vor den Zahlen -4,25 % auf 243,79 $, nachbörslich weitere rund 6-7 %. Gewinn und Umsatz knapp unter Erwartung, Prognose für das 4. Quartal 240-247 Mrd. $ bei 244,5 Mrd. $ Konsens. Positiv: AWS +39 % und Rekord-Marge von 13,9 %. Der Free Cashflow über 12 Monate liegt bei -42,4 Mrd. $.",
+    "BTC": "Der Binance-Hack drückte Bitcoin auf rund 77.400 $, zeitweise Richtung 76.000 $, das tiefste Niveau seit Mitte September. Heute um 09:00 Uhr großer Optionsverfall. Standard Chartered erwartet erst Entspannung, wenn eingefrorene Gelder frei sind und mehr Details bekannt werden.",
+    "WORLD": "Gemischtes Bild: Die Schwergewichte Alphabet (-12,6 %) und Amazon (nachbörslich) belasten, der breite Markt war stark (gleichgewichteter S&P 500 +1,2 %). Japan fällt heute um 2,6 %. Apple berichtet am 2.11.",
+    "EM": "Korea bricht ein, der KOSPI fällt um 5,4 % auf 5.618 Punkte wegen KI-Sorgen. Hang Seng +1,2 %, Shanghai -0,9 %. Leicht sinkende US-Renditen sind etwas Entlastung.",
+    "EUROPE": "DAX +1,3 % auf 26.039 Punkte, EuroStoxx 50 +0,6 %. Die EZB hielt die Zinsen wie erwartet. Lagarde tritt am 7.2.2027 vorzeitig ab. Heute könnten die schwachen US-Tech-Futures und Asien bremsen."
   },
   "events": [
     {
-      "date": "2026-10-29",
-      "time": "13:30",
-      "title": "US-BIP (Q3) und PCE-Inflation",
-      "kind": "Konjunktur",
-      "text": "Erste Schätzung des Wachstums im 3. Quartal, die Atlanta Fed schätzt 3,3 %. Zeitgleich die PCE-Preisdaten für September. Heiße Inflation würde die Erwartung einer Dezember-Erhöhung stärken.",
-      "sectors": {
-        "it": "Zinsempfindlich.",
-        "fin": "Höhere Zinserwartungen helfen eher.",
-        "staples": "Defensiv, gefragt bei Konjunktursorgen."
-      },
-      "positions": {
-        "BTC": "Inflationsdaten bewegen Zinserwartungen und damit Bitcoin.",
-        "WORLD": "Breiter Effekt über die US-Gewichtung."
-      }
-    },
-    {
-      "date": "2026-10-29",
-      "time": "14:15",
-      "title": "EZB-Zinsentscheid",
+      "date": "2026-10-30",
+      "time": "heute früh",
+      "title": "Bank of Japan Zinsentscheid",
       "kind": "Zinsen",
-      "text": "Erwartet wird keine Änderung (Einlagezins 2,50 %). Wichtig ist der Ausblick auf Dezember. Pressekonferenz 14:45 Uhr.",
+      "text": "Ende der zweitägigen Sitzung. Die meisten Analysten erwarten keine Änderung, nachdem die Notenbank im September auf 1,25 % erhöht hatte.",
       "sectors": {
-        "fin": "Europäische Banken reagieren auf den Zinsausblick.",
-        "re": "Zinsempfindlich."
+        "fin": "Japanische Banken reagieren auf den Zinsausblick."
       },
       "positions": {
-        "EUROPE": "Direkter Einfluss auf europäische Aktien.",
-        "NVDA": "Nur über den Wechselkurs EUR/USD.",
-        "AMZN": "Nur über den Wechselkurs EUR/USD."
-      }
-    },
-    {
-      "date": "2026-10-29",
-      "time": "vor US-Eröffnung",
-      "title": "Zahlen Eli Lilly, Mastercard, Merck, Caterpillar",
-      "kind": "Zahlen",
-      "text": "Große Index-Schwergewichte aus Pharma, Finanzen und Industrie. Konsens Eli Lilly: 5,38 $ je Aktie.",
-      "sectors": {
-        "health": "Eli Lilly und Merck bewegen den Pharmasektor.",
-        "fin": "Mastercard zeigt die Konsumausgaben.",
-        "ind": "Caterpillar gilt als Konjunkturbarometer."
-      },
-      "positions": {
-        "WORLD": "Alle vier sind größere Gewichte im ETF."
-      }
-    },
-    {
-      "date": "2026-10-29",
-      "time": "nach US-Schluss",
-      "title": "Zahlen Amazon (Q3)",
-      "kind": "Zahlen",
-      "text": "Konsens 2,01 $ je Aktie, Umsatzprognose des Konzerns 197-202 Mrd. $. Call 22:00 Uhr. Nach Alphabet achtet der Markt besonders auf AWS, Investitionen und Free Cashflow. Außerdem berichten Intel und Coinbase.",
-      "sectors": {
-        "disc": "Amazon ist das größte Gewicht im zyklischen Konsum.",
-        "it": "Investitionspläne wirken auf Chipwerte, Intel berichtet ebenfalls.",
-        "crypto": "Coinbase zeigt die Lage am Kryptomarkt."
-      },
-      "positions": {
-        "AMZN": "Direkte Position, größtes Einzelrisiko der Woche.",
-        "NVDA": "AWS-Investitionen sind Chipnachfrage.",
-        "WORLD": "Großes Gewicht im ETF.",
-        "BTC": "Coinbase-Zahlen können die Stimmung beeinflussen."
+        "WORLD": "Japan ist ein größeres Gewicht im ETF.",
+        "EM": "Ein starker Yen kann Kapitalflüsse in Asien verschieben."
       }
     },
     {
@@ -295,12 +255,12 @@
       "time": "09:00",
       "title": "Bitcoin-Optionsverfall",
       "kind": "Krypto",
-      "text": "Großer Monatsverfall an Deribit, laut Stand Mitte Oktober rund 12 Mrd. $, Max Pain um 79.000 $. Rund um solche Termine schwankt der Kurs oft stärker.",
+      "text": "Großer Monatsverfall an Deribit, laut Stand 27.10. rund 135.500 BTC im Wert von etwa 10,8 Mrd. $, Max Pain bei 78.000 $. Zusammen mit dem Binance-Hack ist mit starken Schwankungen zu rechnen.",
       "sectors": {
         "crypto": "Kurzfristig erhöhte Schwankung."
       },
       "positions": {
-        "BTC": "Kurzfristiger Druck Richtung Max Pain möglich, danach oft mehr Freiraum."
+        "BTC": "Kurs liegt bereits unter Max Pain, nach dem Verfall oft mehr Freiraum in beide Richtungen."
       }
     },
     {
@@ -308,13 +268,29 @@
       "time": "vor US-Eröffnung",
       "title": "Zahlen ExxonMobil, Chevron, AbbVie",
       "kind": "Zahlen",
-      "text": "Ölkonzerne berichten bei einem Ölpreis über 100 $. Konsens Exxon 3,96 $, Chevron 4,78 $ je Aktie. Am selben Tag entscheidet die Bank of Japan.",
+      "text": "Ölkonzerne berichten bei einem Ölpreis um 100 $. Konsens Exxon 4,04 $ je Aktie. Außerdem AstraZeneca und Regeneron.",
       "sectors": {
         "energy": "Die beiden größten US-Ölkonzerne.",
-        "health": "AbbVie ist Pharma-Schwergewicht."
+        "health": "AbbVie, AstraZeneca und Regeneron bewegen Pharma."
       },
       "positions": {
-        "WORLD": "Große Gewichte im ETF."
+        "WORLD": "Große Gewichte im ETF.",
+        "EUROPE": "AstraZeneca ist ein Schwergewicht in Europa."
+      }
+    },
+    {
+      "date": "2026-10-30",
+      "time": "13:30",
+      "title": "US-Arbeitskostenindex (Q3), danach Chicago-PMI",
+      "kind": "Konjunktur",
+      "text": "Erwartet +0,8 % nach 0,9 %. Um 14:45 Uhr folgt der Chicago-Einkaufsmanagerindex, erwartet 54,8 nach 58,8. Am Abend spricht Fed-Präsidentin Daly, die Sprechpause endet.",
+      "sectors": {
+        "it": "Zinsempfindlich.",
+        "fin": "Höhere Zinserwartungen helfen eher."
+      },
+      "positions": {
+        "BTC": "Zinserwartungen bewegen Bitcoin.",
+        "NVDA": "Hohe Lohnkosten würden Zinsangst schüren."
       }
     },
     {
@@ -431,85 +407,93 @@
         "NVDA": "Eine Erhöhung belastet hoch bewertete Wachstumswerte.",
         "BTC": "Zinsangst drückt oft auf Bitcoin."
       }
+    },
+    {
+      "date": "2026-12-17",
+      "time": "14:15",
+      "title": "EZB-Zinsentscheid Dezember",
+      "kind": "Zinsen",
+      "text": "Sitzung am 16. und 17.12. Die Inflation im Euroraum lag im September bei 3,8 %. Im Oktober blieb der Einlagezins bei 2,50 %.",
+      "sectors": {
+        "fin": "Europäische Banken reagieren auf den Zinsausblick.",
+        "re": "Zinsempfindlich."
+      },
+      "positions": {
+        "EUROPE": "Direkter Einfluss auf europäische Aktien.",
+        "NVDA": "Nur über den Wechselkurs EUR/USD.",
+        "AMZN": "Nur über den Wechselkurs EUR/USD."
+      }
     }
   ],
   "closes": {},
   "sources": [
     {
-      "title": "Capp Notes: Closing Look, 28.10.2026",
-      "url": "https://cappnotes.substack.com/p/closing-look-wednesday-october-28"
+      "title": "Capp Notes: Closing Look, 29.10.2026",
+      "url": "https://cappnotes.substack.com/p/closing-look-thursday-october-29"
     },
     {
-      "title": "TradingKey: US-Börsenschluss, Oracle, SK Hynix, Fed",
-      "url": "https://www.tradingkey.com/analysis/stocks/us-stocks/262249004-us-stock-market-close-oracle-sk-hynix-fed-hold-sox-tradingkey"
+      "title": "The Wall Street Republic: Alphabet -12,64 %, Amazon -4,25 %",
+      "url": "https://thewallstreetrepublic.substack.com/p/alphabet-falls-1264-in-its-worst"
     },
     {
-      "title": "StockTitan: Stock Market Today Live, 28.10.2026",
-      "url": "https://www.stocktitan.net/articles/stock-market-today-live-october-28-2026"
+      "title": "StockTitan: Stock Market Today, 29.10.2026",
+      "url": "https://www.stocktitan.net/articles/stock-market-today-live-october-29-2026"
     },
     {
-      "title": "SiliconANGLE: Microsoft-Zahlen, Azure +48 %",
-      "url": "https://siliconangle.com/2026/10/28/microsofts-stock-rises-on-solid-earnings-and-revenue-beat-with-azure-growing-48"
+      "title": "Motley Fool via Yahoo: Amazon fällt nach Q3-Zahlen",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-oct-29-211602513.html"
     },
     {
-      "title": "investingLive: Alphabet nachbörslich über -9 %",
-      "url": "https://investinglive.com/stocks/alphabet-slides-over-9-after-hours-as-search-miss-and-9bn-cash-burn-overshadow-cloud/"
+      "title": "finanzen.at: Amazon-Aktie mit Kursrutsch",
+      "url": "https://www.finanzen.at/nachrichten/aktien/amazon-aktie-mit-kursrutsch-umsatz-und-ergebnis-verfehlen-erwartungen-1036675541"
     },
     {
-      "title": "Reuters via Investing.com: Asien fällt nach Alphabet",
-      "url": "https://www.investing.com/news/economy-news/asian-shares-fall-as-alphabet-earnings-miss-drags-wall-st-futures-lower-4981378"
+      "title": "ARIVA/dpa-AFX: Aktien Frankfurt Schluss, 29.10.2026",
+      "url": "https://www.ariva.de/news/roundup-aktien-frankfurt-schluss-dax-ueber-26-000-punkte-12187543"
     },
     {
-      "title": "Herald Business: Ölpreis steigt, WTI +2,88 %",
-      "url": "https://biz.heraldcorp.com/article/10918269"
+      "title": "Business Standard: Asien gemischt, KOSPI -5,4 %",
+      "url": "https://www.business-standard.com/markets/news/asian-shares-trade-mixed-as-concerns-about-ai-related-issues-grow-126103000110_1.html"
     },
     {
-      "title": "ARIVA/dpa-AFX: Aktien Frankfurt Schluss, 28.10.2026",
-      "url": "https://www.ariva.de/news/roundup-aktien-frankfurt-schluss-dax-auf-erholungskurs-12185579"
+      "title": "CoinDesk: Binance-Hack, Standard Chartered",
+      "url": "https://www.coindesk.com/markets/2026/10/30/usd6-billion-binance-hack-sends-bitcoin-ether-tumbling-standard-chartered-sees-more-losses-ahead"
     },
     {
-      "title": "it-boltwise: Bitcoin über 81.500 $, Fed hält",
-      "url": "https://www.it-boltwise.de/bitcoin-ueber-81-500-us-dollar-fed-bleibt-trotz-spaltung-bei-zinsen.html"
+      "title": "CryptoTicker: Zeitablauf des Binance-Hacks",
+      "url": "https://cryptoticker.io/en/crypto-crash-binance-hack-timeline-liquidations/"
     },
     {
-      "title": "gold.de: Bitcoin-Kurs in Euro",
-      "url": "https://www.gold.de/kurse/bitcoinpreis/"
+      "title": "Cryptonews: Bitcoin unter 77.000 $",
+      "url": "https://cryptonews.net/news/bitcoin/33674674/"
+    },
+    {
+      "title": "Cointelegraph: Binance-Hack, BNB und Bitcoin fallen",
+      "url": "https://cointelegraph.com/markets/binance-hack-rattles-crypto-markets-bnb-bitcoin-slide"
     },
     {
       "title": "CryptoTicker: Bitcoin-Optionsverfall 30.10.2026",
-      "url": "https://cryptoticker.io/en/bitcoin-options-expiry-october-30-2026-max-pain/"
+      "url": "https://cryptoticker.io/en/bitcoin-price-options-expiry-30-october-2026/"
     },
     {
-      "title": "StockTitan: Earnings-Kalender Woche 26.10.2026",
-      "url": "https://www.stocktitan.net/articles/earnings-calendar-week-of-october-26-2026"
+      "title": "CryptoTicker: EZB-Zinsentscheid und Termine",
+      "url": "https://cryptoticker.io/de/ezb-zinsentscheid-krypto-depot/"
     },
     {
-      "title": "StockTitan: US-BIP Q3 2026",
-      "url": "https://www.stocktitan.net/articles/q3-2026-gdp-report"
+      "title": "finanzen.net: NVIDIA-Aktie 29.10.2026",
+      "url": "https://www.finanzen.net/nachricht/aktien/nvidia-aktie-kursbewegung-29-10-2026-11202041"
     },
     {
       "title": "Investing.com: NVIDIA-Zahlen am 17.11.",
       "url": "https://www.investing.com/news/company-news/nvidia-schedules-q3-fiscal-2027-earnings-call-for-nov-17-93CH-4980909"
     },
     {
-      "title": "SimianX: Magnificent 7 Termine Q3 2026",
-      "url": "https://www.simianx.ai/stories/magnificent-7-earnings-dates-results-tracker"
-    },
-    {
-      "title": "finanzen.net: NVIDIA-Aktie 28.10.2026",
-      "url": "https://www.finanzen.net/nachricht/aktien/nvidia-aktie-kursbewegung-28-10-2026-14752042"
-    },
-    {
-      "title": "Raisin: EZB-Zinsentscheid 29.10.2026",
-      "url": "https://www.raisin.com/de-at/glossar/ezb-leitzins/zinsentscheid/"
-    },
-    {
       "title": "Ameriprise: Midterm elections 2026",
       "url": "https://www.ameriprise.com/financial-news-research/insights/midterm-elections-2026-key-investor-takeaways"
     },
     {
-      "title": "boerse.de: Kurse NVIDIA, Amazon, MSCI World (EUR)",
-      "url": "https://www.boerse.de/aktien/Nvidia-Aktie/US67066G1040"
+      "title": "SimianX: Magnificent 7 Termine Q3 2026",
+      "url": "https://www.simianx.ai/stories/magnificent-7-earnings-dates-results-tracker"
     }
   ]
 }
