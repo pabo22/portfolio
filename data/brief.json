@@ -1,310 +1,296 @@
 {
-  "updated": "2026-11-02T06:50:00+01:00",
-  "headline": "Intel-Absturz reißt Chips ab, Asien und Futures erholen sich vor Apple und Midterms",
-  "summary": "Die Wall Street beendete den Oktober mit einem Ausverkauf. Der S&P 500 fiel am Freitag um 1,8 %, die Nasdaq um 2,9 %, der Chipindex SOX um 7,2 %. Intel brach nach schwacher Prognose um 28,6 % ein, NVIDIA verlor gut 4 %. Der DAX schloss 0,85 % tiefer, die Woche brachte aber +2,5 %. Heute früh beruhigt sich die Lage: US-Futures leicht im Plus, KOSPI und Shanghai fester, Öl fällt um rund 3 % auf Iran-Diplomatie. Binance zahlt wieder aus. Heute Abend Apple und Palantir, morgen die US-Kongresswahl.",
+  "updated": "2026-11-03T06:50:00+01:00",
+  "headline": "Apple fällt nachbörslich, Ölpreis bricht ein, Asien schwach am US-Wahltag",
+  "summary": "Die Wall Street war am Montag gespalten. Der Dow stieg um 0,4 %, der S&P 500 fiel um 0,5 %, die Nasdaq um 1,1 %. Geld floss aus Tech in Konsum, Banken und Industrie. Öl fiel um gut 7 % auf Hoffnung auf US-Iran-Diplomatie, WTI auf 96,46 $. Der DAX schloss 0,6 % höher bei 25.981 Punkten. Nachbörslich verlor Apple 2,8 % wegen schwächerer Margenprognose. Heute früh fallen Taiwan und Korea deutlich, Japan ist geschlossen, der DAX-Future liegt rund 0,8 % im Minus. Heute die US-Kongresswahl, abends AMD.",
   "indices": [
     {
       "name": "S&P 500",
-      "value": "7.580,07",
-      "chg": -1.82,
-      "asof": "30.10."
+      "value": "7.541,40",
+      "chg": -0.51,
+      "asof": "2.11."
     },
     {
       "name": "Nasdaq",
-      "value": "25.437,00",
-      "chg": -2.86,
-      "asof": "30.10."
+      "value": "25.164,32",
+      "chg": -1.07,
+      "asof": "2.11."
     },
     {
       "name": "Dow Jones",
-      "value": "51.770,31",
-      "chg": -1.09,
-      "asof": "30.10."
+      "value": "51.983,98",
+      "chg": 0.41,
+      "asof": "2.11."
     },
     {
       "name": "Russell 2000",
-      "value": "2.811,84",
-      "chg": -1.66,
-      "asof": "30.10."
+      "value": "2.805,88",
+      "chg": -0.21,
+      "asof": "2.11."
     },
     {
       "name": "DAX",
-      "value": "25.818,21",
-      "chg": -0.85,
-      "asof": "30.10."
+      "value": "25.981,09",
+      "chg": 0.63,
+      "asof": "2.11."
     },
     {
       "name": "US-Rendite 10J",
-      "value": "4,95 %",
+      "value": "4,91 %",
       "chg": null,
-      "asof": "2.11. früh"
+      "asof": "3.11. früh"
     },
     {
       "name": "Öl (WTI)",
-      "value": "100,64 $",
-      "chg": -3.3,
-      "asof": "2.11. früh"
+      "value": "96,46 $",
+      "chg": -7.36,
+      "asof": "2.11."
     },
     {
       "name": "Bitcoin",
-      "value": "ca. 78.480 $",
-      "chg": 0.9,
-      "asof": "2.11. früh"
+      "value": "ca. 76.820 $",
+      "chg": 0.1,
+      "asof": "3.11. früh"
     }
   ],
   "sectors": [
     {
-      "key": "energy",
-      "strength": 1,
-      "text": "Exxon und Chevron stiegen am Freitag um bis zu 2,2 % nach Zahlen, getragen von hohen Raffineriemargen. Heute früh fällt Öl aber um gut 3 %."
+      "key": "disc",
+      "strength": 2,
+      "text": "Bester S&P-Sektor mit +2,4 %. Amazon +2,2 %, Rivian +7,7 %. Anleger schichteten aus Tech in Konsumwerte um."
     },
     {
-      "key": "health",
+      "key": "fin",
       "strength": 1,
-      "text": "Regeneron +13,3 % nach 36 % Umsatzplus, CareDx +22 %. In Frankfurt stieg Bayer um bis zu 5,5 % nach einem Glyphosat-Urteil zu seinen Gunsten."
+      "text": "Finanzwerte +1,9 %, Brookfield Asset Management +6,4 %. Profitieren von der Umschichtung aus Tech."
     },
     {
       "key": "ind",
+      "strength": 1,
+      "text": "Industrie +1,4 %, Howmet +6,8 %. In Frankfurt aber Rheinmetall -3,6 % nach Bericht über verzögerten Boxer-Auftrag."
+    },
+    {
+      "key": "staples",
+      "strength": 1,
+      "text": "Basiskonsum +1,6 %. Sprouts +11,1 % nach Kaufempfehlung von Goldman."
+    },
+    {
+      "key": "health",
       "strength": 0,
-      "text": "Gemischt. FedEx Freight +14,9 %, dagegen Siemens Energy -6,9 % im Sog der Tech-Schwäche."
+      "text": "Kaum verändert (-0,2 %). IDEXX +21,9 % nach angehobener Prognose, in Frankfurt Fresenius +1,6 % nach Biosimilar-Deal."
     },
     {
       "key": "crypto",
       "strength": 0,
-      "text": "Binance zahlt seit Sonntag schrittweise wieder aus und hat rund 95 % der gestohlenen Werte ersetzt. Bitcoin steigt den dritten Tag in Folge, aber es flossen 3,6 Mrd. $ netto ab."
-    },
-    {
-      "key": "disc",
-      "strength": -1,
-      "text": "Amazon fiel zeitweise um 6 % auf den tiefsten Stand seit Ende Juli und schloss 1,4 % tiefer. Sorge um hohe KI-Ausgaben und schwächeres AWS-Wachstum als erhofft."
-    },
-    {
-      "key": "fin",
-      "strength": -1,
-      "text": "Arbor Realty brach nach gestrichener Dividende um rund 25 % ein, Oppenheimer verlor rund 17 %. In Europa führten Banken und Tech den Stoxx 600 nach unten."
-    },
-    {
-      "key": "comm",
-      "strength": -2,
-      "text": "Reddit -29 % trotz guter Zahlen wegen schwachem Ausblick, Roblox -18 % nach gesenkter Buchungsprognose. Alphabet hatte die Woche rund 12,6 % verloren."
+      "text": "Bitcoin pendelt um 76.800 $. Nach dem Binance-Hack zogen Kunden netto 4,72 Mrd. $ ab."
     },
     {
       "key": "it",
       "strength": -2,
-      "text": "Tech-Sektor fast -5 %, Chipindex SOX -7,2 %. Intel -28,6 %, der schlechteste Tag seit 1974. AMD -10,9 %, Micron -5,3 %. In Deutschland Infineon -6,4 %."
+      "text": "Tech -3,0 %. Neue Zweifel an KI-Ausgaben: AMD -7,5 %, Micron -5,8 %, Oracle -8,8 % nach geplanter Kapitalerhöhung. Marvell -12,7 % nach Kauf von Lumentum."
+    },
+    {
+      "key": "energy",
+      "strength": -2,
+      "text": "Schwächster Sektor mit -4,0 %. Öl fiel um gut 7 % auf Hoffnung auf US-Iran-Diplomatie, Kosmos Energy -13,3 %."
     }
   ],
   "movers": {
     "us": {
-      "asof": "30.10.",
+      "asof": "2.11.",
       "up": [
         {
-          "name": "Grid Dynamics",
-          "chg": 40.78,
-          "why": "Umsatz im 3. Quartal über der eigenen Prognose"
+          "name": "EVgo",
+          "chg": 46.83,
+          "why": "Großaktionär LS Power bietet 2,00 $ je Aktie"
         },
         {
-          "name": "CareDx",
-          "chg": 22.22,
-          "why": "Umsatzprognose 2026 angehoben"
+          "name": "Perion",
+          "chg": 31.15,
+          "why": "Übernahme durch Affle für 11,70 $ je Aktie"
         },
         {
-          "name": "FedEx Freight",
-          "chg": 14.9,
-          "why": "starker Handel nach der Abspaltung"
+          "name": "IDEXX Laboratories",
+          "chg": 21.85,
+          "why": "Umsatz +10 %, Prognose 2026 angehoben"
         },
         {
-          "name": "Regeneron",
-          "chg": 13.3,
-          "why": "Umsatz im 3. Quartal +36 %"
+          "name": "Nextpower",
+          "chg": 14.87,
+          "why": "Hochstufung durch Jefferies"
         }
       ],
       "down": [
         {
-          "name": "Alphatec",
-          "chg": -38.08,
-          "why": "schwächere Umsätze mit Biologika"
+          "name": "Once Upon a Farm",
+          "chg": -37.15,
+          "why": "Rückruf von Snack-Riegeln"
         },
         {
-          "name": "Reddit",
-          "chg": -29.22,
-          "why": "Ausblick 4. Quartal schwächer, Sorge um KI-Konkurrenz"
+          "name": "Lumentum",
+          "chg": -18.59,
+          "why": "Übernahme durch Marvell in Aktien, rund 115 Mrd. $"
         },
         {
-          "name": "Intel",
-          "chg": -28.58,
-          "why": "Umsatzprognose 15-16 Mrd. $ statt 17,1 Mrd. erwartet, Marge sinkt"
+          "name": "Marvell",
+          "chg": -12.72,
+          "why": "Kauf von Lumentum, Aktie seit 28.10. rund -32 %"
         },
         {
-          "name": "Roblox",
-          "chg": -18.05,
-          "why": "Buchungen im 4. Quartal 10-15 % niedriger erwartet"
+          "name": "Oracle",
+          "chg": -8.76,
+          "why": "Plant je 10 Mrd. $ neue Aktien und Anleihen für KI-Ausbau"
         }
       ]
     },
     "de": {
-      "asof": "30.10.",
+      "asof": "2.11.",
       "up": [
         {
-          "name": "Puma",
-          "chg": 5.6,
-          "why": "kleinerer Quartalsverlust als im Vorjahr"
+          "name": "Aixtron",
+          "chg": null,
+          "why": "fast +4 %, Kaufempfehlung von Kepler Cheuvreux"
         },
         {
-          "name": "Bayer",
+          "name": "Infineon",
           "chg": null,
-          "why": "bis zu +5,5 %, Jury in Missouri entscheidet Glyphosat-Fall für Bayer"
+          "why": "knapp +3 %, Erholung der Chipwerte"
+        },
+        {
+          "name": "Fresenius",
+          "chg": 1.6,
+          "why": "Entwicklungsvertrag mit WuXi Biologics für Biosimilars"
         }
       ],
       "down": [
         {
-          "name": "Alzchem",
-          "chg": -7.7,
-          "why": "Berenberg erwartet sinkende Gewinnschätzungen"
-        },
-        {
-          "name": "Siemens Energy",
-          "chg": -6.9,
-          "why": "breite Tech-Schwäche nach Amazon und Intel"
-        },
-        {
-          "name": "Infineon",
-          "chg": -6.4,
-          "why": "Chip-Ausverkauf nach Intel-Prognose"
-        },
-        {
-          "name": "Jenoptik, Elmos, Suss, Siltronic",
+          "name": "Init Innovation",
           "chg": null,
-          "why": "bis zu -7,5 %, Halbleiterschwäche"
+          "why": "über -20 %, Gewinnprognose 2026 drastisch gesenkt"
+        },
+        {
+          "name": "Rheinmetall",
+          "chg": -3.6,
+          "why": "Bericht über verzögerten Boxer-Großauftrag, kurz unter 1.000 €"
         }
       ]
     }
   },
   "triggers": [
     {
-      "title": "Intel-Prognose löst Chip-Ausverkauf aus",
+      "title": "Öl fällt um gut 7 % auf Iran-Diplomatie",
       "sectors": [
-        "it"
+        "energy",
+        "ind",
+        "disc"
       ],
-      "text": "Intel erwartet im 4. Quartal nur 15-16 Mrd. $ Umsatz statt 17,1 Mrd. und eine Bruttomarge von 38 % statt 44,1 %. Die PC-Schwäche soll bis mindestens Mitte 2027 dauern. Der Chipindex fiel um 7,2 %, AMD um 10,9 %. Heute früh steigt SK Hynix in Seoul wieder um rund 4 %."
+      "text": "Gespräche zwischen Iran und Katar nähren Hoffnung auf ein Ende des Kriegs. WTI fiel auf 96,46 $, Brent auf 104,77 $, der stärkste Tagesrückgang seit Juli. Gleichzeitig meldet das WSJ US-Angriffe auf die Insel Qeshm in der Straße von Hormus. Szenarien: Einigung drückt Öl weiter, Eskalation treibt es wieder. Heute früh stabilisiert sich Öl."
     },
     {
-      "title": "Zweifel an KI-Ausgaben",
+      "title": "Rotation aus Tech",
       "sectors": [
+        "it",
         "disc",
-        "comm",
+        "fin"
+      ],
+      "text": "Nasdaq -1,1 %, aber der gleichgewichtete S&P 500 +0,8 %. KI-Hardware unter Druck: Oracle will 20 Mrd. $ für den KI-Ausbau aufnehmen, Marvell kauft Lumentum. Konsum, Banken und Industrie gewannen."
+    },
+    {
+      "title": "Apple: Rekordumsatz, schwächerer Ausblick",
+      "sectors": [
         "it"
       ],
-      "text": "Nach Alphabet und Amazon wächst die Sorge, dass hohe KI-Investitionen den Cashflow aufzehren. Laut Bloomberg planen die großen Tech-Konzerne dieses Jahr zusammen rund 750 Mrd. $ für KI. Die Nasdaq 100 verlor im Oktober 6,7 %."
+      "text": "Umsatz +12 % auf 114,5 Mrd. $, Gewinn je Aktie 2,10 $, beides über den Erwartungen. Apple erwartet aber wegen höherer Speicherchip-Kosten eine geringere Marge im Weihnachtsquartal, Services wuchsen schwächer als erhofft. Nachbörslich -2,8 %. Palantir -3 % trotz 96 % Umsatzplus."
     },
     {
-      "title": "Iran-Diplomatie drückt Öl",
+      "title": "US-Kongresswahl heute",
       "sectors": [
-        "energy"
+        "it",
+        "energy",
+        "fin",
+        "health"
       ],
-      "text": "Iranische Unterhändler sind in Katar. Ein Vorschlag könnte laut Irans Außenminister die Straße von Hormus binnen zwei Tagen öffnen, wenn die USA Bedingungen erfüllen. Direkte Gespräche gebe es nicht. Trump will vor einer Entscheidung über neue Angriffe nach der Wahl mehr Diplomatie. Szenarien: Einigung würde Öl weiter drücken, ein Scheitern es wieder treiben."
+      "text": "Umfragen sehen die Demokraten im Repräsentantenhaus vorn, Prognosemärkte auch im Senat. Ergebnisse kommen in der Nacht. Asien handelt vorsichtig: Taiwan -3,3 %, Korea zeitweise -4 %."
     },
     {
-      "title": "Binance zahlt wieder aus",
-      "sectors": [
-        "crypto"
-      ],
-      "text": "Seit Sonntag öffnet Binance Auszahlungen schrittweise, zuerst für Bitcoin. Rund 95 % der rund 6,3 Mrd. $ wurden aus Firmenmitteln ersetzt, etwa 3 Mrd. $ sind eingefroren. Ermittler ordnen den Angriff der Nordkorea-nahen Gruppe TraderTraitor zu."
-    },
-    {
-      "title": "Fed-Vertreter deuten auf Erhöhung",
+      "title": "Zinsen leicht tiefer, Notenbanken straffen",
       "sectors": [
         "fin",
-        "re",
-        "it"
+        "re"
       ],
-      "text": "Musalem nannte die Inflation zu hoch und breit, die Fed müsse bald handeln. Barkin sieht weiteren Erhöhungsbedarf. Die 10-jährige Rendite liegt mit rund 4,95 % knapp unter 5 %."
+      "text": "Die 10-jährige US-Rendite fiel am Montag auf 4,89 % und liegt heute früh bei 4,91 %. Australiens Notenbank erhöhte heute auf 4,85 %. Am Mittwoch folgt das Refinanzierungsprogramm des US-Finanzministeriums."
     }
   ],
   "positions": {
-    "NVDA": "Am Freitag gut -4 % im Chip-Ausverkauf, der Börsenwert fiel unter 5 Bio. $. Apple ist wieder das wertvollste Unternehmen. Heute früh leicht positive Nasdaq-Futures. Diese Woche AMD (Di), Qualcomm und ARM (Mi), eigene Zahlen am 17.11.",
-    "AMZN": "Fiel am Freitag zeitweise um 6 % auf den tiefsten Stand seit Ende Juli, schloss aber nur 1,4 % tiefer. In Euro zuletzt rund 214 €. Belastend sind KI-Ausgaben und negativer Free Cashflow, positiv AWS +39 %.",
-    "BTC": "Bitcoin erholt sich auf rund 78.480 $ (+0,9 %), der dritte Tag mit Gewinn. Binance zahlt wieder aus und hat rund 95 % ersetzt, Netto-Abflüsse von 3,6 Mrd. $. Morgen die US-Wahl, Krypto-Regulierung ist ein Thema.",
-    "WORLD": "Der US-Ausverkauf belastet über die Tech-Schwergewichte, der S&P 500 verlor im Oktober 1,2 %. Heute Abend um 22:30 Uhr Apple, Konsens 1,99 $ je Aktie und 113,4 Mrd. $ Umsatz. Japan heute kaum verändert.",
-    "EM": "Korea erholt sich, der KOSPI steigt um rund 2 %, SK Hynix um rund 4 %. Shanghai +1,2 %, Hang Seng +0,6 %. Chinas Aufsicht trifft Banken, um den Aktienmarkt zu stützen. Taiwan leicht im Minus.",
-    "EUROPE": "DAX am Freitag -0,85 % auf 25.818 Punkte, Wochenplus 2,5 %. EuroStoxx 50 -1,2 %. Der DAX-Future steigt heute früh um 49 auf 25.962 Punkte. Heute Einkaufsmanager-Indizes, am Donnerstag Bank of England sowie Telekom, Rheinmetall und Commerzbank."
+    "NVDA": "Am Montag -1,3 % im erneuten Ausverkauf von KI-Hardware. Heute Abend um 22:15 Uhr AMD, ein direkter Stimmungstest. Taiwan fällt heute früh um 3,3 %. Eigene Zahlen am 17.11.",
+    "AMZN": "Stieg am Montag um 2,2 % und gehörte zu den Gewinnern der Rotation in Konsumwerte. Belastend: Walmart- und eBay-Kunden erhielten den Status einer Sammelklage im Kartellverfahren.",
+    "BTC": "Bitcoin hält sich bei rund 76.800 $, Ether bei rund 2.250 $. Nach dem Binance-Hack flossen netto 4,72 Mrd. $ ab. Heute die US-Wahl, Krypto-Regulierung ist ein Thema.",
+    "WORLD": "Der S&P 500 fiel am Montag um 0,5 %, belastet von Tech. Apple, eines der größten Gewichte, verlor nachbörslich 2,8 %. US-Futures heute früh kaum verändert. Japan ist heute geschlossen.",
+    "EM": "Schwacher Start: Taiwan -3,3 %, Korea zeitweise -4,1 %, MSCI Asien ohne Japan -1,4 %. Hang Seng leicht im Plus. Chinas Notenbank erhöht die Mindestreserve für Devisen.",
+    "EUROPE": "DAX am Montag +0,6 % auf 25.981 Punkte, EuroStoxx 50 +0,7 %. Der DAX-Future liegt heute früh rund 0,8 % im Minus. Heute Zahlen von Bayer, Lufthansa und Zalando."
   },
   "events": [
     {
-      "date": "2026-11-02",
-      "time": "16:00",
-      "title": "ISM-Index Industrie (Oktober)",
-      "kind": "Konjunktur",
-      "text": "Erwartet 54,5 wie im Vormonat. Vorher ab 09:55 Uhr die Einkaufsmanager-Indizes aus Deutschland und dem Euroraum.",
-      "sectors": {
-        "ind": "Direkter Gradmesser für die Industrie.",
-        "mat": "Nachfrage nach Rohstoffen."
-      },
-      "positions": {
-        "WORLD": "Konjunkturbild für den breiten Markt.",
-        "EUROPE": "Deutsche Industrie-PMI zuletzt 54,2 (Schnellschätzung)."
-      }
-    },
-    {
-      "date": "2026-11-02",
-      "time": "22:05 / 22:30",
-      "title": "Zahlen Palantir und Apple",
+      "date": "2026-11-03",
+      "time": "07:00 / 07:30",
+      "title": "Zahlen Lufthansa, Zalando, Bayer, Evonik",
       "kind": "Zahlen",
-      "text": "Apple berichtet um 22:30 Uhr, Telefonkonferenz um 23:00 Uhr. Konsens 1,99 $ je Aktie und 113,4 Mrd. $ Umsatz. Es ist das erste Quartal mit Verkäufen des iPhone 18 Pro und unter CEO John Ternus.",
+      "text": "Lufthansa und Zalando ab 07:00 Uhr, Bayer um 07:30 Uhr (Pressekonferenz 10:00 Uhr). Für Zalando erwarten Analysten im Schnitt 3,15 Mrd. € Umsatz. Außerdem Hugo Boss, Schaeffler, TeamViewer und Philips. Mittags Biontech und Pfizer (12:45 Uhr).",
       "sectors": {
-        "it": "Apple ist eines der größten Gewichte im Tech-Sektor, Palantir ein KI-Stimmungswert."
+        "health": "Bayer, Biontech und Pfizer berichten.",
+        "disc": "Zalando und Hugo Boss zeigen die Konsumlage.",
+        "ind": "Lufthansa reagiert zusätzlich auf Ölpreis und Iran-Lage."
       },
       "positions": {
-        "WORLD": "Eines der größten Gewichte im ETF.",
-        "NVDA": "Palantir gilt als Gradmesser für KI-Nachfrage."
+        "EUROPE": "Mehrere große europäische Werte berichten am Wahltag."
       }
     },
     {
       "date": "2026-11-03",
-      "time": "ganztägig, Ergebnisse nachts",
+      "time": "ganztägig, Ergebnisse in der Nacht zu Mittwoch",
       "title": "US-Midterms (Kongresswahl)",
       "kind": "Politik",
-      "text": "Gewählt werden das Repräsentantenhaus und rund ein Drittel des Senats. Belastbare Ergebnisse kommen nach deutscher Zeit erst in der Nacht zum Mittwoch. Basisfall vieler Beobachter: ein geteilter Kongress. Historisch stieg der S&P 500 in den drei Monaten nach einer Midterm-Wahl im Schnitt um 8,8 % (seit 1946), eine Tendenz, keine Regel. Trump will laut Bloomberg erst nach der Wahl über weitere Iran-Schritte entscheiden.",
+      "text": "Gewählt werden das Repräsentantenhaus und rund ein Drittel des Senats. Belastbare Ergebnisse kommen nach deutscher Zeit erst in der Nacht zum Mittwoch. Laut Reuters sehen Umfragen die Demokraten im Repräsentantenhaus vorn, der Senat gilt als offen. Prognosemärkte (Polymarket, Kalshi) sahen zuletzt rund 76-77 % für eine demokratische Senatsmehrheit, MUFG rund 70 % für beide Kammern. Das sind Wahrscheinlichkeiten, keine Ergebnisse. Laut HQ Trust stieg der S&P 500 in den 12 Monaten nach Midterms seit 1928 im Schnitt um 12,4 %, eine Tendenz, keine Regel.",
       "scenarios": [
         {
-          "name": "Geteilter Kongress (Basisfall)",
-          "text": "Politischer Stillstand. Begünstigt Tech (KI-Investitionen) und Industrie (überparteiliche Rüstungs- und Infrastrukturausgaben)."
-        },
-        {
-          "name": "Republikaner gewinnen beide Kammern",
-          "text": "Deregulierung und unternehmensfreundliche Politik. Gut für Energie, Banken und Kapitalmarktfirmen."
+          "name": "Geteilter Kongress",
+          "text": "Politischer Stillstand. Wenig neue Gesetze, Märkte sehen das oft gelassen. Tech und Industrie (überparteiliche Rüstungs- und Infrastrukturausgaben) eher gestützt."
         },
         {
           "name": "Demokraten gewinnen beide Kammern",
-          "text": "Mehr Staatsausgaben und Energiewende. Mehr Regulierungsdruck auf klassische Energie, Pharma und große Tech-Konzerne."
+          "text": "Von Prognosemärkten derzeit als wahrscheinlicher gesehen. Mehr Staatsausgaben und Energiewende, mehr Regulierungsdruck auf klassische Energie, Pharma und große Tech-Konzerne. Gesetze bräuchten aber die Unterschrift des Präsidenten."
+        },
+        {
+          "name": "Republikaner gewinnen beide Kammern",
+          "text": "Deregulierung und unternehmensfreundliche Politik setzen sich fort. Gut für Energie, Banken und Kapitalmarktfirmen."
         }
       ],
       "sectors": {
         "it": "Basisfall eher positiv, demokratische Mehrheit brächte mehr Regulierungsdruck.",
         "energy": "Gewinnt bei republikanischer Mehrheit, außerdem Iran-Risiko für den Ölpreis.",
         "fin": "Gewinnt bei republikanischer Mehrheit (Deregulierung).",
-        "health": "Pharma unter Druck bei demokratischer Mehrheit.",
+        "health": "Pharma unter Druck bei demokratischer Mehrheit (Arzneimittelpreise).",
         "ind": "Rüstung und Infrastruktur im Basisfall gestützt."
       },
       "positions": {
         "NVDA": "Reagiert auf mögliche Regulierung großer Tech-Konzerne und Exportregeln.",
         "AMZN": "Ein Ziel möglicher Tech-Regulierung.",
         "WORLD": "Breiter Effekt über die US-Gewichtung, historisch gute Monate nach der Wahl.",
-        "BTC": "Krypto-Regulierung ist Wahlkampfthema, die Branche hat in Kandidaten investiert."
+        "BTC": "Krypto-Regulierung ist Wahlkampfthema, die Branche hat in Kandidaten investiert.",
+        "EUROPE": "Indirekt über Stimmung und Dollar."
       }
     },
     {
       "date": "2026-11-03",
-      "time": "nach US-Schluss",
-      "title": "Zahlen AMD",
+      "time": "22:15",
+      "title": "Zahlen AMD, Amgen, Booking",
       "kind": "Zahlen",
-      "text": "AMD erwartet rund 13 Mrd. $ Umsatz. Nach dem Absturz von 10,9 % am Freitag ein wichtiger Test für die Chip-Stimmung. Außerdem am Dienstag Bayer, Lufthansa, Zalando und Evonik.",
+      "text": "AMD fiel am Montag um 7,5 % und am Freitag um 10,9 %. Die Zahlen gelten als Test, ob der KI-Boom trägt. Um 22:00 Uhr berichten auch Amgen und Booking.",
       "sectors": {
         "it": "Bewegt Chip- und KI-Werte."
       },
       "positions": {
         "NVDA": "Direkter Konkurrent, die KI-Prognose von AMD färbt ab.",
-        "EUROPE": "Bayer und Lufthansa berichten am selben Tag."
+        "WORLD": "Stimmungstest für Tech-Schwergewichte."
       }
     },
     {
@@ -312,7 +298,7 @@
       "time": "11:00",
       "title": "Euroraum-Inflation (Oktober), abends Qualcomm und ARM",
       "kind": "Konjunktur",
-      "text": "Schnellschätzung, im September lag die Rate bei 3,8 %. Am Nachmittag ISM Dienstleistungen, abends Qualcomm und ARM. BMW und Continental berichten.",
+      "text": "Schnellschätzung, im September lag die Rate bei 3,8 %. Am Nachmittag ISM Dienstleistungen, abends Qualcomm und ARM. BMW und Continental berichten. Am Mittwoch auch das Refinanzierungsprogramm des US-Finanzministeriums, wichtig für die Anleiherenditen.",
       "sectors": {
         "fin": "Europäische Banken reagieren auf Zinserwartungen.",
         "it": "Qualcomm und ARM bewegen Chipwerte."
@@ -428,88 +414,52 @@
   "closes": {},
   "sources": [
     {
-      "title": "Yahoo Finance: Stock market today, 30.10.2026",
-      "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-october-30-dow-sp-500-nasdaq-amazon-intel-ai-sell-off-191429143.html"
+      "title": "CappNotes: Closing Look, 2.11.2026",
+      "url": "https://cappnotes.substack.com/p/closing-look-monday-november-2-2026"
     },
     {
-      "title": "StockTitan: Stock Market Today, 30.10.2026",
-      "url": "https://www.stocktitan.net/articles/stock-market-today-live-october-30-2026"
+      "title": "StockTitan: Stock Market Today, 2.11.2026",
+      "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-2-2026"
     },
     {
-      "title": "TheStreet: Stock Market Today, 30.10.2026",
-      "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-oct-30-2026"
+      "title": "24/7 Wall St: Market close, 2.11.2026",
+      "url": "https://247wallst.com/cards/money-rotated-out-of-tech-today-the-dow-and-nasdaq-split-by-gspc-market-bell-01m6f16sjakb82rhj0p9s07n7a"
     },
     {
-      "title": "ARIVA/dpa-AFX: Aktien New York Schluss, 30.10.2026",
-      "url": "https://www.ariva.de/news/roundup-aktien-new-york-schluss-tech-ausverkauf-wegen-12189328"
+      "title": "EconCurrents: Market Close, 2.11.2026",
+      "url": "https://econcurrents.substack.com/p/02-november-2026-market-close-and"
     },
     {
-      "title": "ARIVA/dpa-AFX: Aktien Frankfurt Schluss, 30.10.2026",
-      "url": "https://www.ariva.de/news/roundup-aktien-frankfurt-schluss-schwaecheres-ende-einer-12189224"
+      "title": "onvista/dpa-AFX: Aktien Frankfurt Schluss, 2.11.2026",
+      "url": "https://www.onvista.de/news/2026/11-02-roundup-aktien-frankfurt-schluss-dax-legt-zu-vor-apple-und-zwischenwahlen-0-10-26571361"
     },
     {
-      "title": "finanzen.ch: DAX-Futures im Frühhandel, 2.11.2026",
-      "url": "https://www.finanzen.ch/nachrichten/aktien/eurex-dax-futures-im-fruehhandel-etwas-fester-1036696368"
+      "title": "wallstreet-online: DAX bleibt an der 26.000 dran",
+      "url": "https://www.wallstreet-online.de/nachricht/21623529-aktien-frankfurt-schluss-dax-bleibt-26-000-dran-us-techs-stabilisieren-apple-zahlen"
     },
     {
-      "title": "Bloomberg via swissinfo: Markets Wrap, 2.11.2026",
-      "url": "https://swissinfo.ch/eng/stock-selloff-eases-in-asian-trade,-oil-declines:-markets-wrap/92310840"
+      "title": "Reuters via Yahoo: Asian stocks retreat ahead of US midterms",
+      "url": "https://finance.yahoo.com/markets/world-indices/articles/asian-stocks-retreat-ahead-us-022420502.html"
     },
     {
-      "title": "AP: Asian shares mostly advance, oil sinks 3.3%",
-      "url": "https://www.clickondetroit.com/business/2026/11/02/asian-shares-mostly-advance-but-tech-stocks-remain-volatile-while-oil-sinks-33/"
+      "title": "Reuters via The Star: Asian stocks retreat, oil steadies",
+      "url": "https://www.thestar.com.my/business/business-news/2026/11/03/asian-stocks-retreat-ahead-of-us-midterms-oil-steadies"
     },
     {
-      "title": "Aju Press: KOSPI rises despite chip rout",
-      "url": "https://www.ajupress.com/view/20261102103835904"
+      "title": "finanzen.net: Tagesvorschau 3. November 2026",
+      "url": "https://www.finanzen.net/nachricht/aktien/tagesvorschau-termine-am-3-november-2026-16030620"
     },
     {
-      "title": "Saxo: Asia Market Quick Take, 2.11.2026",
-      "url": "https://www.home.saxo/en-ch/content/articles/macro/asia-market-quick-take-02-november-2026-02112026"
+      "title": "boersennews: Tagesvorschau 3. November",
+      "url": "https://www.boersennews.de/nachrichten/service/community/tagesvorschau-3-november-boersentermine-biontech-pfizer-und-amgen-pharma-zahlen-am-us-wahltag/5334974/"
     },
     {
-      "title": "TradingView/CNBC TV18: Asia markets, 2.11.2026",
-      "url": "https://www.tradingview.com/news/cnbctv:d3b11974e094b:0/"
-    },
-    {
-      "title": "CoinDesk: Binance öffnet Auszahlungen",
-      "url": "https://www.coindesk.com/markets/2026/11/01/binance-opens-crypto-withdrawals-in-phases-starting-with-bitcoin-following-usd6-3-billion-hack"
-    },
-    {
-      "title": "MacRumors: Apple Q4 2026 am 2.11.",
-      "url": "https://www.macrumors.com/2026/10/06/apple-q4-2026-earnings-nov-2/"
-    },
-    {
-      "title": "MarketBeat: Apple Konsens Q4 2026",
-      "url": "https://www.marketbeat.com/earnings/reports/2026-11-2-apple-inc-stock/"
-    },
-    {
-      "title": "DER AKTIONÄR: Wochenradar 2.-8. November 2026",
-      "url": "https://www.deraktionaer.de/artikel/maerkte-forex-zinsen/der-aktionaer-wochenradar-2-bis-8-november-2026-20429316.html"
-    },
-    {
-      "title": "finanzen.at: Tagesvorschau Montag, 2. November",
-      "url": "https://www.finanzen.at/nachrichten/aktien/tagesvorschau-montag-2-november-1036696371"
-    },
-    {
-      "title": "boerse.de: Amazon historische Kurse",
-      "url": "https://www.boerse.de/historische-kurse/Amazon-Aktie/US0231351067"
-    },
-    {
-      "title": "boerse.de: iShares Core MSCI World",
-      "url": "https://www.boerse.de/historische-kurse/iShares-Core-MSCI-World-UCITS-ETF-USD-Acc/IE00B4L5Y983"
-    },
-    {
-      "title": "CoinGecko: BTC/EUR",
-      "url": "https://www.coingecko.com/en/coins/bitcoin/eur"
+      "title": "ad-hoc-news: Zalando Quartalszahlen am 3. November",
+      "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/zalando-aktie-quartalszahlen-am-3-november-im-fokus/70442159"
     },
     {
       "title": "Investing.com: NVIDIA-Zahlen am 17.11.",
       "url": "https://www.investing.com/news/company-news/nvidia-schedules-q3-fiscal-2027-earnings-call-for-nov-17-93CH-4980909"
-    },
-    {
-      "title": "Ameriprise: Midterm elections 2026",
-      "url": "https://www.ameriprise.com/financial-news-research/insights/midterm-elections-2026-key-investor-takeaways"
     },
     {
       "title": "CryptoTicker: EZB-Zinsentscheid und Termine",
