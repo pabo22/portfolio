@@ -1,273 +1,267 @@
 {
-  "updated": "2026-11-05T06:55:00+01:00",
-  "headline": "Dow +3 % nach Kongresswahl, Öl -8 %, KI-Werte unter Druck",
-  "summary": "Nach dem demokratischen Sieg in beiden Kammern stieg der Dow am Mittwoch um 3,0 %, der stärkste Tag seit April 2025. Der S&P 500 gewann 1,6 %, die Nasdaq 1,4 %. Anleger schichteten aus KI-Infrastruktur in große Plattformen um: Amazon +6,1 %, Microsoft +6,7 %, NVIDIA -3,2 %. Öl brach um gut 8 % ein, WTI schloss bei 88,12 $. Der DAX stieg um 2,2 % auf 26.438 Punkte. Heute früh fallen Chipwerte in Asien weiter, der Kospi zeitweise über 4 %. Um 13:00 Uhr entscheidet die Bank of England, erwartet wird eine Erhöhung auf 4 %.",
+  "updated": "2026-11-06T06:45:00+01:00",
+  "headline": "Nasdaq -5,5 %, KI-Ausverkauf erfasst Wall Street und Asien",
+  "summary": "Am Donnerstag kippte der Markt. Der S&P 500 fiel um 4,4 %, der stärkste Tagesverlust seit April 2025. Die Nasdaq verlor 5,5 % und liegt nun rund 12 % unter dem Rekord. Der Chipindex brach um gut 12 % ein, NVIDIA -9,3 %, AMD -17,3 %. Auslöser ist die Sorge, dass der neue Kongress und lokale Abstimmungen den Bau von Rechenzentren bremsen. Der DAX hielt sich mit -0,4 % deutlich besser. Heute früh fallen Nikkei und Kospi um 6-8 %, in Seoul wurde der Handel kurz ausgesetzt. Um 14:30 Uhr folgt der US-Arbeitsmarktbericht.",
   "indices": [
     {
       "name": "S&P 500",
-      "value": "7.688,62",
-      "chg": 1.58,
-      "asof": "4.11."
+      "value": "7.353,73",
+      "chg": -4.36,
+      "asof": "5.11."
     },
     {
       "name": "Nasdaq",
-      "value": "25.736,51",
-      "chg": 1.44,
-      "asof": "4.11."
+      "value": "24.315,00",
+      "chg": -5.52,
+      "asof": "5.11."
     },
     {
       "name": "Dow Jones",
-      "value": "53.356,12",
-      "chg": 3.03,
-      "asof": "4.11."
+      "value": "51.523,06",
+      "chg": -3.44,
+      "asof": "5.11."
     },
     {
       "name": "Russell 2000",
-      "value": "2.856,95",
-      "chg": 1.58,
-      "asof": "4.11."
+      "value": "2.729,89",
+      "chg": -4.45,
+      "asof": "5.11."
     },
     {
       "name": "DAX",
-      "value": "26.437,67",
-      "chg": 2.22,
-      "asof": "4.11."
+      "value": "26.325,01",
+      "chg": -0.43,
+      "asof": "5.11."
     },
     {
       "name": "US-Rendite 10J",
-      "value": "4,89 %",
+      "value": "4,84 %",
       "chg": null,
-      "asof": "4.11."
+      "asof": "5.11."
     },
     {
       "name": "Öl (WTI)",
-      "value": "88,12 $",
-      "chg": -8.29,
-      "asof": "4.11."
+      "value": "90,52 $",
+      "chg": 2.7,
+      "asof": "5.11."
     },
     {
       "name": "Bitcoin",
-      "value": "ca. 80.200 $",
-      "chg": null,
-      "asof": "4.11. abends"
+      "value": "ca. 75.900 $",
+      "chg": -5.66,
+      "asof": "5.11. abends, 24 Std."
     }
   ],
   "sectors": [
     {
-      "key": "disc",
-      "strength": 2,
-      "text": "Bester S&P-Sektor mit +4,3 %. Amazon +6,1 %. In Frankfurt BMW +5,5 % und Continental +5,2 % nach Zahlen."
-    },
-    {
-      "key": "fin",
-      "strength": 2,
-      "text": "Finanzwerte +3,5 %. Deutsche Bank +6,9 %, Commerzbank rund +5 % vor den heutigen Zahlen. FIS aber -23,7 % nach gesenkter Prognose."
-    },
-    {
       "key": "comm",
-      "strength": 1,
-      "text": "Kommunikation +3,5 %. Nachbörslich fiel Snap um 8,6-11,5 % nach einem knappen Umsatzverfehlen."
+      "strength": 0,
+      "text": "Bester S&P-Sektor mit nur -0,6 %. Charter +4,7 %, Meta aber -4,0 %."
+    },
+    {
+      "key": "util",
+      "strength": 0,
+      "text": "Versorger -0,7 %, als sicherer Hafen gefragt. Rechenzentrums-Stromwerte wie Bloom Energy aber -16,4 %."
+    },
+    {
+      "key": "staples",
+      "strength": 0,
+      "text": "Basiskonsum -0,8 %. Krispy Kreme +30,7 % nach angehobener Umsatzprognose."
     },
     {
       "key": "health",
-      "strength": 1,
-      "text": "Gesundheit +3,1 %. In Frankfurt Fresenius +5,3 % mit angehobener Prognose, Bayer +4,6 %. CVS aber -12,5 % wegen geplanter Aufspaltung."
-    },
-    {
-      "key": "crypto",
-      "strength": 1,
-      "text": "Bitcoin stieg binnen 24 Stunden um rund 3,7 % auf etwa 80.200 $, nach einem Tief nahe 75.000 $ in der Wahlnacht. Ether +6,4 %."
-    },
-    {
-      "key": "it",
       "strength": -1,
-      "text": "Technologie unverändert (-0,01 %), Chipindex -3,1 %. NVIDIA -3,2 %, Micron -7,0 %. Sorge vor Baustopps für Rechenzentren. Heute früh SK Hynix -6-7 %, Advantest -9 %."
+      "text": "Gesundheit -2,5 %. In Frankfurt Bayer +3,7 % und Fresenius Medical Care +3,4 %, in den USA Veracyte -54 %."
+    },
+    {
+      "key": "fin",
+      "strength": -1,
+      "text": "Finanzwerte -2,9 %. Coinbase -9,7 %, in Frankfurt Commerzbank -2,8 % nach Zahlen, Deutsche Börse +2,8 %."
+    },
+    {
+      "key": "disc",
+      "strength": -1,
+      "text": "Zyklischer Konsum -3,8 %. Tesla -10,8 %, Amazon -2,2 %. Home Depot +6,5 %, Zalando +3,8 %. Airbnb nachbörslich rund +7-11 %."
     },
     {
       "key": "ind",
       "strength": -1,
-      "text": "Industrie -1,1 %. GE Vernova -9,3 %, Rüstungswerte schwach: Lockheed -6,9 %. Rheinmetall senkte am Abend die Jahresprognose."
+      "text": "Industrie -4,1 %. GE Vernova -7,5 %. In Frankfurt Rheinmetall -16,1 % nach gesenkter Prognose, Siemens Energy -4,7 %."
     },
     {
-      "key": "energy",
+      "key": "crypto",
       "strength": -2,
-      "text": "Schwächster Sektor mit -4,7 %. WTI -8,3 % auf 88,12 $, Brent -8,7 % auf 94,62 $. Hoffnung auf Diplomatie mit dem Iran, Peabody -17,6 %."
+      "text": "Bitcoin fiel binnen 24 Stunden um rund 5,7 % auf etwa 75.900 $, Ether -7,8 %. Der Bitcoin-ETF IBIT verlor 5,1 %."
+    },
+    {
+      "key": "it",
+      "strength": -2,
+      "text": "Technologie -8,0 %, schwächster Sektor. Chipindex rund -12 %. NVIDIA -9,3 %, Micron -17,5 %, Broadcom -10,4 %. Infineon -8,5 %. Heute früh SK Hynix -12 %, Samsung -10 %."
     }
   ],
   "movers": {
     "us": {
-      "asof": "4.11.",
+      "asof": "5.11.",
       "up": [
         {
-          "name": "Kyndryl",
-          "chg": 30.14,
-          "why": "Gewinn je Aktie über Erwartung, Aufträge von 4,1 Mrd. $"
-        },
-        {
-          "name": "Duolingo",
-          "chg": 25.99,
-          "why": "Umsatz über Erwartung, 29 % mehr tägliche Nutzer"
-        },
-        {
           "name": "AppLovin",
-          "chg": 19.23,
-          "why": "Nachbörslich, Gewinn und Umsatzprognose über Erwartung"
+          "chg": 31.04,
+          "why": "Gewinn über Erwartung, starke Umsatzprognose"
         },
         {
-          "name": "Apple",
-          "chg": 5.31,
-          "why": "Rekordhoch, Umschichtung in große Plattformwerte"
+          "name": "Krispy Kreme",
+          "chg": 30.68,
+          "why": "Umsatzprognose für 2026 angehoben"
+        },
+        {
+          "name": "Portillo's",
+          "chg": 28.81,
+          "why": "Prognose für das operative Ergebnis angehoben"
+        },
+        {
+          "name": "EPAM",
+          "chg": 20.63,
+          "why": "Aktienrückkauf um 1,5 Mrd. $ aufgestockt"
         }
       ],
       "down": [
         {
-          "name": "FIS",
-          "chg": -23.67,
-          "why": "Gewinnprognose gesenkt, Finanzchef geht"
+          "name": "MNTN",
+          "chg": -54.68,
+          "why": "Umsatzprognose gesenkt, neuer Chef"
         },
         {
-          "name": "Trimble",
-          "chg": -17.31,
-          "why": "Wachstumsziel für wiederkehrende Umsätze gesenkt"
+          "name": "Veracyte",
+          "chg": -54.3,
+          "why": "Umsatzprognose für Tests gesenkt"
         },
         {
-          "name": "CVS Health",
-          "chg": -12.53,
-          "why": "Plan zur Aufspaltung in zwei Firmen bis 2028"
+          "name": "Sandisk",
+          "chg": -22.26,
+          "why": "Ausverkauf bei Speicher- und KI-Werten"
         },
         {
-          "name": "Qualcomm",
-          "chg": -6.18,
-          "why": "Nachbörslich, Ausblick unter Erwartung, Handychip-Umsatz -26 %"
+          "name": "AMD",
+          "chg": -17.26,
+          "why": "Sorge vor weniger Rechenzentrumsbau"
         }
       ]
     },
     "de": {
-      "asof": "4.11.",
+      "asof": "5.11.",
       "up": [
         {
-          "name": "Heidelberg Materials",
-          "chg": 8.5,
-          "why": "Starkes drittes Quartal, Jahresziele bestätigt"
+          "name": "Zalando",
+          "chg": 3.75,
+          "why": "Bester DAX-Wert, kein konkreter Anlass genannt"
         },
         {
-          "name": "Deutsche Bank",
-          "chg": 6.88,
-          "why": "Zinserwartungen und Aufnahme in Goldman-Favoritenliste"
+          "name": "Bayer",
+          "chg": 3.65,
+          "why": "Erholung defensiver Werte"
         },
         {
-          "name": "BMW",
-          "chg": 5.5,
-          "why": "Trotz zweiter Senkung der Margenprognose, Hoffnung auf Umbau"
+          "name": "Fresenius Medical Care",
+          "chg": 3.42,
+          "why": "Erholung defensiver Werte"
         },
         {
-          "name": "Fresenius",
-          "chg": 5.27,
-          "why": "Gewinnziel in die obere Hälfte der Spanne angehoben"
+          "name": "BASF",
+          "chg": 3.3,
+          "why": "Gewinne bei Chemiewerten"
         }
       ],
       "down": [
         {
-          "name": "Siemens Energy",
-          "chg": null,
-          "why": "rund -8 %, Verkauf von KI- und Rechenzentrumswerten"
-        },
-        {
-          "name": "Aixtron",
-          "chg": -6.3,
-          "why": "Schwäche bei Halbleitern"
+          "name": "Rheinmetall",
+          "chg": -16.14,
+          "why": "Umsatz- und Margenziel 2026 gesenkt, Aufträge verschoben"
         },
         {
           "name": "Infineon",
-          "chg": -4.1,
-          "why": "Schwäche bei Halbleitern"
+          "chg": -8.54,
+          "why": "Ausverkauf bei Halbleitern"
+        },
+        {
+          "name": "Hochtief",
+          "chg": -4.73,
+          "why": "Sorge um Rechenzentrumsbau"
+        },
+        {
+          "name": "Siemens Energy",
+          "chg": -4.7,
+          "why": "Verkauf von KI- und Stromnetzwerten"
         }
       ]
     }
   },
   "triggers": [
     {
-      "title": "Demokraten kontrollieren den Kongress",
+      "title": "KI-Ausverkauf nach der Kongresswahl",
       "sectors": [
-        "disc",
-        "fin",
         "it",
-        "ind"
-      ],
-      "text": "Die Demokraten haben Repräsentantenhaus und Senat gewonnen. Trump sagte, er werde das Ergebnis akzeptieren und notfalls alles mit Veto blockieren. Szenarien: Stillstand mit wenig neuen Gesetzen, was Märkte oft gelassen sehen. Oder mehr Druck auf KI, Rechenzentren und Rüstung, falls Ausschüsse und Bundesstaaten schärfer prüfen. Die Märkte reagierten zunächst mit breiten Kursgewinnen."
-    },
-    {
-      "title": "Ölpreis bricht ein",
-      "sectors": [
-        "energy",
         "ind",
-        "disc"
+        "util"
       ],
-      "text": "WTI fiel um 8,3 % auf 88,12 $, Brent um 8,7 % auf 94,62 $. Auslöser sind Erwartungen, dass ein neuer Kongress den Iran-Kurs bremst, und Vermittlung durch Katar. Iran nennt die US-Antwort aber nicht überzeugend, im Golf von Hormus gab es neue Berichte über Tankerbrände. Heute früh WTI rund 87-88 $."
+      "text": "Der Chipindex fiel um gut 12 %, der schwächste Tag seit März 2020. Anleger fürchten Pausen beim Bau von Rechenzentren. Laut einer Zählung lehnten Wähler 39 von 40 lokalen Vorlagen zu Rechenzentren ab. UBS-Strategen sehen rund 30 % der für 2028 geplanten Zubauten gefährdet. Szenarien: Bleibt es bei Anhörungen und lokalen Verzögerungen, könnte sich der Druck legen. Folgen schärfere Regeln in Bund und Ländern, wären Chip- und Stromwerte länger belastet."
     },
     {
-      "title": "Ausverkauf bei KI-Infrastruktur",
+      "title": "Absturz in Asien",
       "sectors": [
         "it"
       ],
-      "text": "Der Chipindex fiel um 3,1 %, NVIDIA um 3,2 %. Laut Goldman Sachs könnten rund 45 % der geplanten US-Rechenzentrumskapazität von Pausen in Bundesstaaten betroffen sein, wohl aber nur kurz. Heute früh Kospi zeitweise über -4 %, SK Hynix rund -7 %, Tokyo Electron -7,7 %."
+      "text": "Heute früh fiel der Nikkei um rund 6 %, der Kospi um 7-8,5 % auf etwa 5.000 Punkte. In Seoul wurde der Handel für 20 Minuten ausgesetzt. Taiwan verlor über 8 %. SK Hynix -12,3 %, Samsung -10,1 %. Australien nur -0,7 %."
     },
     {
-      "title": "Zinsen: Inflation steigt, Bank of England entscheidet",
+      "title": "Bank of England erhöht, Fed-Erwartung sinkt",
       "sectors": [
         "fin",
         "re",
         "crypto"
       ],
-      "text": "Die Inflation im Euroraum stieg im Oktober auf 4,0 %, die Kernrate blieb bei 2,5 %. Heute um 13:00 Uhr erwartet die Mehrheit eine Erhöhung der Bank of England von 3,75 % auf 4,00 %. Für die Fed im Dezember preist der Markt laut CME FedWatch rund 77-82 % für eine Erhöhung ein. Die 10-jährige US-Rendite fiel auf 4,89 %."
+      "text": "Die Bank of England hob den Leitzins mit 8:1 Stimmen auf 4,00 % an, die erste Erhöhung seit 2023. Für die Fed im Dezember sank die Wahrscheinlichkeit einer Erhöhung laut CME FedWatch auf rund 66-70 %, nach über 80 % am Mittwoch. Die 10-jährige US-Rendite fiel auf 4,84 %."
     },
     {
-      "title": "Gold steigt kräftig",
+      "title": "Öl wieder teurer",
       "sectors": [
-        "mat"
+        "energy",
+        "ind"
       ],
-      "text": "Gold stieg am Mittwoch um rund 3,3 % auf 4.070 $, heute früh rund 4.135 $. Silber +5,4 % auf 52,29 $. Der Dollar gibt nach, EUR/USD rund 1,126."
+      "text": "Nach dem Einbruch vom Mittwoch stieg WTI um 2,7 % auf 90,52 $, Brent um 3,8 % auf 98,29 $. Grund sind neue Sorgen um Lieferungen aus dem Iran und Angriffe auf Tanker nahe der Straße von Hormus. Energiewerte fielen trotzdem um 3,0 %."
+    },
+    {
+      "title": "US-Arbeitsmarkt heute um 14:30 Uhr",
+      "sectors": [
+        "fin",
+        "it",
+        "crypto"
+      ],
+      "text": "Erwartet werden rund 65.000 neue Stellen und eine Arbeitslosenquote von 4,2 %. Die Erstanträge sanken zuletzt auf 189.000. Ein starker Bericht würde eine Fed-Erhöhung im Dezember wieder wahrscheinlicher machen, ein schwacher die Wachstumssorgen verstärken."
     }
   ],
   "positions": {
-    "NVDA": "Fiel am Mittwoch um 3,2 %, auf Xetra schloss die Aktie bei 180,56 €. Belastend ist die Sorge vor Baustopps für Rechenzentren. Heute früh werden Chipwerte in Asien weiter verkauft. Eigene Zahlen am 17.11.",
-    "AMZN": "Stieg um 6,1 % auf rund 266 $, bei Lang & Schwarz abends 238,73 €. Keine Firmennachricht, Anleger setzen auf große Plattformen statt auf reine KI-Infrastruktur. Mögliche strengere Prüfung von KI-Investitionen bleibt ein Risiko.",
-    "BTC": "Bitcoin erholte sich von rund 75.000 $ in der Wahlnacht auf etwa 80.200 $, am Abend rund 71.700 €. Fallende Renditen und ein schwächerer Dollar stützen. Morgen der US-Arbeitsmarktbericht.",
-    "WORLD": "Breite Gewinne in den USA, S&P 500 +1,6 %, gleichgewichteter Index +1,9 %. Das hohe Gewicht von Tech-Konzernen wirkt gemischt: Apple und Microsoft stark, NVIDIA schwach. Der schwächere Dollar drückt den Euro-Wert.",
-    "EM": "Korea und Taiwan leiden unter dem Chip-Ausverkauf: Kospi zeitweise über -4 %, Taiex -1,6 %. Hongkong dagegen +2,8 %, China kaum verändert bis fest.",
-    "EUROPE": "DAX +2,2 % auf 26.438 Punkte, nahe dem Rekord. Gewinner waren Banken, Autos und Gesundheit. Heute Zahlen von Telekom, Commerzbank, DHL und Siemens Healthineers, Rheinmetall senkte die Prognose. Um 13:00 Uhr die Bank of England."
+    "NVDA": "Fiel um 9,3 % auf 181,60 $, abends im europäischen Handel rund 162 €. Damit ist das Plus seit Jahresbeginn in Dollar weg. Berichte über Gespräche mit Apollo zu kleinen Rechenzentren gelten als vorläufig. Heute früh werden Zulieferer in Asien stark verkauft. Zahlen am 17.11.",
+    "AMZN": "Stieg vorbörslich, schloss dann aber 2,2 % tiefer bei 260,21 $. Die FTC und 22 Bundesstaaten legten eine ergänzte Klage zum Werbegeschäft vor, es sind Vorwürfe in einem laufenden Verfahren. Neu ist ein Prime-Angebot mit Uber Eats in den USA.",
+    "BTC": "Bitcoin fiel binnen 24 Stunden um rund 5,7 % auf etwa 75.900 $ und gab damit den Großteil der Erholung nach der Wahl ab. Krypto litt mit den Tech-Werten. Heute bewegt der Arbeitsmarktbericht die Zinserwartungen.",
+    "WORLD": "Der S&P 500 verlor 4,4 %, alle 11 Sektoren fielen. Der gleichgewichtete Index gab nur 2,9 % nach, das hohe Tech-Gewicht im ETF wirkt also belastend. Heute früh kommen Verluste aus Japan dazu.",
+    "EM": "Taiwan und Korea haben ein großes Gewicht und werden heute stark verkauft: Kospi mit Handelsstopp, Taiwan über -8 %. SK Hynix -12 %, Samsung -10 %. Hongkong hatte am Donnerstag noch 3,7 % zugelegt.",
+    "EUROPE": "Europa hielt sich deutlich besser: DAX -0,4 % auf 26.325 Punkte, FTSE 100 ebenfalls -0,4 %. Chemie und Gesundheit stiegen, Rheinmetall und Infineon fielen stark. Heute dürften die Verluste aus den USA und Asien nachwirken."
   },
   "events": [
-    {
-      "date": "2026-11-05",
-      "time": "07:00 / 13:00 / 14:30 / 22:00",
-      "title": "Bank of England, Zahlen Telekom, Commerzbank, DHL, Airbnb",
-      "kind": "Zinsen",
-      "text": "Früh berichten Deutsche Telekom, Commerzbank, DHL, Siemens Healthineers, Rheinmetall und Hensoldt. Um 13:00 Uhr die Bank of England, erwartet wird eine Erhöhung auf 4,00 %. Um 14:30 Uhr US-Erstanträge auf Arbeitslosenhilfe und Produktivität. Abends Airbnb.",
-      "sectors": {
-        "fin": "Banken reagieren auf höhere Zinsen, Commerzbank berichtet.",
-        "comm": "Deutsche Telekom berichtet.",
-        "ind": "Rheinmetall, Hensoldt und DHL berichten.",
-        "disc": "Airbnb zeigt die Reiselage."
-      },
-      "positions": {
-        "EUROPE": "Großbritannien ist ein großes Gewicht im ETF, dazu mehrere DAX-Schwergewichte.",
-        "WORLD": "US-Konjunkturdaten am Nachmittag."
-      }
-    },
     {
       "date": "2026-11-06",
       "time": "14:30",
       "title": "US-Arbeitsmarktbericht (Oktober)",
       "kind": "Konjunktur",
-      "text": "Im September entstanden nur 29.000 Stellen, die Arbeitslosenquote lag bei 4,2 %. ADP meldete für Oktober 86.000 neue Stellen bei erwarteten 75.000. Ein starker Bericht würde eine Fed-Erhöhung im Dezember wahrscheinlicher machen.",
+      "text": "Im September entstanden nur 29.000 Stellen. Für Oktober werden rund 65.000 neue Stellen und eine Quote von 4,2 % erwartet. ADP meldete 86.000. Nach dem Ausverkauf achten Anleger auf Wachstum und Zinsen zugleich.",
       "sectors": {
         "it": "Zinsempfindlich.",
         "fin": "Profitiert eher von höheren Zinsen."
       },
       "positions": {
         "BTC": "Zinserwartungen bewegen Bitcoin.",
-        "WORLD": "Breite Marktreaktion möglich."
+        "WORLD": "Breite Marktreaktion möglich.",
+        "NVDA": "Bei Zinssorgen leiden Wachstumswerte zusätzlich."
       }
     },
     {
@@ -291,7 +285,7 @@
       "time": "nach US-Schluss",
       "title": "Zahlen NVIDIA (Q3 FY27)",
       "kind": "Zahlen",
-      "text": "Prognose für das Quartal: 108 Mrd. $ Umsatz. Nach dem Ausverkauf bei KI-Infrastruktur rücken Aussagen zu Rechenzentren und Nachfrage in den Fokus.",
+      "text": "Prognose für das Quartal: 108 Mrd. $ Umsatz. Nach dem Einbruch des Chipindex um gut 12 % stehen Aussagen zu Rechenzentren, Aufträgen und China im Fokus.",
       "sectors": {
         "it": "Bewegt den gesamten Chip- und KI-Sektor."
       },
@@ -342,7 +336,7 @@
       "time": "20:00",
       "title": "Fed-Zinsentscheid Dezember",
       "kind": "Zinsen",
-      "text": "Sitzung am 8. und 9.12., mit neuen Projektionen (Dot Plot). Leitzins derzeit 3,75-4,00 %. Laut CME FedWatch rund 77-82 % Wahrscheinlichkeit einer Erhöhung um 0,25 Punkte. Die November-Inflation kommt erst am 10.12.",
+      "text": "Sitzung am 8. und 9.12., mit neuen Projektionen (Dot Plot). Leitzins derzeit 3,75-4,00 %. Laut CME FedWatch zuletzt rund 66-70 % Wahrscheinlichkeit einer Erhöhung um 0,25 Punkte, nach über 80 % Mitte der Woche.",
       "sectors": {
         "it": "Zinsempfindlich.",
         "fin": "Profitiert eher.",
@@ -373,60 +367,48 @@
   "closes": {},
   "sources": [
     {
-      "title": "CappNotes: Closing Look, 4.11.2026",
-      "url": "https://cappnotes.substack.com/p/closing-look-wednesday-november-4"
+      "title": "CappNotes: Closing Look, 5.11.2026",
+      "url": "https://cappnotes.substack.com/p/closing-look-thursday-november-5"
     },
     {
-      "title": "StockTitan: Stock Market Today, 4.11.2026",
-      "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-4-2026"
+      "title": "StockTitan: Stock Market Today, 5.11.2026",
+      "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-5-2026"
     },
     {
-      "title": "TheStreet: Stock Market Today, 4.11.2026",
-      "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-04-2026"
+      "title": "JournalArta: Wall Street close, Nasdaq -5,52 %",
+      "url": "https://journalarta.com/en/2026/11/06/wall-street-close-nasdaq-sinks-5-52-and-sp-500-falls-4-36-as-ai-stocks-slide/"
     },
     {
-      "title": "ad-hoc-news: DAX schließt 2,22 Prozent höher",
-      "url": "https://www.ad-hoc-news.de/boerse/news/marktberichte/dax-schliesst-am-4-november-2-22-prozent-hoeher-bei-26-437-67-punkten/70458949"
+      "title": "Motley Fool: Stock Market Today, 5.11.2026",
+      "url": "https://www.fool.com/coverage/stock-market-today/2026/11/05/stock-market-today-nov-5-nasdaq-suffers-worst-day-in-18-months-as-ai-trade-comes-under-fire/"
     },
     {
-      "title": "JKN: DAX schließt nahe Rekordhoch",
-      "url": "https://news.jkn.co.kr/editions/german/post/1070745"
+      "title": "aktiencheck: DAX gibt rund 0,5 Prozent nach",
+      "url": "https://aktiencheck.de/artikel/dax-gibt-rund-05-prozent-nach-zalando-an-der-spitze-rheinmetall-bricht-ein"
     },
     {
-      "title": "AP/WSLS: Asian shares mostly advance, Kospi falls",
-      "url": "https://www.wsls.com/business/2026/11/05/asian-shares-mostly-advance-following-us-midterms-though-kospi-falls-on-selling-of-chipmakers/"
+      "title": "marketscreener: EUREX/DAX-Futures, 5.11.2026",
+      "url": "https://de.marketscreener.com/boerse-nachrichten/eurex-dax-futures-etwas-fester-wieder-zeit-fuer-konjunkturdaten-ce785fdcda88f520"
     },
     {
-      "title": "investingLive: Asia-Pacific market news, 5.11.2026",
-      "url": "https://investinglive.com/news/investinglive-asia-pacific-market-news-gold-rocketed-higher-still/"
+      "title": "AP/KSAT: Nikkei falls more than 6%",
+      "url": "https://www.ksat.com/business/2026/11/06/japans-nikkei-falls-more-than-6-as-asian-benchmarks-tumble-after-wall-street-drop/"
     },
     {
-      "title": "investingLive: Bank of England Preview",
-      "url": "https://investinglive.com/central-banks/bank-of-england-preview-first-hike-to-4-expected-as-energy-pushes-inflation-to-3-5/"
+      "title": "TradingKey: Kospi Circuit Breaker",
+      "url": "https://www.tradingkey.com/analysis/stocks/more/262287971-japan-korea-stocks-skhy-kospi-nikkei-samsung-skhynix-softbank-kioxia-mu-sox-tradingkey"
     },
     {
-      "title": "Euronews: Eurozone inflation hits 4%",
-      "url": "https://www.euronews.com/2026/11/04/eurozone-inflation-hits-4-which-countries-saw-prices-jump-the-most"
+      "title": "The National: Asian stocks plunge",
+      "url": "https://www.thenationalnews.com/business/markets/2026/11/06/nasdaq-plunges-5-as-investors-dump-ai-stocks-after-midterms/"
     },
     {
-      "title": "finanznachrichten: Tagesvorschau 5. November 2026",
-      "url": "https://www.finanznachrichten.de/nachrichten-2026-11/70035514-tagesvorschau-termine-am-5-november-2026-016.htm"
+      "title": "Goldesel: NVIDIA-Aktie, Kursrutsch",
+      "url": "https://goldesel.de/aktien/news/nvidia-aktie-tech-ausverkauf-stellt-ki-gewinnerwartungen-infrage"
     },
     {
-      "title": "Der Aktionär: Rheinmetall senkt Ausblick",
-      "url": "https://www.deraktionaer.de/artikel/aktien/trotz-starkem-quartal-rheinmetall-senkt-ausblick-20433852.html"
-    },
-    {
-      "title": "ad-hoc-news: Nvidia-Aktie, Xetra-Schluss 4.11.",
-      "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/nvidia-aktie-china-bestellt-rtx-chips-lieferung-bleibt-knapp/70458711"
-    },
-    {
-      "title": "ad-hoc-news: Amazon-Aktie, 4.11. abends",
-      "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/amazon-com-aktie-aws-wachstum-trifft-auf-hohe-ki-ausgaben/70458827"
-    },
-    {
-      "title": "tixio: Bitcoin-Kurs bei 71.697 Euro",
-      "url": "https://www.tixio.de/1356728-bitcoin-kurs-bei-71-69700-euro-312-gestiegen.html"
+      "title": "Goldesel: Amazon-Aktie, FTC-Klage",
+      "url": "https://goldesel.de/aktien/news/amazoncom-aktie-ftc-aktualisiert-klage-tech-ausverkauf-druckt-kurs"
     },
     {
       "title": "BLS: Release Schedule 2026",
