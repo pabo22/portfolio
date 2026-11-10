@@ -1,270 +1,247 @@
 {
-  "updated": "2026-11-09T06:50:00+01:00",
-  "headline": "Chipwerte erholt, Nvidia-Chef unter interner Prüfung",
-  "summary": "Am Freitag fingen sich die US-Börsen nach dem Ausverkauf. Die Nasdaq stieg um 1,1 %, der S&P 500 um 0,3 %, der Dow verlor 0,5 %. NVIDIA legte 2,8 % zu, AMD 11 %. Auf Wochensicht bleibt ein Minus von 2,7 % (S&P) und 3,4 % (Nasdaq). Der Arbeitsmarkt war mit 165.000 neuen Stellen deutlich stärker als erwartet, das stützt Wetten auf eine Fed-Erhöhung im Dezember. Der DAX fiel am Freitag um 1,9 % auf 25.820 Punkte. Am Wochenende kündigte NVIDIA eine Prüfung zu Chef Jensen Huang an, die Aktie gab außerbörslich rund 3 % nach. Heute früh erholt sich Asien kräftig, Taiwan +5,7 %, Nikkei +3,5 %. Der DAX-Future liegt bei 25.869 Punkten.",
+  "updated": "2026-11-10T07:10:00+01:00",
+  "headline": "Kräftige Erholung an der Wall Street, heute zählt die US-Inflation",
+  "summary": "Die US-Börsen erholten sich am Montag deutlich. Der S&P 500 stieg um 2,35 %, der beste Tag seit dem 8. April. Die Nasdaq legte 2,74 % zu, der Chipindex SOX 6,85 %. Auslöser war vor allem der Ölpreis: WTI fiel um 4,1 %, nachdem Trump neue Angriffe auf den Iran während der Gespräche als höchst unwahrscheinlich bezeichnete. NVIDIA verlor dagegen 4,3 % wegen der internen Prüfung zu Chef Jensen Huang. Der DAX stieg um 1,7 % auf 26.267 Punkte. Heute früh steigt Asien weiter, der Kospi um rund 4 %, Taiwan um 3,4 %. Um 14:30 Uhr kommen die US-Inflationsdaten für Oktober.",
   "indices": [
     {
       "name": "S&P 500",
-      "value": "7.376,86",
-      "chg": 0.31,
-      "asof": "6.11."
+      "value": "7.549,94",
+      "chg": 2.35,
+      "asof": "9.11."
     },
     {
       "name": "Nasdaq",
-      "value": "24.579,42",
-      "chg": 1.09,
-      "asof": "6.11."
+      "value": "25.253,14",
+      "chg": 2.74,
+      "asof": "9.11."
     },
     {
       "name": "Dow Jones",
-      "value": "51.285,73",
-      "chg": -0.46,
-      "asof": "6.11."
+      "value": "52.389,75",
+      "chg": 2.15,
+      "asof": "9.11."
     },
     {
       "name": "Russell 2000",
-      "value": "2.754,11",
-      "chg": 0.89,
-      "asof": "6.11."
+      "value": "2.840,81",
+      "chg": 3.15,
+      "asof": "9.11."
     },
     {
       "name": "DAX",
-      "value": "25.820,36",
-      "chg": -1.92,
-      "asof": "6.11., Future 9.11. früh 25.869"
+      "value": "26.267,19",
+      "chg": 1.73,
+      "asof": "9.11."
     },
     {
       "name": "US-Rendite 10J",
-      "value": "4,86 %",
+      "value": "4,88 %",
       "chg": null,
-      "asof": "6.11."
+      "asof": "9.11., +2 Basispunkte"
     },
     {
       "name": "Öl (WTI)",
-      "value": "90,34 $",
-      "chg": -0.2,
-      "asof": "6.11."
+      "value": "87,07 $",
+      "chg": -4.14,
+      "asof": "9.11., 10.11. früh ca. 86 $"
     },
     {
       "name": "Bitcoin",
-      "value": "ca. 74.500 $",
-      "chg": -1.6,
-      "asof": "9.11. früh, 24 Std."
+      "value": "ca. 74.900 $",
+      "chg": 0.2,
+      "asof": "9.11."
     }
   ],
   "sectors": [
     {
-      "key": "it",
-      "strength": 1,
-      "text": "Technologie +1,5 %, bester S&P-Sektor am Freitag. AMD +11,0 %, Coherent +13,6 %, NVIDIA +2,8 %. Auf Wochensicht aber -8,2 %. Microchip -10,0 % nach Zahlen."
+      "key": "ind",
+      "strength": 2,
+      "text": "Industrie +3,8 %, bester S&P-Sektor. Caterpillar +7,2 % dank Nachfrage nach Strom für Rechenzentren. In Frankfurt Rüstungswerte wie Hensoldt und Renk bis +6,9 %."
     },
     {
-      "key": "comm",
-      "strength": 1,
-      "text": "Kommunikation +0,4 % und mit +4,9 % bester Sektor der Woche. Charter fiel aber um 6,2 % nach Kundenverlusten im Internetgeschäft."
+      "key": "it",
+      "strength": 2,
+      "text": "Technologie +3,7 %. AMD +13,3 % nach Hochstufung, Broadcom +8,8 %, Micron +6,3 %. NVIDIA fiel als Ausnahme um 4,3 %. Infineon +6,3 %."
     },
     {
       "key": "disc",
-      "strength": 0,
-      "text": "Gemischt. Airbnb +11,7 % nach Zahlen und angehobener Umsatzprognose, DraftKings -21,3 % nach höherem Verlust. Amazon -0,4 %."
-    },
-    {
-      "key": "ind",
-      "strength": 0,
-      "text": "Uneinheitlich. Axon -18,2 % nach schwacher Prognose. In Frankfurt Hochtief +5,5 % und Siemens Energy +4,1 %, dagegen DHL -4,7 % und Siemens -3,5 %."
+      "strength": 1,
+      "text": "Zyklischer Konsum +2,9 %. Tesla gewann über 5 % nach Ausbau des Robotaxi-Angebots. Amazon legte in Euro rund 1,7 % zu."
     },
     {
       "key": "fin",
-      "strength": -1,
-      "text": "Finanzwerte -0,6 %. In Frankfurt fielen die Rückversicherer stark: Hannover Rück -4,4 %, Munich Re -4,3 %. Hannover Rück legt heute Zahlen vor."
-    },
-    {
-      "key": "energy",
-      "strength": -1,
-      "text": "Energie war mit -12,0 % der schwächste Sektor der Woche. WTI fiel in der Woche um rund 13 % auf 90,34 $, Grund sind Hoffnungen auf Verhandlungen mit dem Iran."
+      "strength": 1,
+      "text": "Finanzwerte +1,5 %, hinter dem Markt. In Frankfurt Commerzbank +3,9 % nach Fusionssignalen von UniCredit, Hannover Rück -1,4 % trotz guter Zahlen."
     },
     {
       "key": "staples",
-      "strength": -1,
-      "text": "Basiskonsum -1,3 %, schwächster S&P-Sektor am Freitag. Anleger schichteten zurück in Technologiewerte um."
+      "strength": 0,
+      "text": "Basiskonsum nur +0,9 %. Anleger bevorzugten Wachstums- und Zykliker."
     },
     {
-      "key": "mat",
-      "strength": -1,
-      "text": "Grundstoffe -0,7 %. Gold fiel um 0,8 % auf rund 4.080 $, liegt auf Wochensicht aber 4,6 % im Plus."
+      "key": "energy",
+      "strength": 0,
+      "text": "Energie mit +0,5 % schwächster S&P-Sektor. WTI fiel um 4,1 % auf 87,07 $, Brent um 5,5 % auf 92,91 $."
     },
     {
       "key": "crypto",
-      "strength": -1,
-      "text": "Bitcoin pendelt um 74.500-76.000 $. Heute früh rund -1,6 % in 24 Stunden, auf Wochensicht etwa -2 %."
+      "strength": 0,
+      "text": "Bitcoin kaum verändert bei rund 74.900 $ (+0,2 %). Die Erholung der Aktien zog nicht mit, die Inflationsdaten heute geben die Richtung vor."
     }
   ],
   "movers": {
     "us": {
-      "asof": "6.11.",
+      "asof": "9.11. (Verlierer außer NVIDIA: Stand Handelsmitte)",
       "up": [
         {
-          "name": "IonQ",
-          "chg": 23.42,
-          "why": "Umsatzprognose 2026 angehoben"
-        },
-        {
           "name": "Coherent",
-          "chg": 13.58,
-          "why": "Erholung bei Optik- und KI-Infrastrukturwerten"
-        },
-        {
-          "name": "Airbnb",
-          "chg": 11.67,
-          "why": "Zahlen über Erwartung, Prognose angehoben"
+          "chg": 17.2,
+          "why": "Quartal und Prognose über Erwartung"
         },
         {
           "name": "AMD",
-          "chg": 11.04,
-          "why": "Führte die Erholung der Chipwerte an"
+          "chg": 13.26,
+          "why": "Hochstufung durch Oppenheimer, Auftrag von Google Cloud"
+        },
+        {
+          "name": "Constellation Energy",
+          "chg": 10.46,
+          "why": "Gewinn über Erwartung, Prognose angehoben"
+        },
+        {
+          "name": "Broadcom",
+          "chg": 8.78,
+          "why": "Breite Erholung der Chipwerte"
         }
       ],
       "down": [
         {
-          "name": "DraftKings",
-          "chg": -21.3,
-          "why": "Quartalsverlust höher als erwartet"
+          "name": "Janux",
+          "chg": -25.64,
+          "why": "Enttäuschende frühe Studiendaten"
         },
         {
-          "name": "Axon",
-          "chg": -18.18,
-          "why": "Zahlen unter Erwartung, schwächere Prognose"
+          "name": "Ionis",
+          "chg": -24.62,
+          "why": "Umsatzprognose für Tryngolza gesenkt"
         },
         {
-          "name": "Microchip",
-          "chg": -10.02,
-          "why": "Analysten senken Schätzungen nach Zahlen"
+          "name": "monday.com",
+          "chg": -5.9,
+          "why": "Wachstumsausblick für Q4 schwächer"
         },
         {
-          "name": "Charter",
-          "chg": -6.19,
-          "why": "233.000 Internetkunden im Quartal verloren"
+          "name": "NVIDIA",
+          "chg": -4.27,
+          "why": "Interne Prüfung zu Chef Jensen Huang"
         }
       ]
     },
     "de": {
-      "asof": "6.11.",
+      "asof": "9.11.",
       "up": [
         {
-          "name": "Hochtief",
-          "chg": 5.54,
-          "why": "Bester DAX-Wert, kein konkreter Anlass genannt"
+          "name": "Infineon",
+          "chg": 6.3,
+          "why": "Erholung der KI-nahen Chipwerte"
         },
         {
           "name": "Siemens Energy",
-          "chg": 4.06,
-          "why": "Hielt sich gegen den Trend, kein konkreter Anlass genannt"
+          "chg": 5.1,
+          "why": "Erholung der KI-Profiteure"
         },
         {
-          "name": "RWE",
-          "chg": 1.02,
-          "why": "Versorger gegen den Trend fester"
+          "name": "Commerzbank",
+          "chg": 3.9,
+          "why": "UniCredit deutet frühere Fusion mit HVB an"
         },
         {
-          "name": "MTU Aero Engines",
-          "chg": 0.78,
-          "why": "Nur 5 von 40 DAX-Werten stiegen"
+          "name": "GEA",
+          "chg": 3.0,
+          "why": "Q3 im Rahmen, Prognose bestätigt"
         }
       ],
       "down": [
         {
-          "name": "DHL Group",
-          "chg": -4.74,
-          "why": "Breiter Ausverkauf, kein konkreter Anlass genannt"
+          "name": "Siemens Healthineers",
+          "chg": -3.4,
+          "why": "Schwächster DAX-Wert, defensive Werte gemieden"
+        },
+        {
+          "name": "Fresenius Medical Care",
+          "chg": -3.0,
+          "why": "Negative Analystenkommentare"
         },
         {
           "name": "Hannover Rück",
-          "chg": -4.37,
-          "why": "Versicherer unter Druck, Zahlen am Montag"
+          "chg": -1.4,
+          "why": "Gewinn über Erwartung, Prognose nur bestätigt"
         },
         {
-          "name": "Munich Re",
-          "chg": -4.27,
-          "why": "Versicherer unter Druck"
-        },
-        {
-          "name": "Siemens",
-          "chg": -3.51,
-          "why": "Breiter Ausverkauf nach KI-Sorgen"
+          "name": "Hochtief",
+          "chg": -1.3,
+          "why": "ACS dementiert Pläne für Komplettübernahme"
         }
       ]
     }
   },
   "triggers": [
     {
-      "title": "Interne Prüfung zu NVIDIA-Chef Huang",
-      "sectors": [
-        "it"
-      ],
-      "text": "NVIDIA lässt unabhängig prüfen, ob Jensen Huang Ziel eines ausländischen Geheimdienstes war. Hintergrund ist eine Beziehung, die Huang eingeräumt hat. Laut Unternehmen gibt es derzeit keine Hinweise, dass Firmengeheimnisse oder die nationale Sicherheit betroffen sind. Der Vorstand spricht Huang sein Vertrauen aus. Außerbörslich fiel die Aktie um rund 3,4 % auf etwa 180,30 $."
-    },
-    {
-      "title": "Starker US-Arbeitsmarkt",
-      "sectors": [
-        "fin",
-        "it",
-        "crypto"
-      ],
-      "text": "Im Oktober entstanden 165.000 Stellen, erwartet waren rund 59.000. Die Arbeitslosenquote sank auf 4,1 %. Die Vormonate wurden um 84.000 nach oben korrigiert. Die Wahrscheinlichkeit einer Fed-Erhöhung im Dezember liegt je nach Quelle bei über 65 % bis knapp 80 %. Der Dollar stieg kräftig."
-    },
-    {
-      "title": "KI-Regulierung nach der Kongresswahl",
-      "sectors": [
-        "it",
-        "ind",
-        "util"
-      ],
-      "text": "Nach dem Wahlerfolg der Demokraten fürchten Anleger strengere Regeln für KI und Rechenzentren. Der Chipsektor erholte sich am Freitag nur teilweise. Szenarien: Bleibt es bei Anhörungen und lokalen Verzögerungen, könnte sich der Druck legen. Kommen schärfere Vorgaben auf Bundes- oder Landesebene, wären Chip-, Strom- und Bauwerte länger belastet."
-    },
-    {
-      "title": "Erholung in Asien",
-      "sectors": [
-        "it"
-      ],
-      "text": "Nach den Verlusten vom Freitag steigt heute der Taiex um rund 5,7 %, der Nikkei um 3,5 % und der Kospi um 1,7 %. Hongkong liegt kaum verändert. SoftBank fiel zum Start um 4,5 %. US-Futures liegen rund 0,6 % im Plus."
-    },
-    {
-      "title": "Iran-Verhandlungen drücken den Ölpreis",
+      "title": "Ölpreis fällt, Iran-Diplomatie",
       "sectors": [
         "energy",
-        "ind"
+        "ind",
+        "disc"
       ],
-      "text": "Hoffnungen auf Fortschritte in Gesprächen über ein Ende des Konflikts mit dem Iran ließen Öl in der Woche um rund 13 % fallen. Brent liegt bei etwa 98 $. Szenarien: Kommen die Gespräche voran, könnte der Preis weiter sinken und die Inflationssorgen dämpfen. Scheitern sie, droht ein erneuter Anstieg."
+      "text": "Trump nannte neue Angriffe auf den Iran während laufender Gespräche höchst unwahrscheinlich. Katars Premier war wegen eines möglichen Abkommens zur Straße von Hormus im Weißen Haus. Außenminister Rubio dämpfte die Hoffnung, eine Einigung sei nicht in Sicht. Szenarien: Kommen die Gespräche voran, könnte Öl weiter fallen und die Inflationssorgen dämpfen. Scheitern sie, droht ein erneuter Anstieg."
+    },
+    {
+      "title": "Chipwerte erholen sich, NVIDIA bleibt zurück",
+      "sectors": [
+        "it"
+      ],
+      "text": "Der Chipindex SOX stieg um 6,85 %, nachdem die Vorwoche als Übertreibung galt. NVIDIA fiel dagegen um 4,3 % auf 178,67 $. Morgan Stanley hält die Reaktion für überzogen, Bernstein verweist auf die starke Abhängigkeit von Huang."
+    },
+    {
+      "title": "US-Inflation heute um 14:30 Uhr",
+      "sectors": [
+        "it",
+        "fin",
+        "re",
+        "crypto"
+      ],
+      "text": "Erwartet werden +0,3 % zum Vormonat und +0,2 % in der Kernrate. Die Jahresrate dürfte auf rund 3,9 % steigen, nach 3,7 %. Händler sehen eine Fed-Erhöhung im Dezember zu rund 80 %. Höhere Werte würden diese Wetten stärken."
+    },
+    {
+      "title": "Asien setzt Erholung fort",
+      "sectors": [
+        "it"
+      ],
+      "text": "Heute früh Kospi +4 %, Taiex +3,4 %, Nikkei +2,6 %. SoftBank +15 %, SK Hynix +5,6 %, Samsung +4,6 %. US-Futures leicht im Plus."
+    },
+    {
+      "title": "Politischer Druck auf NVIDIA",
+      "sectors": [
+        "it"
+      ],
+      "text": "Drei Ausschussvorsitzende im US-Repräsentantenhaus baten um ein vertrauliches Briefing am 18.11. China weist die Vorwürfe als Verleumdung zurück. Szenarien: Bestätigt die Prüfung die Aussagen des Vorstands, könnte sich der Druck legen. Neue Erkenntnisse oder Forderungen aus dem Kongress würden die Unsicherheit verlängern."
     }
   ],
   "positions": {
-    "NVDA": "Stieg am Freitag um 2,8 % auf 186,64 $, in Euro 168,28 €. Am Wochenende kündigte der Konzern eine unabhängige Prüfung zu Chef Jensen Huang an, außerbörslich lag die Aktie danach rund 3 % tiefer. Zahlen am 17.11.",
-    "AMZN": "Schloss am Freitag 0,4 % tiefer bei 259,30 $, in Euro bei 235,45 €. In den genutzten Quellen gab es keine größeren Unternehmensnachrichten. Ab dem 27.11. rückt das Weihnachtsgeschäft in den Blick.",
-    "BTC": "Bitcoin liegt heute früh bei rund 74.500 $, etwa 1,6 % unter dem Vortag. In Euro lag der Kurs am Sonntag um 67.900 €. Die höhere Wahrscheinlichkeit einer Fed-Erhöhung und die US-Inflation am Dienstag bestimmen die Richtung.",
-    "WORLD": "Der S&P 500 stieg am Freitag um 0,3 %, verlor in der Woche aber 2,7 %. Die Erholung war schmal, 318 Werte fielen und 184 stiegen. Heute stützt die Erholung in Japan.",
-    "EM": "Heute deutliche Erholung in Taiwan (+5,7 %) und Korea (+1,7 %), beide haben im ETF großes Gewicht. Am Freitag waren der Kospi um rund 9 % und Taiwan stark gefallen.",
-    "EUROPE": "Der DAX fiel am Freitag um 1,9 % auf 25.820 Punkte und gab damit die Wochengewinne ab. Versicherer und Industrie verloren besonders. Der Future zeigt heute früh einen ruhigen Start an."
+    "NVDA": "Fiel am Montag um 4,3 % auf 178,67 $, im Tief bis 170,24 $. Grund ist die interne Prüfung zu Chef Jensen Huang. Ein Euro-Schlusskurs lag nicht vor. Zahlen am 17.11., am 18.11. ein mögliches Kongress-Briefing.",
+    "AMZN": "Schloss auf Xetra bei 239,40 €, rund 1,7 % über Freitag. JPMorgan hält Amazon auf seiner Favoritenliste und verweist auf das AWS-Wachstum von 39 %. Ab dem 27.11. rückt das Weihnachtsgeschäft in den Blick.",
+    "BTC": "Bitcoin lag am Montag kaum verändert bei rund 74.900 $ und machte die Aktienerholung nicht mit. Ein belegter Euro-Schlusskurs lag nicht vor. Die Inflationsdaten heute um 14:30 Uhr dürften die Richtung bestimmen.",
+    "WORLD": "Der S&P 500 hatte mit +2,35 % den besten Tag seit April. Die Erholung war breit, 418 Werte stiegen, 80 fielen. Der schwächere Dollar mindert den Gewinn in Euro etwas.",
+    "EM": "Heute früh starke Erholung in Korea (+4 %) und Taiwan (+3,4 %). SK Hynix und Samsung legen kräftig zu, beide haben im ETF großes Gewicht.",
+    "EUROPE": "Der DAX stieg um 1,7 % auf 26.267 Punkte, der Euro Stoxx 50 um 1,9 %. Rüstungs-, Chip- und Bankwerte führten, Gesundheitswerte blieben zurück."
   },
   "events": [
-    {
-      "date": "2026-11-09",
-      "time": "10:30",
-      "title": "Sentix-Konjunkturindex Euroraum (November)",
-      "kind": "Konjunktur",
-      "text": "Stimmung der Anleger im Euroraum nach der turbulenten Börsenwoche. Um 07:30 Uhr legten zudem Hannover Rück und GEA Zahlen vor, um 10:00 Uhr äußert sich die Deutsche Telekom zu KI-Infrastruktur.",
-      "sectors": {
-        "fin": "Hannover Rück nach Kursrutsch am Freitag im Fokus."
-      },
-      "positions": {
-        "EUROPE": "Stimmungsdaten und Zahlen bewegen europäische Werte."
-      }
-    },
     {
       "date": "2026-11-10",
       "time": "14:30",
       "title": "US-Inflation (CPI Oktober)",
       "kind": "Konjunktur",
-      "text": "Zuletzt 3,7 %. Nach dem starken Arbeitsmarktbericht ist die Zahl besonders wichtig für die Fed. Ein weiterer Anstieg würde eine Erhöhung im Dezember wahrscheinlicher machen. Der Ölpreisrückgang kommt erst später in den Daten an.",
+      "text": "Erwartet werden +0,3 % zum Vormonat, Kernrate +0,2 %. Die Jahresrate dürfte von 3,7 % auf rund 3,9 % steigen. Nach dem starken Arbeitsmarkt ist die Zahl wichtig für die Fed. Um 19:00 Uhr folgt eine Auktion zehnjähriger US-Anleihen.",
       "sectors": {
         "it": "Wachstumswerte reagieren am stärksten.",
         "re": "Zinsempfindlich.",
@@ -273,6 +250,19 @@
       "positions": {
         "NVDA": "Höhere Zinsen belasten die Bewertung.",
         "BTC": "Oft starke Reaktion auf Inflationsdaten."
+      }
+    },
+    {
+      "date": "2026-11-10",
+      "time": "nach US-Schluss",
+      "title": "Zahlen CoreWeave",
+      "kind": "Zahlen",
+      "text": "Der KI-Cloud-Anbieter gilt als Gradmesser für die Nachfrage nach Rechenzentren.",
+      "sectors": {
+        "it": "Hinweise auf KI-Investitionen."
+      },
+      "positions": {
+        "NVDA": "CoreWeave ist ein großer Kunde von NVIDIA."
       }
     },
     {
@@ -298,6 +288,23 @@
         "WORLD": "Großes Gewicht im ETF.",
         "EM": "Zulieferer wie TSMC und SK Hynix reagieren mit."
       }
+    },
+    {
+      "date": "2026-11-18",
+      "time": "offen",
+      "title": "Mögliches Kongress-Briefing zu NVIDIA",
+      "kind": "Politik",
+      "text": "Drei Ausschussvorsitzende im Repräsentantenhaus baten um ein vertrauliches Briefing. Eine Teilnahme von Huang war zuletzt nicht bestätigt.",
+      "sectors": {
+        "it": "Politisches Risiko für den Chipsektor."
+      },
+      "positions": {
+        "NVDA": "Kann die Debatte um die Prüfung verlängern oder beruhigen."
+      },
+      "scenarios": [
+        "Das Briefing bestätigt die Aussagen des Vorstands, die Unsicherheit nimmt ab.",
+        "Neue Fragen oder Forderungen aus dem Kongress halten das Thema länger im Fokus."
+      ]
     },
     {
       "date": "2026-11-20",
@@ -340,7 +347,7 @@
       "time": "20:00",
       "title": "Fed-Zinsentscheid Dezember",
       "kind": "Zinsen",
-      "text": "Sitzung am 8. und 9.12., mit neuen Projektionen (Dot Plot). Leitzins derzeit 3,75-4,00 %. Nach dem Arbeitsmarktbericht sehen Händler je nach Quelle eine Wahrscheinlichkeit von über 65 % bis knapp 80 % für eine Erhöhung um 0,25 Punkte.",
+      "text": "Sitzung am 8. und 9.12., mit neuen Projektionen (Dot Plot). Leitzins derzeit 3,75-4,00 %. Händler sehen eine Wahrscheinlichkeit von rund 80 % für eine Erhöhung um 0,25 Punkte.",
       "sectors": {
         "it": "Zinsempfindlich.",
         "fin": "Profitiert eher.",
@@ -371,72 +378,56 @@
   "closes": {},
   "sources": [
     {
-      "title": "The Closing Print: Post-Market & Weekly Summary, 6.11.2026",
-      "url": "https://www.theclosingprint.net/2026/11/post-market-and-weekly-summary-2026-11-06/"
+      "title": "The Weekend Spread: The Close, 9.11.2026",
+      "url": "https://theweekendspread.substack.com/p/the-close-monday-november-9-2026"
     },
     {
-      "title": "StockTitan: Stock Market Today, 6.11.2026",
-      "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-6-2026"
+      "title": "StockTitan: Stock Market Today, 9.11.2026",
+      "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-9-2026"
     },
     {
-      "title": "TradingKey: Nonfarm Payrolls Beat Expectations",
-      "url": "https://www.tradingkey.com/analysis/stocks/us-stocks/262295126-us-nfp-ai-stocks-rebound-nvda-amd-spacex-tradingkey"
+      "title": "247wallst: US stocks closed higher",
+      "url": "https://247wallst.com/cards/us-stocks-closed-higher-technology-leads-utilities-and-energy-lag-spy-market-explainer-01m715j3278sydxb71e6acc2fe"
     },
     {
-      "title": "TheStreet: Stock Market Today, 6.11.2026",
-      "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-06-2026"
+      "title": "Motley Fool/Yahoo: Stock Market Today, Nov. 9",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-nov-9-222339218.html"
     },
     {
-      "title": "ad-hoc-news: DAX schließt am 6. November 1,92 Prozent tiefer",
-      "url": "https://www.ad-hoc-news.de/boerse/news/marktberichte/dax-schliesst-am-6-november-1-92-prozent-tiefer/70471611"
+      "title": "ad-hoc-news: DAX schließt am 9. November 1,73 Prozent höher",
+      "url": "https://www.ad-hoc-news.de/boerse/news/marktberichte/dax-schliesst-am-9-november-1-73-prozent-hoeher-bei-26-267-punkten/70482735"
     },
     {
-      "title": "aktiencheck: DAX rutscht ab, Hochtief mit Plus",
-      "url": "https://aktiencheck.de/artikel/dax-rutscht-um-rund-23-prozent-ab-hochtief-stemmt-sich-mit-554-prozent-plus-dage"
+      "title": "marketscreener: XETRA-SCHLUSS, DAX startet fulminant",
+      "url": "https://de.marketscreener.com/boerse-nachrichten/xetra-schluss-dax-startet-fulminant-in-die-boersenwoche-ce785fd3df8ef220"
     },
     {
-      "title": "marketscreener: EUREX/DAX-Futures im Frühhandel, 9.11.2026",
-      "url": "https://de.marketscreener.com/boerse-nachrichten/eurex-dax-futures-im-fruehhandel-kaum-veraendert-ce785fd3d98ff426"
+      "title": "marketscreener: Dax erholt dank Ölpreisrutsch",
+      "url": "https://de.marketscreener.com/boerse-nachrichten/aktien-frankfurt-schluss-dax-erholt-dank-oelpreisrutsch-ce785fd3de89f124"
     },
     {
-      "title": "finanzen.at: Tagesvorschau 9. November 2026",
-      "url": "https://www.finanzen.at/nachrichten/aktien/tagesvorschau-termine-am-9-november-2026-1036730513"
+      "title": "AP/News4Jax: Asian stocks rise, 10.11.2026",
+      "url": "https://www.news4jax.com/business/2026/11/10/asian-stocks-rise-after-technology-shares-advance-on-wall-street/"
     },
     {
-      "title": "Al Jazeera: Asian stock markets climb after earlier tech rout",
-      "url": "https://www.aljazeera.com/economy/2026/11/9/asian-stock-markets-climb-after-earlier-tech-rout"
+      "title": "TradingKey: Kospi, Nikkei, SoftBank, 10.11.2026",
+      "url": "https://www.tradingkey.com/analysis/stocks/more/262297302-japan-korea-stocks-skhy-kospi-nikkei-samsung-skhynix-softbank-kioxia-nvda-sox-cpi-ppi-krx-tradingkey"
     },
     {
-      "title": "HDFC SKY: Global Markets Today, 9.11.2026",
-      "url": "https://hdfcsky.com/news/global-markets-today-november-9-2026-asia-rises-us-futures-higher-oil-slips-to-98-as-easing-iran-tensions-lift-sentiment"
+      "title": "TradingKey: US October CPI Preview",
+      "url": "https://www.tradingkey.com/analysis/economic/indicators/262295678-us-october-cpi-preview-inflation-slowdown-us-stocks-dollar-gold-reaction-tradingkey"
     },
     {
-      "title": "Reuters/Global Banking & Finance: Nvidia falls about 3% after hours",
-      "url": "https://www.globalbankingandfinance.com/nvidia-falls-about-3-after-hours-perpetual-futures-trade/"
+      "title": "TradingKey: Nvidia premarket drop, Huang probe",
+      "url": "https://www.tradingkey.com/analysis/stocks/us-stocks/262295944-nvidia-premarket-drop-5-7-month-low-jensen-huang-extramarital-affair-tradingkey"
     },
     {
-      "title": "KuCoin: BTC-Kurs 9.11.2026",
-      "url": "https://www.kucoin.com/news/insight/BTC/6af1295eabae5e0007c582c1"
+      "title": "ad-hoc-news: Amazon, JPMorgan setzt weiter auf AWS-Wachstum",
+      "url": "https://ad-hoc-news.de/boerse/news/corporate-news/amazon-com-aktie-jpmorgan-setzt-weiter-auf-aws-wachstum/70482541"
     },
     {
-      "title": "tixio: Bitcoin Kurs bei 67.919,00 Euro",
-      "url": "https://www.tixio.de/1360177-bitcoin-kurs-bei-67-91900-euro-005-gestiegen.html"
-    },
-    {
-      "title": "finanzen.net: NVIDIA historische Kurse",
-      "url": "https://www.finanzen.net/historische-kurse/nvidia"
-    },
-    {
-      "title": "boerse.de: Amazon historische Kurse",
-      "url": "https://www.boerse.de/historische-kurse/Amazon-Aktie/US0231351067"
-    },
-    {
-      "title": "boerse.de: Bitcoin/EUR historische Kurse",
-      "url": "https://www.boerse.de/historische-kurse/XBT-EUR/EU000A2YZK67"
-    },
-    {
-      "title": "stockanalysis: Amazon Kurshistorie",
-      "url": "https://stockanalysis.com/stocks/amzn/history/"
+      "title": "Investing.com: Amazon-Aktie zieht kräftig an",
+      "url": "https://de.investing.com/news/stock-market-news/amazonaktie-zieht-kraftig-an-jpmorganvotum-und-zuversicht-bei-investitionsausgaben-stutzen-den-kurs-93CH-3757071"
     },
     {
       "title": "BLS: Release Schedule 2026",
