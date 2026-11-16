@@ -1,264 +1,264 @@
 {
-  "updated": "2026-11-13T06:55:00+01:00",
-  "headline": "Jensen Huang tritt bei NVIDIA zurück, US-Renditen steigen über 5 %",
-  "summary": "Jensen Huang ist mit sofortiger Wirkung als Chef von NVIDIA zurückgetreten. Finanzchefin Colette Kress führt den Konzern vorerst. Die Aktie fiel am Donnerstag um 4,3 %, zeitweise um bis zu 14 %. Die Rendite zehnjähriger US-Anleihen stieg auf 5,10 %, eine Fed-Erhöhung im Dezember gilt als nahezu sicher. Der S&P 500 verlor 0,35 %, die Nasdaq 0,39 %, der Russell 2000 1,66 %. Öl stieg um rund 2,6 %. Der DAX lag erstmals über 27.000 Punkten und schloss 0,4 % höher. Heute früh steigt der Nikkei, Hongkong gibt nach. Bitcoin fiel unter 70.000 $. Die US-Futures liegen leicht im Plus.",
+  "updated": "2026-11-16T07:00:00+01:00",
+  "headline": "NVIDIA-Krise erreicht Asien, Chipwerte in Taiwan und Korea unter Druck",
+  "summary": "Am Freitag fiel die Nasdaq um 0,91 %, der S&P 500 um 0,40 %. Der Dow schloss 0,10 % höher. NVIDIA verlor erneut 2 %, AMD 8,8 % und Broadcom 4,8 %. Die US-Erzeugerpreise stiegen im Jahresvergleich um 6,5 %, so stark wie seit 2022 nicht. Der DAX schloss kaum verändert bei 26.749,95 Punkten, die Woche brachte 3,6 %. Heute früh fallen Taiwan um 4,1 %, Korea um 2,8 % und Japan um rund 1,6-1,9 %. Hongkong steigt. Bitcoin liegt deutlich unter 70.000 $. Die US-Futures notieren leicht im Minus. In dieser Woche stehen die NVIDIA-Zahlen und der Börsengang von Anthropic an.",
   "indices": [
     {
       "name": "S&P 500",
-      "value": "7.592,40",
-      "chg": -0.35,
-      "asof": "12.11."
+      "value": "7.561,67",
+      "chg": -0.4,
+      "asof": "13.11."
     },
     {
       "name": "Nasdaq",
-      "value": "25.366,09",
-      "chg": -0.39,
-      "asof": "12.11."
+      "value": "25.136,27",
+      "chg": -0.91,
+      "asof": "13.11."
     },
     {
       "name": "Dow Jones",
-      "value": "52.297,09",
-      "chg": -0.36,
-      "asof": "12.11."
+      "value": "52.347,55",
+      "chg": 0.1,
+      "asof": "13.11."
     },
     {
       "name": "Russell 2000",
-      "value": "2.799,06",
-      "chg": -1.66,
-      "asof": "12.11."
+      "value": "2.790,49",
+      "chg": -0.31,
+      "asof": "13.11."
     },
     {
       "name": "DAX",
-      "value": "26.771,88",
-      "chg": 0.41,
-      "asof": "12.11., Hoch 27.001,67"
+      "value": "26.749,95",
+      "chg": -0.08,
+      "asof": "13.11., Woche +3,6 %"
     },
     {
       "name": "US-Rendite 10J",
-      "value": "5,10 %",
+      "value": "rund 5,14 %",
       "chg": null,
-      "asof": "12.11., rund 0,1 Punkte höher"
+      "asof": "16.11. früh, Vorwoche +0,29 Punkte"
     },
     {
-      "name": "Öl (WTI)",
-      "value": "88,74 $",
-      "chg": 2.6,
-      "asof": "12.11., Settlement"
+      "name": "Öl (Brent)",
+      "value": "94,91 $",
+      "chg": -1.0,
+      "asof": "16.11. früh, WTI knapp unter 88 $"
     },
     {
       "name": "Bitcoin",
-      "value": "unter 70.000 $",
+      "value": "rund 62.000 $",
       "chg": null,
-      "asof": "13.11. früh, rund -6 % in 24 Std."
+      "asof": "16.11. früh, CoinGecko"
     }
   ],
   "sectors": [
     {
-      "key": "energy",
+      "key": "util",
       "strength": 1,
-      "text": "Einziger S&P-Sektor im Plus, +1,5 %. WTI stieg auf 88,74 $, Brent auf 95,82 $. Gründe waren Angriffe auf saudische Energieanlagen und Trumps Aussage, ein Iran-Abkommen sei nicht nötig."
+      "text": "E.ON +1,7 % nach Berichten, der Bund könnte den Urenco-Anteil kaufen. RWE +0,6 %. In den USA lagen Versorger im Plus."
     },
     {
       "key": "fin",
       "strength": 1,
-      "text": "Versicherer stark. Münchener Rück +2,9 %, Allianz +1,9 % auf Rekordhoch. In den USA fiel Global Payments um 12 % nach geplatzten Übernahmegesprächen."
-    },
-    {
-      "key": "ind",
-      "strength": 0,
-      "text": "Siemens +1,7 % nach angehobenen Mittelfristzielen. Gea -4,3 %, der Chef geht im April. Installed Building Products +6,8 % nach Hochstufung."
-    },
-    {
-      "key": "it",
-      "strength": -1,
-      "text": "NVIDIA -4,3 % nach dem Rücktritt von Huang, Super Micro -11,3 %, Nebius -16,8 %. AMD +5,9 % und Broadcom +5,5 % profitierten von der Unsicherheit bei NVIDIA."
+      "text": "Finanzwerte gehörten am Freitag in den USA zu den Gewinnern. Die Deutsche Pfandbriefbank fiel dagegen um 7,3 % auf ein Rekordtief nach gesenkter Prognose."
     },
     {
       "key": "health",
-      "strength": -1,
-      "text": "Merck KGaA -2,3 % trotz höherer Ziele, ein Herzmittel wurde gestoppt. Fresenius Medical Care -3,1 % nach Platzierung von 13,4 Mio. Aktien durch Fresenius."
+      "strength": 0,
+      "text": "In den USA leicht im Plus. Candel Therapeutics -26 %, der Zulassungsantrag kommt erst Mitte 2027."
     },
     {
-      "key": "mat",
+      "key": "disc",
       "strength": -1,
-      "text": "Corteva -24,3 % nach verfehlten Zahlen und gesenktem Ausblick wegen Brasilien. Gold fiel um rund 2,9 % auf 3.885 $, erholt sich heute früh leicht."
+      "text": "Gehörte am Freitag zu den schwachen Sektoren. Amazon -0,3 %. In dieser Woche berichten Target, TJX und Walmart."
+    },
+    {
+      "key": "ind",
+      "strength": -1,
+      "text": "Industrie im Minus. Ein landesweiter Flugstopp der FAA belastete Airlines nachbörslich. Virgin Galactic -31 % nach Verlust und Kapitalmaßnahme."
+    },
+    {
+      "key": "it",
+      "strength": -2,
+      "text": "Nasdaq -0,9 %, NVIDIA -2 %, AMD -8,8 %, Broadcom -4,8 %, Cisco -6,2 %. Heute früh TSMC -3,4 %, SK Hynix -5,5 %, Tokyo Electron -5,2 %. Infineon fiel am Freitag deutlich."
     },
     {
       "key": "crypto",
       "strength": -2,
-      "text": "Bitcoin fiel am Donnerstag um rund 3,8 % auf etwa 71.500 $ und heute früh unter 70.000 $. Steigende Zinserwartungen belasten spekulative Anlagen."
+      "text": "Bitcoin fiel am Freitag erstmals seit August unter 70.000 $, Liquidationen über 1,3 Mrd. $. Am Sonntag früh rund 64.800 $, zuletzt rund 62.000 $."
     }
   ],
   "movers": {
     "us": {
-      "asof": "12.11. (breiter Markt)",
+      "asof": "13.11. (breiter Markt)",
       "up": [
         {
-          "name": "Mobility Global",
-          "chg": 16.11,
-          "why": "Zahlen über Erwartung, Rückkauf 800 Mio. $"
+          "name": "SBC Medical",
+          "chg": 37.64,
+          "why": "Umsatz +35 %, KI-Partnerschaft"
         },
         {
-          "name": "Installed Building Products",
-          "chg": 6.79,
-          "why": "Hochstufung durch StoneX"
+          "name": "Newsmax",
+          "chg": 31.41,
+          "why": "Umsatz +52,5 %, über Erwartung"
         },
         {
-          "name": "AMD",
-          "chg": 5.86,
-          "why": "Hochstufung durch William Blair"
+          "name": "Liftoff Mobile",
+          "chg": 30.63,
+          "why": "Umsatz +32 %, hoher Gewinn"
         },
         {
-          "name": "Broadcom",
-          "chg": 5.54,
-          "why": "Hoffnung auf Marktanteile während NVIDIA-Krise"
+          "name": "Modine",
+          "chg": 27.86,
+          "why": "Bericht über Übernahmegespräche mit Samsung"
         }
       ],
       "down": [
         {
-          "name": "Corteva",
-          "chg": -24.3,
-          "why": "Zahlen verfehlt, Ausblick gesenkt"
+          "name": "Suncrete",
+          "chg": -37.44,
+          "why": "Gewinn trotz Umsatzsprung eingebrochen"
         },
         {
-          "name": "Nebius",
-          "chg": -16.84,
-          "why": "Investitionen auf 27 Mrd. $ erhöht"
+          "name": "Virgin Galactic",
+          "chg": -31.09,
+          "why": "Verlust, Anleihen werden in Aktien getauscht"
         },
         {
-          "name": "Global Payments",
-          "chg": -12.01,
-          "why": "Übernahmegespräche beendet"
+          "name": "Candel Therapeutics",
+          "chg": -26.1,
+          "why": "Zulassungsantrag erst Mitte 2027"
         },
         {
-          "name": "Super Micro",
-          "chg": -11.3,
-          "why": "Bericht über Prüfung durch US-Justiz"
+          "name": "AMD",
+          "chg": -8.75,
+          "why": "Gewinnmitnahmen bei Chipwerten"
         }
       ]
     },
     "de": {
-      "asof": "12.11. (Xetra-Schluss)",
+      "asof": "13.11. (Xetra-Schluss)",
       "up": [
         {
-          "name": "Münchener Rück",
-          "chg": 2.9,
-          "why": "Großschäden unter Erwartung, Prognose bestätigt"
-        },
-        {
-          "name": "Freenet (MDax)",
+          "name": "Deutsche Euroshop",
           "chg": 2.6,
-          "why": "Freier Cashflow über Erwartung"
+          "why": "Höhere Mieten, Prognose zuvor angehoben"
         },
         {
-          "name": "Allianz",
-          "chg": 1.9,
-          "why": "Rekord in neun Monaten, Rekordhoch"
-        },
-        {
-          "name": "Siemens",
+          "name": "E.ON",
           "chg": 1.7,
-          "why": "Mittelfristziele angehoben"
+          "why": "Bund könnte Urenco-Anteil kaufen"
+        },
+        {
+          "name": "CTS Eventim (MDax)",
+          "chg": 1.7,
+          "why": "Jahresprognose bestätigt"
+        },
+        {
+          "name": "RWE",
+          "chg": 0.6,
+          "why": "Versorger gefragt"
         }
       ],
       "down": [
         {
-          "name": "Gea",
+          "name": "GFT Technologies (SDax)",
+          "chg": -10.3,
+          "why": "Kaufempfehlung gestrichen"
+        },
+        {
+          "name": "Deutsche Pfandbriefbank",
+          "chg": -7.3,
+          "why": "Prognose gesenkt, Rekordtief"
+        },
+        {
+          "name": "Infineon",
           "chg": -4.3,
-          "why": "Chef Klebert geht Ende April"
-        },
-        {
-          "name": "Fresenius Medical Care",
-          "chg": -3.1,
-          "why": "Fresenius verkauft 13,4 Mio. Aktien"
-        },
-        {
-          "name": "Merck KGaA",
-          "chg": -2.3,
-          "why": "Gewinnmitnahmen, Herzmittel gestoppt"
+          "why": "Gewinnmitnahmen bei US-Chipwerten"
         }
       ]
     }
   },
   "triggers": [
     {
-      "title": "Huang tritt als NVIDIA-Chef zurück",
+      "title": "NVIDIA-Krise erfasst Asiens Chipwerte",
       "sectors": [
         "it"
       ],
-      "text": "Huang verlässt Vorstand und Verwaltungsrat mit sofortiger Wirkung. Colette Kress ist Interimschefin und bleibt Finanzchefin. Harvey Jones, früher Synopsys, wird erster Vorsitzender des Verwaltungsrats. Die Suche nach einem Nachfolger läuft. Citi senkte das Kursziel von 285 auf 225 $."
+      "text": "Nach dem Rücktritt von Jensen Huang sank der Börsenwert von NVIDIA laut LSEG von rund 5,8 Bio. $ Anfang Oktober auf 3,9 Bio. $. Die Aktie verlor in der Woche 12,75 %. Heute früh fallen Taiwan um 4,1 % und Korea um 2,8 %. Analysten nennen auch langsamer wachsende KI-Investitionen."
     },
     {
-      "title": "US-Renditen über 5 %, Fed-Erhöhung fast sicher",
+      "title": "Erzeugerpreise +6,5 %, Zinserhöhung im Dezember eingepreist",
       "sectors": [
         "fin",
         "re",
         "it",
         "crypto"
       ],
-      "text": "Die zehnjährige Rendite stieg auf 5,10 %, die zweijährige auf 4,88 %. Bei Kalshi liegt eine Erhöhung um 0,25 Punkte im Dezember bei 87 %, um mehr als 0,25 Punkte bei 12 %. Fed-Präsidentin Hammack will die Politik restriktiv machen. Heute kommen die Erzeugerpreise."
+      "text": "Die US-Erzeugerpreise stiegen im Oktober um 0,3 % zum Vormonat, erwartet waren 0,4 %. Zum Vorjahr waren es 6,5 %, die Kernrate 5,0 %. Die zehnjährige Rendite liegt bei rund 5,14 %. Eine Fed-Erhöhung um 0,25 Punkte gilt als fast sicher, auch die EZB dürfte erhöhen."
     },
     {
-      "title": "Ölpreis steigt, Lage am Golf",
+      "title": "NVIDIA-Zahlen am Dienstag",
       "sectors": [
-        "energy",
-        "ind"
+        "it"
       ],
-      "text": "Brent stieg um 3,3 % auf 95,82 $. Berichtet wurden Angriffe auf saudische Energieanlagen. Trump sagte, die USA bräuchten kein Abkommen mit Iran. Szenarien: Bei Entspannung könnte Öl nachgeben. Weitere Angriffe oder Störungen in Hormus würden den Preis eher treiben und die Inflationssorgen verstärken."
+      "text": "Erwartet werden rund 109 Mrd. $ Umsatz und rund 90 % mehr Gewinn. Es sind die ersten Zahlen unter Interimschefin Colette Kress. Optionen preisen eine Bewegung von rund ±8,6 % ein."
     },
     {
-      "title": "DAX erstmals über 27.000 Punkten",
+      "title": "Börsengang von Anthropic",
       "sectors": [
-        "fin",
-        "ind"
+        "it",
+        "comm"
       ],
-      "text": "Versicherer und Siemens trieben den DAX bis 27.001,67 Punkte. Am Nachmittag belastete NVIDIA, der Index schloss bei 26.771,88. Es war der vierte Gewinntag in Folge."
+      "text": "Die Preisfestsetzung ist für Mittwoch geplant, Spanne 70-78 $, Ticker ANT. Der Handelsstart wird für Donnerstag erwartet. Der Börsengang gilt als Test für die Risikobereitschaft bei KI."
     },
     {
-      "title": "Bitcoin fällt unter 70.000 $",
+      "title": "APEC-Gipfel mit Trump, Xi und Putin",
       "sectors": [
-        "crypto"
+        "it",
+        "energy"
       ],
-      "text": "Bitcoin verlor in 24 Stunden rund 6 %. Gold zog heute früh um rund 1 % an. Beobachter sehen eher eine Umschichtung aus spekulativen Anlagen als eine breite Flucht aus Risiken."
+      "text": "Am Donnerstag ist in Shenzhen ein Dreiertreffen geplant. Szenarien: Signale zur Entspannung bei Handel oder Ukraine könnten Asien und Risikoanlagen stützen. Neue Zölle oder Exportregeln würden Chipwerte eher belasten. Ein Treffen ohne Ergebnis lenkt den Blick zurück auf Zinsen und Zahlen."
     }
   ],
   "positions": {
-    "NVDA": "Schloss am Donnerstag bei 166,19 $, -4,3 %, zeitweise lag das Minus bei 14 %. In Frankfurt fiel die Aktie bis auf 135,42 €. Die Zahlen am Dienstag, 17.11., wurden bestätigt. Fragen zur Führung dürften sie prägen.",
-    "AMZN": "Phillip Securities stufte auf Kaufen hoch, Kursziel 330 $. Bei L&S stieg die Aktie am Nachmittag auf 245,23 €, Xetra-Schluss am Vortag 240,25 €. Ein US-Schluss für Donnerstag lag nicht vor.",
-    "BTC": "Fiel am Donnerstag auf rund 71.500 $ und heute früh unter 70.000 $. Am Donnerstagmittag lag der Kurs bei 65.785 €. Heute um 14:30 Uhr kommen die US-Erzeugerpreise, die die Zinserwartung bewegen können.",
-    "WORLD": "Der S&P 500 gab um 0,35 % nach, Nebenwerte fielen stärker. NVIDIA ist eines der größten Gewichte im ETF. Die US-Futures lagen vor Handelsbeginn in Asien leicht im Plus.",
-    "EM": "Heute früh Nikkei +1,4 %, Hongkong -0,9 %, Shanghai +0,2 %, Korea kaum verändert. SK Hynix tritt auf der Stelle, Samsung leicht fester. Der Dollar auf 18-Monats-Hoch belastet Schwellenländer eher.",
-    "EUROPE": "Der DAX schloss 0,4 % höher, der Euro Stoxx 50 0,1 %. Versicherer führten. Heute berichten Richemont und Generali, um 11 Uhr kommt das Eurozonen-BIP."
+    "NVDA": "Schloss am Freitag bei 162,85 $, -2,0 %, in der Woche -12,75 %. Bei Tradegate zuletzt 147,60 €. Heute fallen Zulieferer in Asien deutlich. Die Zahlen kommen am Dienstag nach US-Schluss, Optionen preisen rund ±8,6 % ein.",
+    "AMZN": "Schloss am Freitag bei 266,66 $, -0,3 %, nachbörslich 264,40 $. Der Start von 40 Leo-Satelliten war für Sonntag geplant, ein Ergebnis ist nicht belegt. Am Dienstag kommt der Einzelhandelsumsatz, am Donnerstag Walmart.",
+    "BTC": "Fiel am Freitag erstmals seit August unter 70.000 $. Am Wochenende ging es weiter abwärts, zuletzt rund 62.000 $ bzw. 58.700 €. Fed-Protokoll am Mittwoch und Zinserwartungen bleiben die Taktgeber.",
+    "WORLD": "S&P 500 -0,4 %, Nasdaq -0,9 %, Dow +0,1 %. Die US-Futures liegen heute früh leicht im Minus. NVIDIA ist eines der größten Gewichte, ihre Zahlen am Dienstag prägen die Woche.",
+    "EM": "Heute früh Taiwan -4,1 %, Korea -2,8 %, TSMC -3,4 %, SK Hynix -5,5 %. Hongkong +0,9 %, Shanghai -0,4 % nach schwachen Daten aus China. Asiatische Chipwerte haben im ETF großes Gewicht.",
+    "EUROPE": "Der DAX schloss am Freitag bei 26.749,95 Punkten, -0,08 %, Woche +3,6 %. Der Euro Stoxx 50 gab 0,2 % nach. Chipwerte wie Infineon schwach, Versorger fester."
   },
   "events": [
     {
-      "date": "2026-11-13",
-      "time": "11:00",
-      "title": "Eurozone BIP Q3 (2. Schätzung)",
-      "kind": "Konjunktur",
-      "text": "Erwartet werden +0,4 % zum Vorquartal und +1,3 % zum Vorjahr, wie in der ersten Schätzung.",
+      "date": "2026-11-16",
+      "time": "offen",
+      "title": "Rede von Fed-Chef Warsh",
+      "kind": "Zinsen",
+      "text": "Erster Auftritt nach den hohen Erzeugerpreisen. Märkte preisen eine Zinserhöhung im Dezember fast sicher ein.",
       "sectors": {
-        "fin": "Konjunkturbild für europäische Banken."
+        "fin": "Zinsausblick bewegt Banken.",
+        "it": "Wachstumswerte reagieren auf Zinssignale."
       },
       "positions": {
-        "EUROPE": "Bestätigung oder Überraschung beim Wachstum."
+        "BTC": "Zinserwartungen bewegen Bitcoin.",
+        "WORLD": "Breite Reaktion über die Renditen möglich."
       }
     },
     {
-      "date": "2026-11-13",
+      "date": "2026-11-17",
       "time": "14:30",
-      "title": "US-Erzeugerpreise (PPI Oktober)",
+      "title": "US-Einzelhandelsumsatz (Oktober)",
       "kind": "Konjunktur",
-      "text": "Prognose +0,4 % zum Vormonat, Kernrate +0,3 %. Im September lagen die Werte bei +1,3 % und +0,7 %. Am Abend sprechen Bundesbank-Präsident Nagel (17 Uhr) und Fed-Präsidentin Daly (18 Uhr).",
+      "text": "Konsens 0,0 % zum Vormonat.",
       "sectors": {
-        "it": "Wachstumswerte reagieren auf Zinssorgen.",
-        "re": "Zinsempfindlich.",
-        "crypto": "Zinsempfindlich."
+        "disc": "Gradmesser für den Konsum vor dem Weihnachtsgeschäft.",
+        "staples": "Zeigt, wie stabil der Grundkonsum ist."
       },
       "positions": {
-        "NVDA": "Höhere Zinsen belasten die Bewertung.",
-        "BTC": "Zinserwartungen bewegen Bitcoin.",
-        "WORLD": "Breite Reaktion über die Zinsen möglich."
+        "AMZN": "Hinweis auf die Nachfrage im Handel.",
+        "WORLD": "Konjunkturbild der USA."
       }
     },
     {
@@ -266,7 +266,7 @@
       "time": "22:20",
       "title": "Zahlen NVIDIA (Q3 FY27)",
       "kind": "Zahlen",
-      "text": "Termin trotz Chefwechsel bestätigt, Telefonkonferenz um 23:00 Uhr. Prognose für das Quartal: 108 Mrd. $ Umsatz. Im Fokus stehen Rechenzentren, China und erste Aussagen von Interimschefin Kress.",
+      "text": "Nach US-Börsenschluss, Telefonkonferenz um 23:00 Uhr. Konsens rund 109 Mrd. $ Umsatz und 2,47-2,49 $ Gewinn je Aktie. Eigene Prognose 108 Mrd. $. Optionen preisen rund ±8,6 % ein. Im Fokus stehen Marge, China und die Führungsfrage.",
       "sectors": {
         "it": "Bewegt den gesamten Chip- und KI-Sektor."
       },
@@ -274,6 +274,50 @@
         "NVDA": "Direkte Position, binäres Ereignis.",
         "WORLD": "Großes Gewicht im ETF.",
         "EM": "Zulieferer wie TSMC und SK Hynix reagieren mit."
+      }
+    },
+    {
+      "date": "2026-11-18",
+      "time": "vorbörslich",
+      "title": "Zahlen Target und TJX",
+      "kind": "Zahlen",
+      "text": "Optionen preisen bei Target rund ±9 % ein, bei TJX rund ±5,9 %.",
+      "sectors": {
+        "disc": "Signal für den US-Einzelhandel."
+      },
+      "positions": {
+        "AMZN": "Vergleich mit dem stationären Handel."
+      }
+    },
+    {
+      "date": "2026-11-18",
+      "time": "20:00",
+      "title": "Fed-Protokoll (Oktober-Sitzung)",
+      "kind": "Zinsen",
+      "text": "Das Protokoll zeigt, wie stark die Notenbanker zu einer Zinserhöhung neigen.",
+      "sectors": {
+        "fin": "Zinsausblick.",
+        "re": "Zinsempfindlich.",
+        "crypto": "Zinsempfindlich."
+      },
+      "positions": {
+        "NVDA": "Höhere Zinsen belasten die Bewertung.",
+        "BTC": "Zinsangst drückt oft auf Bitcoin."
+      }
+    },
+    {
+      "date": "2026-11-18",
+      "time": "nachbörslich",
+      "title": "Preisfestsetzung Börsengang Anthropic",
+      "kind": "Markt",
+      "text": "Geplanter Nasdaq-Ticker ANT, Preisspanne 70-78 $. Der erste Handelstag wird für Donnerstag erwartet. Der Börsengang gilt als Test für die Risikobereitschaft bei KI-Werten.",
+      "sectors": {
+        "it": "Stimmungstest für den KI-Sektor."
+      },
+      "positions": {
+        "NVDA": "Nachfrage nach KI-Werten wird sichtbar.",
+        "AMZN": "Amazon ist an Anthropic beteiligt, die Bewertung kann auf die Aktie wirken.",
+        "WORLD": "Großes Volumen kann Mittel aus anderen Tech-Werten abziehen."
       }
     },
     {
@@ -293,6 +337,54 @@
         "Neue Fragen oder Forderungen aus dem Kongress halten das Thema länger im Fokus.",
         "Das Briefing wird verschoben oder abgesagt, das Thema bleibt offen."
       ]
+    },
+    {
+      "date": "2026-11-19",
+      "time": "vorbörslich",
+      "title": "Zahlen Walmart",
+      "kind": "Zahlen",
+      "text": "Optionen preisen rund ±6,2 % ein.",
+      "sectors": {
+        "staples": "Größter US-Händler, Signal für den Konsum.",
+        "disc": "Hinweise auf das Weihnachtsgeschäft."
+      },
+      "positions": {
+        "AMZN": "Direkter Wettbewerber im Handel."
+      }
+    },
+    {
+      "date": "2026-11-19",
+      "time": "offen",
+      "title": "Treffen Trump, Xi und Putin beim APEC-Gipfel in Shenzhen",
+      "kind": "Politik",
+      "text": "Laut Kreml-Sprecher Peskow ist ein Dreiertreffen geplant. Der APEC-Gipfel läuft am Mittwoch und Donnerstag.",
+      "sectors": {
+        "it": "Exportregeln für Chips nach China sind ein Thema.",
+        "energy": "Ukraine und Sanktionen wirken auf den Ölpreis."
+      },
+      "positions": {
+        "NVDA": "China-Geschäft und Exportregeln.",
+        "EM": "China und Asien reagieren direkt.",
+        "EUROPE": "Europa hängt an Handel und Energie."
+      },
+      "scenarios": [
+        "Das Treffen bringt Signale der Entspannung bei Handel oder Ukraine, Risikoanlagen und Asien könnten profitieren.",
+        "Es endet ohne greifbares Ergebnis, der Markt richtet sich wieder auf Zinsen und Zahlen.",
+        "Neue Zölle oder Exportregeln werden angekündigt, Chipwerte und Schwellenländer gerieten eher unter Druck."
+      ]
+    },
+    {
+      "date": "2026-11-20",
+      "time": "16:00",
+      "title": "Uni Michigan Verbraucherstimmung",
+      "kind": "Konjunktur",
+      "text": "Stimmung und Inflationserwartung der Verbraucher.",
+      "sectors": {
+        "disc": "Konsumlaune."
+      },
+      "positions": {
+        "WORLD": "Konjunkturbild der USA."
+      }
     },
     {
       "date": "2026-11-20",
@@ -315,6 +407,24 @@
       "positions": {
         "AMZN": "Black Friday und Cyber Monday zeigen die Nachfrage im Onlinehandel."
       }
+    },
+    {
+      "date": "2026-12-03",
+      "time": "offen",
+      "title": "Angefragte Senatsanhörung zu NVIDIA",
+      "kind": "Politik",
+      "text": "Der Vorsitzende des Banken-Ausschusses Tim Scott bat Huang, am 3.12. auszusagen. Handelsminister Lutnick soll am 10.12. freiwillig erscheinen.",
+      "sectors": {
+        "it": "Politisches Risiko für den Chipsektor."
+      },
+      "positions": {
+        "NVDA": "Kann die Debatte verlängern oder beruhigen."
+      },
+      "scenarios": [
+        "Die Anhörung bringt keine neuen Vorwürfe, die Unsicherheit nimmt ab.",
+        "Neue Details oder Forderungen nach strengeren Exportregeln halten das Thema im Fokus.",
+        "Huang sagt nicht aus oder der Termin wird verschoben, das Thema bleibt offen."
+      ]
     },
     {
       "date": "2026-12-04",
@@ -366,68 +476,68 @@
   "closes": {},
   "sources": [
     {
-      "title": "NVIDIA: NVIDIA Announces CEO Transition",
-      "url": "https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Announces-CEO-Transition/"
+      "title": "TheStreet: Stock Market Today, 13.11.2026",
+      "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-13-2026"
     },
     {
-      "title": "Eurasia Business News: Stock Market Today, 12.11.2026",
-      "url": "https://eurasiabusinessnews.com/2026/11/13/stock-market-today-november-12-2026-dow-sp-500-and-nasdaq-fall-after-jensen-huang-resigns/"
+      "title": "StockTitan: Stock Market Today, 13.11.2026",
+      "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-13-2026"
     },
     {
-      "title": "Vista P Global: Stock Market Today, 12.11.2026",
-      "url": "https://vistapglobal.com/stock-market-today-november-12-2026-stocks-fall-as-treasury-yields-hit-5-10-oil-rises-and-nvidia-faces-leadership-reset-amd-crwv-eprx-googl-modd-msft-nvda-ser-spcx-ttek-ual/"
+      "title": "24/7 Wall St.: S&P 500 Closes Down 0.4%",
+      "url": "https://247wallst.com/cards/money-moved-out-of-tech-and-into-everything-else-today-the-gspc-market-bell-01m7bbjh5wpep4vmjk7jwpas8h"
     },
     {
-      "title": "Capp Notes: Closing Look, 12.11.2026",
-      "url": "https://cappnotes.substack.com/p/closing-look-thursday-november-12"
+      "title": "ARIVA/dpa-AFX: Aktien Frankfurt Schluss, 13.11.2026",
+      "url": "https://www.ariva.de/news/roundup-aktien-frankfurt-schluss-dax-trotzt-nasdaq-schwaeche-12207030"
     },
     {
-      "title": "ariva/dpa-AFX: Dax vorübergehend erstmals über 27.000 Punkten",
-      "url": "https://www.ariva.de/news/roundup-aktien-frankfurt-schluss-dax-voruebergehend-erstmals-12205697"
+      "title": "ad-hoc-news: DAX beendet Rekordwoche",
+      "url": "https://www.ad-hoc-news.de/boerse/news/marktberichte/dax-beendet-rekordwoche-mit-leichter-verschnaufpause/70506245"
     },
     {
-      "title": "ad-hoc-news: DAX schließt bei 26.771,88 Punkten",
-      "url": "https://www.ad-hoc-news.de/boerse/news/marktberichte/dax-schliesst-bei-26-771-88-punkten-nach-rekordhoch-ueber-27-000-punkten/70500460"
+      "title": "ARIVA/dpa-AFX: Wochenausblick, 16.11.2026",
+      "url": "https://www.ariva.de/news/wochenausblick-anleger-warten-nach-dax-rekord-auf-12207947"
     },
     {
-      "title": "finanzen.at/Dow Jones: XETRA-SCHLUSS",
-      "url": "https://www.finanzen.at/nachrichten/aktien/xetra-schluss-etwas-fester-dax-steigt-erstmals-ueber-27-000-punkte-1036756896"
+      "title": "AP/WSLS: Stocks decline in Asia, 16.11.2026",
+      "url": "https://www.wsls.com/business/2026/11/16/stocks-decline-in-asia-as-investor-concerns-over-nvidia-fallout-extend-into-another-week/"
     },
     {
-      "title": "investingLive: Asian stocks steady as Nikkei gains 1.4%",
-      "url": "https://investinglive.com/stock-market-update/asian-stocks-steady-as-nikkei-gains-1-4-hang-seng-slips-on-nvidia-leadership-fallout/"
+      "title": "Handelsblatt/Reuters: Börse Asien, 16.11.2026",
+      "url": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/boerse-asien-asiens-boersen-geben-nach-nvidia-zahlen-und-anthropic-boersengang-im-blick/100270076.html"
     },
     {
-      "title": "Saxo: Asia Market Quick Take, 13.11.2026",
-      "url": "https://www.home.saxo/en-sg/content/articles/macro/asia-market-quick-take--13-november-2026-13112026"
+      "title": "HDFC Sky: Global Markets Today, 16.11.2026",
+      "url": "https://hdfcsky.com/news/global-markets-today-november-16-2026-asia-declines-oil-eases-dalal-street-eyes-higher-start"
     },
     {
-      "title": "finanzen.net: Tagesvorschau 13.11.2026 (dpa-AFX)",
-      "url": "https://www.finanzen.net/nachricht/aktien/tagesvorschau-termine-am-13-november-2026-16061319"
+      "title": "Strategitz: The Week Ahead, 16.-20.11.2026",
+      "url": "https://strategitz.substack.com/p/the-week-ahead-nov-16-20-2026"
     },
     {
-      "title": "finanzen.net: Tagesvorschau Freitag 13.11. (Dow Jones)",
-      "url": "https://www.finanzen.net/nachricht/aktien/tagesvorschau-freitag-13-november-16061316"
+      "title": "Motley Fool: Nvidia Reports Earnings on Nov. 17",
+      "url": "https://www.fool.com/investing/2026/11/15/nvidia-reports-earnings-on-nov-17-2026-heres-what-investors-should-be-watching/"
     },
     {
-      "title": "ad-hoc-news: Amazon stock gets analyst upgrade",
-      "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/amazon-stock-gets-analyst-upgrade-as-aws-growth-offsets-ai-cash-strain/70499276"
+      "title": "AlphaBetaStock: Nvidia Earnings Preview",
+      "url": "https://alphabetastock.com/nvidia-earnings-preview-november-17-2026/"
     },
     {
-      "title": "finanzen.net: NVIDIA historische Kurse",
-      "url": "https://www.finanzen.net/historische-kurse/nvidia"
+      "title": "Admirals: Amazon Leo Launch",
+      "url": "https://admiralmarkets.com/analytics/traders-blog/amazon-leo-launch-vulcan-amazon-stock"
     },
     {
-      "title": "finanzen.net: Kryptokurse am Donnerstagmittag",
-      "url": "https://finanzen.net/nachricht/devisen/bitcoinkurs-co-aktuell-so-steht-es-am-mittag-um-die-kurse-der-digitalwaehrungen-16059593"
+      "title": "finanznachrichten.de: NVIDIA (Tradegate)",
+      "url": "https://www.finanznachrichten.de/nachrichten-2026-11/70135986-wochenausblick-anleger-warten-nach-dax-rekord-auf-nvidia-zahlen-und-anthropic-016.htm"
     },
     {
-      "title": "Federal Reserve: Kalender Dezember 2026",
-      "url": "https://www.federalreserve.gov/newsevents/2026-december.htm"
+      "title": "cryptoticker: Bitcoin Wochenschluss, 15.11.2026",
+      "url": "https://cryptoticker.io/de/bitcoin-kurs-nachttief-wochenschluss-15-november-2026/"
     },
     {
-      "title": "BLS: Release Schedule 2026",
-      "url": "https://www.bls.gov/schedule/2026/"
+      "title": "CoinGecko: BTC to EUR",
+      "url": "https://www.coingecko.com/en/coins/bitcoin/eur"
     }
   ]
 }
