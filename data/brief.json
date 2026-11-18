@@ -1,293 +1,255 @@
 {
-  "updated": "2026-11-17T07:15:00+01:00",
-  "headline": "Chip-Ausverkauf vor NVIDIA-Zahlen, neue US-Exportregeln belasten KI-Werte",
-  "summary": "Am Montag fiel die Nasdaq um 2,49 %, der S&P 500 um 1,92 % und der Dow um 1,41 %. Chipwerte brachen ein, der Halbleiter-ETF SOXX verlor 5,4 %. Auslöser waren neue US-Regeln gegen den Fernzugriff auf KI-Chips und eine gesenkte Prognose für KI-Ausgaben von SemiAnalysis. NVIDIA fiel um 4,1 %, Amazon um 3,3 %. Nur Basiskonsum schloss im Plus. Der DAX verlor 0,57 % auf 26.598,64 Punkte. Heute früh fallen Japan und Korea um rund 1-2 %, Taiwan um rund 1 %. Die US-Futures notieren leicht im Plus. Heute kommen der US-Einzelhandelsumsatz und nach US-Schluss die NVIDIA-Zahlen.",
+  "updated": "2026-11-18T06:45:00+01:00",
+  "headline": "NVIDIA übertrifft Erwartungen, davor Ausverkauf bei Software, Banken und im DAX",
+  "summary": "NVIDIA meldete nach US-Schluss 115,8 Mrd. $ Umsatz und erwartet 130 Mrd. $ im laufenden Quartal, beides über den Schätzungen. Die Aktie stieg nachbörslich um bis zu rund 4-5 %. Davor fiel der Dow um 1,64 %, der S&P 500 um 1,03 % auf den tiefsten Schluss seit Ende Juli. Ein Bericht über eine Netzstörung bei der NSA drückte auf Softwarewerte, Salesforce verlor 9,5 %. Der DAX fiel um 2,08 % auf 26.045 Punkte, Deutsche Bank und SAP verloren rund 6 %. Asien reagiert heute früh gemischt, Korea steigt, Taiwan fällt. Heute folgen Zahlen von Target, TJX und Lowe's sowie um 20:00 Uhr das Fed-Protokoll.",
   "indices": [
     {
       "name": "S&P 500",
-      "value": "7.416,60",
-      "chg": -1.92,
-      "asof": "16.11."
+      "value": "7.340,53",
+      "chg": -1.03,
+      "asof": "17.11., 4. Verlusttag in Folge"
     },
     {
       "name": "Nasdaq",
-      "value": "24.509,76",
-      "chg": -2.49,
-      "asof": "16.11., 10,9 % unter Hoch"
+      "value": "24.328",
+      "chg": -0.74,
+      "asof": "17.11., im Tagesverlauf bis -2,1 %"
     },
     {
       "name": "Dow Jones",
-      "value": "51.608,35",
-      "chg": -1.41,
-      "asof": "16.11."
+      "value": "50.759,42",
+      "chg": -1.64,
+      "asof": "17.11."
     },
     {
       "name": "Russell 2000",
-      "value": "2.742,94",
-      "chg": -1.7,
-      "asof": "16.11."
+      "value": "IWM 268,98 $",
+      "chg": -1.45,
+      "asof": "17.11., ETF statt Index"
     },
     {
       "name": "DAX",
-      "value": "26.598,64",
-      "chg": -0.57,
-      "asof": "16.11., Tagestief"
+      "value": "26.045,37",
+      "chg": -2.08,
+      "asof": "17.11., Xetra-Schluss"
     },
     {
       "name": "US-Rendite 10J",
-      "value": "rund 5,13 %",
+      "value": "5,10 %",
       "chg": null,
-      "asof": "17.11. früh, Freitag 5,15 %"
+      "asof": "17.11., -2 Basispunkte"
     },
     {
-      "name": "Öl (WTI)",
-      "value": "85,05 $",
-      "chg": -0.8,
-      "asof": "17.11. früh, Brent 91,62 $"
+      "name": "Öl (Brent)",
+      "value": "93,14 $",
+      "chg": 0.76,
+      "asof": "17.11., WTI ohne belegten Schluss"
     },
     {
       "name": "Bitcoin",
-      "value": "rund 64.900 $",
-      "chg": -0.67,
-      "asof": "16.11. abends"
+      "value": "rund 64.350 $",
+      "chg": null,
+      "asof": "18.11. früh, rund 58.580 €"
     }
   ],
   "sectors": [
     {
-      "key": "staples",
-      "strength": 1,
-      "text": "Einziger S&P-Sektor im Plus. Tyson +8,7 % nach besseren Quartalszahlen."
-    },
-    {
-      "key": "re",
-      "strength": 0,
-      "text": "Immobilien hielten sich in den USA besser als der Markt, die Renditen gaben leicht nach."
-    },
-    {
-      "key": "health",
-      "strength": 0,
-      "text": "Gemischt. CG Oncology +14 % nach Studiendaten, Summit Therapeutics -16,5 % nach FDA-Absage."
-    },
-    {
-      "key": "ind",
-      "strength": -1,
-      "text": "Rüstung in Deutschland gefragt, Rheinmetall +0,6 %, Hensoldt und Renk vorn. Siemens und Siemens Energy fielen dagegen."
-    },
-    {
-      "key": "fin",
-      "strength": -1,
-      "text": "Goldman Sachs, Morgan Stanley und JPMorgan verloren jeweils mehr als 2 %. Fed-Gouverneurin Bowman warnte vor hoher Unternehmensverschuldung."
-    },
-    {
       "key": "energy",
-      "strength": -1,
-      "text": "Brent fiel am Montag um 3,6 % auf 92,44 $. Laut IEA übersteigt das Angebot erstmals seit Beginn des Iran-Kriegs die Nachfrage."
+      "strength": 0,
+      "text": "Am besten gehaltener US-Sektor. Brent stieg auf 93,14 $. AECOM +11,1 % nach Rekord-Auftragsbestand."
     },
     {
-      "key": "comm",
+      "key": "staples",
+      "strength": 0,
+      "text": "Defensive Werte gefragt. Energizer +12,6 % nach Zahlen, Henkel im DAX +0,8 %."
+    },
+    {
+      "key": "disc",
       "strength": -1,
-      "text": "Kommunikationswerte gehörten zu den Nachzüglern. iQIYI -17,3 % nach Zahlen."
+      "text": "Home Depot -2,5 % trotz angehobener Prognose. Der Einzelhandelsumsatz stieg im Oktober wie erwartet um 0,2 %."
     },
     {
       "key": "it",
+      "strength": -1,
+      "text": "Software unter Druck. Salesforce -9,5 %, Microsoft -2,3 %, SAP -5,7 %. Chips hielten sich besser, NVIDIA nur -0,4 %, nachbörslich deutlich im Plus."
+    },
+    {
+      "key": "health",
+      "strength": -1,
+      "text": "UnitedHealth -5,4 % nach geplanten Maßnahmen gegen Betrug bei Medicare und Medicaid. SELLAS +156 % nach Studiendaten."
+    },
+    {
+      "key": "util",
+      "strength": -1,
+      "text": "RWE -2,7 % im DAX. Steigende Zinserwartungen belasten Versorger."
+    },
+    {
+      "key": "fin",
       "strength": -2,
-      "text": "SOXX -5,4 %. Micron -7,6 %, Intel -7,0 %, Dell -7,0 %, AMD -5,6 %, NVIDIA -4,1 %, Oracle -5,0 %. Infineon, Aixtron und Siltronic fielen in Frankfurt."
+      "text": "Schwächster US-Sektor mit rund -1,7 %. Moody's -7 %, Coinbase und Robinhood rund -4 %. Deutsche Bank -5,9 % nach Bericht über ein großes Datenleck."
     },
     {
       "key": "crypto",
       "strength": -1,
-      "text": "Bitcoin stabilisierte sich nach dem Wochenendtief nahe 62.000 $ bei rund 64.900 $. Spot-ETFs verloren in der Vorwoche über 1 Mrd. $."
+      "text": "Bitcoin fiel am Dienstag um 1,5 % auf rund 63.900 $ und steht heute früh bei rund 64.350 $. Coinbase -4,0 %."
     }
   ],
   "movers": {
     "us": {
-      "asof": "16.11. (breiter Markt)",
+      "asof": "17.11. (breiter Markt)",
       "up": [
         {
-          "name": "CG Oncology",
-          "chg": 13.95,
-          "why": "Positive Studiendaten bei Blasenkrebs"
+          "name": "SELLAS Life Sciences",
+          "chg": 156.36,
+          "why": "Positive Phase-3-Daten zum Leukämie-Impfstoff"
         },
         {
-          "name": "Lexeo Therapeutics",
-          "chg": 12.54,
-          "why": "Daten zur Gentherapie bei Herzleiden"
+          "name": "Energizer",
+          "chg": 12.57,
+          "why": "Zahlen zum vierten Geschäftsquartal"
         },
         {
-          "name": "Telus",
-          "chg": 12.37,
-          "why": "Übernahmeangebot von Québecor bestätigt"
+          "name": "AECOM",
+          "chg": 11.08,
+          "why": "Rekord-Auftragsbestand von 28 Mrd. $"
         },
         {
-          "name": "Tyson Foods",
-          "chg": 8.74,
-          "why": "Quartal über Erwartung, schwacher Ausblick"
+          "name": "Tencent Music",
+          "chg": 6.64,
+          "why": "Erholung nach Zahlen"
         }
       ],
       "down": [
         {
-          "name": "TRexBio",
-          "chg": -21.21,
-          "why": "Erste Quartalszahlen nach Börsengang"
+          "name": "Red Cat",
+          "chg": -31.73,
+          "why": "Umsatzziel 2026 zurückgezogen"
         },
         {
-          "name": "Summit Therapeutics",
-          "chg": -16.47,
-          "why": "FDA lehnt Zulassung von Ivonescimab ab"
+          "name": "Nextpower",
+          "chg": -12.13,
+          "why": "Reaktion auf den Kapitalmarkttag"
         },
         {
-          "name": "Micron",
-          "chg": -7.62,
-          "why": "Chip-Ausverkauf"
+          "name": "Salesforce",
+          "chg": -9.45,
+          "why": "Sicherheitssorgen und Angst vor KI-Ersatz für Software"
         },
         {
-          "name": "Dell",
-          "chg": -6.96,
-          "why": "Warnungen zur Verschuldung der Branche"
+          "name": "JD.com",
+          "chg": -7.66,
+          "why": "Schwäche bei China-Werten"
         }
       ]
     },
     "de": {
-      "asof": "16.11. (Xetra-Schluss)",
+      "asof": "17.11. (Xetra-Schluss, laut aktiencheck/dpa-AFX)",
       "up": [
         {
-          "name": "Friedrich Vorwerk (SDax)",
-          "chg": 3.6,
-          "why": "Berenberg hebt Kursziel auf 115 €"
+          "name": "Henkel Vz.",
+          "chg": 0.84,
+          "why": "Defensive Käufe ohne Nachricht"
         },
         {
-          "name": "MBB (SDax)",
+          "name": "Deutsche Telekom",
           "chg": 0.7,
-          "why": "Fester im schwachen Markt"
+          "why": "Defensiver Wert im schwachen Markt"
         },
         {
-          "name": "Rheinmetall",
-          "chg": 0.6,
-          "why": "Erholung nach Haushaltsbeschluss"
+          "name": "Zalando",
+          "chg": 0.57,
+          "why": "BlackRock stockt auf 5,83 % auf"
+        },
+        {
+          "name": "Heidelberg Materials",
+          "chg": 0.57,
+          "why": "Berenberg bestätigt Kaufempfehlung, Ziel 210 €"
         }
       ],
       "down": [
         {
-          "name": "Symrise",
-          "chg": -1.3,
-          "why": "Deutsche Bank streicht Kaufempfehlung"
+          "name": "Deutsche Bank",
+          "chg": -5.92,
+          "why": "Berichte über ein Leck interner Dokumente"
         },
         {
-          "name": "Brenntag",
-          "chg": -0.9,
-          "why": "DZ Bank rät zum Verkauf"
+          "name": "SAP",
+          "chg": -5.67,
+          "why": "Software-Ausverkauf, Abgang von Thomas Saueressig"
+        },
+        {
+          "name": "Siemens Energy",
+          "chg": -3.09,
+          "why": "Breiter Ausverkauf"
         },
         {
           "name": "RWE",
-          "chg": -0.5,
-          "why": "Bericht: nicht mehr im Uniper-Bieterkreis"
+          "chg": -2.7,
+          "why": "Steigende Zinserwartungen"
         }
       ]
     }
   },
   "triggers": [
     {
-      "title": "Neue US-Regeln gegen Fernzugriff auf KI-Chips",
+      "title": "NVIDIA-Zahlen über den Erwartungen",
+      "sectors": [
+        "it"
+      ],
+      "text": "Umsatz 115,8 Mrd. $ (+103 %) bei erwarteten rund 109 Mrd. $, Gewinn je Aktie 2,68 $ statt 2,47 $. Ausblick 130 Mrd. $ ±3 % bei erwarteten rund 125 Mrd. $, ohne Rechenzentrums-Umsatz aus China. Nachbörslich bis zu rund +4-5 %."
+    },
+    {
+      "title": "Software-Ausverkauf nach NSA-Meldung",
       "sectors": [
         "it",
-        "comm"
+        "fin"
       ],
-      "text": "Das Handelsministerium will verhindern, dass chinesische Firmen KI-Rechenleistung über Rechenzentren im Ausland mieten, etwa in Thailand und Malaysia. Saxo spricht von einer deutlichen Verschärfung. Betroffen sind NVIDIA, AMD und Cloud-Anbieter."
+      "text": "Ein CNN-Bericht über einen Ausfall eines geheimen NSA-Netzes belastete den Markt. Die NSA sprach von einer vorübergehenden Störung bei Routinewartung. Salesforce, Microsoft und SAP fielen deutlich."
     },
     {
-      "title": "Gesenkte Prognose für KI-Ausgaben",
+      "title": "Datenleck bei der Deutschen Bank",
       "sectors": [
-        "it"
+        "fin"
       ],
-      "text": "SemiAnalysis senkte am Wochenende die Prognose für Ausgaben in KI-Beschleuniger. Für 2028 um 28 % auf 758 Mrd. $, für 2030 um 40 % auf 923 Mrd. $. Das löste den Chip-Ausverkauf mit aus."
+      "text": "Medien berichten über mehr als 15 Mio. geleakte interne Dokumente, unter anderem zu Geldwäsche-Kontrollen. Die Bank nennt die Vorgänge alt und erwartet keine wesentlichen finanziellen Folgen."
     },
     {
-      "title": "NVIDIA-Zahlen heute Abend",
-      "sectors": [
-        "it"
-      ],
-      "text": "Erste Zahlen ohne Jensen Huang. Konsens laut LSEG 109,1 Mrd. $ Umsatz und 2,47 $ je Aktie, andere Schätzungen liegen bei 111 Mrd. $. Optionen preisen rund 7,8 % Bewegung ein. Finanzminister Bessent fordert einen externen Chef."
-    },
-    {
-      "title": "Zinsen und starker Dollar",
+      "title": "Zinsen vor dem Fed-Protokoll",
       "sectors": [
         "fin",
         "re",
+        "util",
         "crypto"
       ],
-      "text": "Eine Fed-Erhöhung um 0,25 Punkte im Dezember gilt als fast sicher, rund 6 % entfallen auf 0,50 Punkte. Der Dollar-Index stieg auf den höchsten Stand seit April 2025, der Euro fiel bis 1,0985 $. Fed-Chef Warsh gab am Montag kein Zinssignal."
+      "text": "Eine Fed-Erhöhung um 0,25 Punkte im Dezember gilt zu 95,5 % als eingepreist. Musalem (St. Louis) erwartet mehrere Erhöhungen bis zum Frühjahr 2027, Hammack (Cleveland) bevorzugt kleine Schritte. Die 10-jährige Rendite liegt bei 5,10 %."
     },
     {
-      "title": "Anthropic-Börsengang und APEC-Gipfel",
+      "title": "Exportregeln und Gipfel in Shenzhen",
       "sectors": [
         "it",
-        "comm",
         "energy"
       ],
-      "text": "Anthropic soll am Mittwochabend den Preis festlegen, der Handel startet am Donnerstag. Am Donnerstag ist in Shenzhen ein Treffen von Trump, Xi und Putin geplant. Szenarien: Entspannungssignale könnten Asien stützen, neue Exportregeln oder Zölle würden Chipwerte eher belasten."
+      "text": "Neue US-Lizenzpflichten gelten für Chip-Lieferungen nach Indonesien, Malaysia, Singapur, Thailand und Brasilien. Am Donnerstag trifft Trump Xi, danach ist ein Dreiertreffen mit Putin geplant. Szenarien: Entspannungssignale könnten Asien stützen, neue Beschränkungen würden Chipwerte eher belasten."
     }
   ],
   "positions": {
-    "NVDA": "Schloss am Montag bei 156,14 $, -4,12 %. Seit Bekanntwerden der Huang-Vorwürfe sank der Börsenwert um rund 735 Mrd. $. Die Zahlen kommen heute gegen 22:20 Uhr, Optionen preisen rund 7,8 % Bewegung ein.",
-    "AMZN": "Schloss am Montag bei 257,75 $, -3,34 %. Eine Vulcan-Rakete mit 40 Leo-Satelliten scheiterte am Wochenende. Dazu kamen die neuen Chip-Regeln und ein Verkauf von Rechenzentrums-Anteilen an Blackstone. Anthropic-Börsengang ab Mittwoch.",
-    "BTC": "Rund 64.900 $ nach einem Wochenendtief nahe 62.000 $. In Euro zuletzt rund 58.450 €. Fed-Protokoll am Mittwoch und der starke Dollar bleiben wichtig.",
-    "WORLD": "S&P 500 -1,9 %, Nasdaq -2,5 %. Tech-Schwergewichte ziehen den ETF nach unten. Die US-Futures notieren heute früh leicht im Plus, die NVIDIA-Zahlen prägen den Abend.",
-    "EM": "Taiwan fiel am Montag um rund 6 %, TSMC um 5,7 %. Heute früh Korea rund -1 bis -2 %, Taiwan rund -1 %, Hongkong -1,2 %. Die neuen US-Regeln treffen Rechenzentren in Südostasien.",
-    "EUROPE": "Der DAX schloss am Montag bei 26.598,64 Punkten, -0,57 %, auf Tagestief. Chip- und Siemens-Werte schwach, Rüstung fester. Die Futures für DAX und Euro Stoxx 50 deuten rund -0,6 % an."
+    "NVDA": "Schloss am Dienstag bei 155,46 $, -0,44 %, in Stuttgart zuletzt 140,84 €. Nach den Zahlen nachbörslich bis zu rund +4-5 %. Der Vorstand will Huang nicht zurückholen, Colette Kress bleibt Interims-Chefin. China ist im Ausblick nicht enthalten.",
+    "AMZN": "Schloss am Dienstag bei 257,89 $, +0,1 %. Heute zeigen Target und TJX, morgen Walmart, wie der Handel läuft. Der Anthropic-Börsengang ab Donnerstag kann auf die Aktie wirken.",
+    "BTC": "Rund 64.350 $ bzw. 58.580 € heute früh, nach -1,5 % am Dienstag. Coinbase fiel um 4 %. Das Fed-Protokoll heute Abend ist wichtig für die Zinserwartung.",
+    "WORLD": "S&P 500 -1,0 % auf den tiefsten Schluss seit Ende Juli, Dow -1,6 %. Die starken NVIDIA-Zahlen könnten Tech stützen, Software und Banken bleiben angeschlagen.",
+    "EM": "Asien gemischt. Korea zunächst bis +3,3 %, später rund +0,5 %, SK Hynix +2,1 %. Taiwan rund -2 %, TSMC -0,5 %, Hongkong -0,7 %, CSI 300 -0,4 %. Die neuen Lizenzpflichten treffen Südostasien und Brasilien.",
+    "EUROPE": "DAX -2,08 % auf 26.045,37 Punkte, Euro Stoxx 50 -2,15 % auf 6.212,11. Deutsche Bank und SAP belasteten. Die ZEW-Erwartungen stiegen auf 35,6 Punkte, besser als erwartet."
   },
   "events": [
     {
-      "date": "2026-11-17",
-      "time": "vorbörslich",
-      "title": "Zahlen Home Depot",
-      "kind": "Zahlen",
-      "text": "Baumarktkette, Signal für Konsum und Immobilienmarkt.",
-      "sectors": {
-        "disc": "Gradmesser für Konsumausgaben.",
-        "re": "Hinweis auf den Wohnungsmarkt."
-      },
-      "positions": {
-        "WORLD": "Großer US-Wert im Index."
-      }
-    },
-    {
-      "date": "2026-11-17",
-      "time": "14:30",
-      "title": "US-Einzelhandelsumsatz (Oktober)",
-      "kind": "Konjunktur",
-      "text": "Konsens +0,2 % zum Vormonat nach +0,8 %. Am Nachmittag sprechen die Fed-Vertreter Waller, Hammack und Williams.",
-      "sectors": {
-        "disc": "Gradmesser für den Konsum vor dem Weihnachtsgeschäft.",
-        "staples": "Zeigt, wie stabil der Grundkonsum ist."
-      },
-      "positions": {
-        "AMZN": "Hinweis auf die Nachfrage im Handel.",
-        "WORLD": "Konjunkturbild der USA."
-      }
-    },
-    {
-      "date": "2026-11-17",
-      "time": "22:20",
-      "title": "Zahlen NVIDIA (Q3 FY27)",
-      "kind": "Zahlen",
-      "text": "Nach US-Börsenschluss, Telefonkonferenz um 23:00 Uhr. Konsens laut LSEG 109,1 Mrd. $ Umsatz und 2,47 $ je Aktie. Optionen preisen rund 7,8 % ein. Im Fokus stehen Ausblick, China, die neuen Exportregeln und die Führungsfrage.",
-      "sectors": {
-        "it": "Bewegt den gesamten Chip- und KI-Sektor."
-      },
-      "positions": {
-        "NVDA": "Direkte Position, binäres Ereignis.",
-        "WORLD": "Großes Gewicht im ETF.",
-        "EM": "Zulieferer wie TSMC und SK Hynix reagieren mit."
-      }
-    },
-    {
       "date": "2026-11-18",
       "time": "vorbörslich",
-      "title": "Zahlen Target und TJX",
+      "title": "Zahlen Target, TJX und Lowe's",
       "kind": "Zahlen",
-      "text": "Optionen preisen bei Target rund ±9 % ein, bei TJX rund ±5,9 %.",
+      "text": "Vor US-Börsenbeginn. Optionen preisen bei Target rund ±9 % ein, bei TJX rund ±5,9 %. Lowe's folgt auf Home Depot, das gestern die Jahresprognose anhob.",
       "sectors": {
-        "disc": "Signal für den US-Einzelhandel."
+        "disc": "Signal für den US-Einzelhandel.",
+        "re": "Lowe's gibt Hinweise auf den Wohnungsmarkt."
       },
       "positions": {
         "AMZN": "Vergleich mit dem stationären Handel."
@@ -298,7 +260,7 @@
       "time": "20:00",
       "title": "Fed-Protokoll (Oktober-Sitzung)",
       "kind": "Zinsen",
-      "text": "Das Protokoll zeigt, wie stark die Notenbanker zu einer Zinserhöhung neigen.",
+      "text": "Das Protokoll zeigt, wie stark die Notenbanker zu einer Zinserhöhung neigen. Laut CME FedWatch gilt eine Erhöhung um 0,25 Punkte im Dezember zu 95,5 % als eingepreist. Um 19:00 Uhr wird zudem eine 20-jährige Anleihe über 16 Mrd. $ versteigert.",
       "sectors": {
         "fin": "Zinsausblick.",
         "re": "Zinsempfindlich.",
@@ -311,10 +273,10 @@
     },
     {
       "date": "2026-11-18",
-      "time": "nachbörslich",
+      "time": "offen",
       "title": "Preisfestsetzung Börsengang Anthropic",
       "kind": "Markt",
-      "text": "Geplanter Nasdaq-Ticker ANT, Preisspanne 70-78 $. Der erste Handelstag wird für Donnerstag erwartet. Der Börsengang gilt als Test für die Risikobereitschaft bei KI-Werten.",
+      "text": "Geplanter Nasdaq-Ticker ANT, Preisspanne 70-78 $. Die Berichte zum Zeitpunkt der Preisfestsetzung weichen ab. Der erste Handelstag wird für Donnerstag erwartet. Der Börsengang gilt als Test für die Risikobereitschaft bei KI-Werten.",
       "sectors": {
         "it": "Stimmungstest für den KI-Sektor."
       },
@@ -344,24 +306,10 @@
     },
     {
       "date": "2026-11-19",
-      "time": "vorbörslich",
-      "title": "Zahlen Walmart",
-      "kind": "Zahlen",
-      "text": "Optionen preisen rund ±6,2 % ein.",
-      "sectors": {
-        "staples": "Größter US-Händler, Signal für den Konsum.",
-        "disc": "Hinweise auf das Weihnachtsgeschäft."
-      },
-      "positions": {
-        "AMZN": "Direkter Wettbewerber im Handel."
-      }
-    },
-    {
-      "date": "2026-11-19",
-      "time": "offen",
+      "time": "05:45",
       "title": "Treffen Trump, Xi und Putin beim APEC-Gipfel in Shenzhen",
       "kind": "Politik",
-      "text": "Laut Kreml-Sprecher Peskow ist ein Dreiertreffen geplant. Der APEC-Gipfel läuft am Mittwoch und Donnerstag.",
+      "text": "Laut Terminplan trifft Trump Xi um 12:45 Uhr Ortszeit (05:45 Uhr deutscher Zeit), um 14:30 Uhr Ortszeit (07:30 Uhr) ist ein Dreiertreffen mit Putin geplant. Putin ist bereits in Shenzhen.",
       "sectors": {
         "it": "Exportregeln für Chips nach China sind ein Thema.",
         "energy": "Ukraine und Sanktionen wirken auf den Ölpreis."
@@ -376,6 +324,35 @@
         "Es endet ohne greifbares Ergebnis, der Markt richtet sich wieder auf Zinsen und Zahlen.",
         "Neue Zölle oder Exportregeln werden angekündigt, Chipwerte und Schwellenländer gerieten eher unter Druck."
       ]
+    },
+    {
+      "date": "2026-11-19",
+      "time": "vorbörslich",
+      "title": "Zahlen Walmart",
+      "kind": "Zahlen",
+      "text": "Optionen preisen rund ±6,2 % ein.",
+      "sectors": {
+        "staples": "Größter US-Händler, Signal für den Konsum.",
+        "disc": "Hinweise auf das Weihnachtsgeschäft."
+      },
+      "positions": {
+        "AMZN": "Direkter Wettbewerber im Handel."
+      }
+    },
+    {
+      "date": "2026-11-19",
+      "time": "15:30",
+      "title": "Erster Handelstag Anthropic (ANT)",
+      "kind": "Markt",
+      "text": "Erwarteter Handelsstart an der Nasdaq. Die Erstnotiz zeigt, wie viel Geld Anleger für KI-Werte bereitstellen.",
+      "sectors": {
+        "it": "Stimmungstest für KI-Werte."
+      },
+      "positions": {
+        "AMZN": "Amazon ist an Anthropic beteiligt.",
+        "NVDA": "Gradmesser für die KI-Nachfrage.",
+        "WORLD": "Großes Emissionsvolumen kann Mittel aus anderen Tech-Werten abziehen."
+      }
     },
     {
       "date": "2026-11-20",
@@ -480,52 +457,60 @@
   "closes": {},
   "sources": [
     {
-      "title": "StockTitan: Stock Market Today, 16.11.2026",
-      "url": "https://stocktitan.net/articles/stock-market-today-live-november-16-2026"
+      "title": "Motley Fool: Stocks Slide on AI Chip and Tech Pressures, 17.11.2026",
+      "url": "https://www.fool.com/coverage/stock-market-today/2026/11/17/stock-market-today-nov-17-stocks-slide-on-ai-chip-and-tech-pressures-salesforce-plummets-9/"
     },
     {
-      "title": "The Weekend Spread: The Close, 16.11.2026",
-      "url": "https://theweekendspread.substack.com/p/the-close-monday-november-16-2026"
+      "title": "Motley Fool: Nvidia Slides Ahead of Earnings but Soars After Hours",
+      "url": "https://www.fool.com/coverage/stock-market-today/2026/11/17/stock-market-today-nov-17-nvidia-slides-ahead-of-earnings-but-soars-in-after-hours-trading/"
     },
     {
-      "title": "Yahoo Finance: Stock Market Today, Nov. 16",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-nov-16-222502139.html"
+      "title": "StockTitan: Stock Market Today, 17.11.2026",
+      "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-17-2026"
     },
     {
-      "title": "24/7 Wall St.: S&P 500 Closes Down 2%",
-      "url": "https://247wallst.com/cards/tech-took-the-worst-of-it-the-nasdaq-s-2-54-drop-nearly-do-gspc-market-bell-01m7k2rvdndtgg635thrxjgnck"
+      "title": "The Weekend Spread: The Close, 17.11.2026",
+      "url": "https://theweekendspread.substack.com/p/the-close-tuesday-november-17-2026"
     },
     {
-      "title": "Motley Fool: Amazon Falls on New AI Chip Export Rule",
-      "url": "https://www.fool.com/coverage/stock-market-today/2026/11/16/stock-market-today-nov-16-amazon-falls-on-new-ai-chip-export-rule-and-leo-satellite-launch-failure/"
+      "title": "NVIDIA: Ergebnisse Q3 FY2027 (SEC 8-K)",
+      "url": "https://www.sec.gov/Archives/edgar/data/0001045810/000104581026000088/q3fy27pr.htm"
     },
     {
-      "title": "ARIVA/dpa-AFX: Aktien Frankfurt Schluss, 16.11.2026",
-      "url": "https://www.ariva.de/news/roundup-aktien-frankfurt-schluss-tech-schwaeche-macht-dax-zu-12209139"
+      "title": "Yahoo Finance: Nvidia earnings live",
+      "url": "https://finance.yahoo.com/technology/live/nvidia-earnings-live-nvidia-posts-q3-beat-board-says-it-will-not-reinstate-jensen-huang-as-ceo-221428433.html"
     },
     {
-      "title": "boerse.de: Tech-Schwäche macht Dax zu schaffen",
-      "url": "https://www.boerse.de/nachrichten/Aktien-Frankfurt-Schluss-Tech-Schwaeche-macht-Dax-zu-schaffen/38723547"
+      "title": "MarketScreener/dpa-AFX: Aktien Frankfurt Schluss, 17.11.2026",
+      "url": "https://de.marketscreener.com/boerse-nachrichten/aktien-frankfurt-schluss-klare-verluste-nervositaet-vor-nvidia-zahlen-ce785edcdd89f420"
     },
     {
-      "title": "AP/News4Jax: Asian shares decline, 17.11.2026",
-      "url": "https://www.news4jax.com/business/2026/11/17/asian-shares-decline-following-stocks-tumbled-on-wall-street/"
+      "title": "aktiencheck: DAX Check am Abend, 17.11.2026",
+      "url": "https://aktiencheck.de/artikel/dax-check-am-abend-henkel-telekom-und-zalando-trotzen-dem-ausverkauf-deutsche"
     },
     {
-      "title": "Reuters/The Star: Asia shares slide ahead of Nvidia earnings",
-      "url": "https://www.thestar.com.my/business/business-news/2026/11/17/asia-shares-slide-on-tech-weakness-ahead-of-nvidia-earnings"
+      "title": "finanznachrichten/dpa-AFX: Aktien Europa Schluss",
+      "url": "https://www.finanznachrichten.de/nachrichten-2026-11/70157487-aktien-europa-schluss-deutliche-verluste-vor-nvidia-zahlen-016.htm"
     },
     {
-      "title": "Börse Express: Nvidia Aktie, Kress im Rampenlicht",
-      "url": "https://www.boerse-express.com/news/articles/nvidia-aktie-kress-im-rampenlicht-963605"
+      "title": "ad-hoc-news: DAX schließt am 17. November tiefer",
+      "url": "https://www.ad-hoc-news.de/boerse/news/marktberichte/dax-schliesst-am-17-november-1-97-prozent-tiefer-bei-26-075-73-punkten/70528278"
     },
     {
-      "title": "ad-hoc-news: Amazon vorbörslich, 16.11.2026",
-      "url": "https://www.ad-hoc-news.de/boerse/news/vorboerse/amazon-com-aktie-vorboerslich-238-80-euro-0-48-prozent-tiefer/70519682"
+      "title": "boerse.de/dpa-AFX: Nvidia verdoppelt erneut Umsatz und Gewinn",
+      "url": "https://www.boerse.de/nachrichten/Nvidia-verdoppelt-erneut-Umsatz-und-Gewinn-Aktie-legt-zu/38725492"
     },
     {
-      "title": "Tixio: Bitcoin Kurs bei 58.447 Euro",
-      "url": "https://www.tixio.de/1366182-bitcoin-kurs-bei-58-44700-euro-042-gefallen.html"
+      "title": "Investing.com: Asia tech shares turn mixed after Nvidia beat",
+      "url": "https://au.investing.com/news/stock-market-news/asia-tech-shares-turn-mixed-after-nvidia-beat-as-china-chip-curbs-cloud-optimism-4778750"
+    },
+    {
+      "title": "ad-hoc-news: Amazon vorbörslich, 17.11.2026",
+      "url": "https://www.ad-hoc-news.de/boerse/news/vorboerse/amazon-com-aktie-vorboerslich-233-73-euro-1-63-prozent-tiefer/70525121"
+    },
+    {
+      "title": "onvista: Bitcoin Euro",
+      "url": "https://www.onvista.de/kryptowaehrungen/Bitcoin-Euro-BTC-EUR"
     }
   ]
 }
