@@ -1,183 +1,202 @@
 {
-  "updated": "2026-11-19T06:55:00+01:00",
-  "headline": "Fed-Protokoll signalisiert weitere Zinserhöhungen, Anthropic-Börsengang zu 83 $ heute im Fokus",
-  "summary": "Fast alle Fed-Mitglieder halten laut Protokoll weitere Zinserhöhungen für angemessen, Gouverneur Waller wirbt für 0,5 Punkte im Dezember. Der S&P 500 fiel um 0,23 % zum fünften Mal in Folge, der Dow um 1,11 %. Der Nasdaq stieg um 0,42 %, Amazon gewann 3,8 %, NVIDIA verlor 2,9 % trotz starker Zahlen. Anthropic setzte den Ausgabepreis auf 83 $, über der Spanne, und nimmt rund 81 Mrd. $ ein. Krankenversicherer fielen nach einer geplanten Medicare-Regel, Öl und Gold gaben deutlich nach. Der DAX schloss 1,19 % tiefer unter 26.000 Punkten. Asien ist heute früh schwach, Taiwan fällt rund 4 %. US-Futures steigen vor dem Anthropic-Debüt. Heute treffen sich Trump, Xi und Putin in Shenzhen, vorbörslich berichten Walmart und Alibaba.",
+  "updated": "2026-11-20T07:10:00+01:00",
+  "headline": "KI-Ausverkauf trotz Anthropic-Debüt: Dow fällt um 1.101 Punkte, Asien bricht ein",
+  "summary": "Anthropic startete zu 111,50 $ und schloss bei 97,17 $, rund 17 % über dem Ausgabepreis von 83 $. Die Euphorie hielt nicht, KI-Werte drehten ins Minus. Der S&P 500 fiel um 2,02 % zum sechsten Mal in Folge, der Nasdaq um 2,25 %, der Dow um 2,19 % und schloss erstmals seit Juni unter 50.000 Punkten. NVIDIA verlor 3,3 %, Amazon rund 3,9 %, AMD 7,7 %. Fed-Gouverneur Barr nannte die Inflation zu hoch, eine Erhöhung im Dezember gilt als nahezu sicher. Der DAX schloss 1,06 % tiefer auf einem Drei-Wochen-Tief. Heute früh fallen Nikkei und Kospi um rund 4,5 %, der DAX-Future liegt bei rund 25.208 Punkten. Der Gipfel in Shenzhen brachte keine Einigung zu Zöllen, Chips oder Seltenen Erden.",
   "indices": [
     {
       "name": "S&P 500",
-      "value": "7.323,63",
-      "chg": -0.23,
-      "asof": "18.11., 5. Verlusttag in Folge"
+      "value": "7.175,83",
+      "chg": -2.02,
+      "asof": "19.11., 6. Verlusttag in Folge"
     },
     {
       "name": "Nasdaq",
-      "value": "24.429,88",
-      "chg": 0.42,
-      "asof": "18.11."
+      "value": "23.879,20",
+      "chg": -2.25,
+      "asof": "19.11."
     },
     {
       "name": "Dow Jones",
-      "value": "50.198,17",
-      "chg": -1.11,
-      "asof": "18.11."
+      "value": "49.097,06",
+      "chg": -2.19,
+      "asof": "19.11., -1.101 Punkte"
     },
     {
       "name": "Russell 2000",
-      "value": "2.714,31",
-      "chg": 0.46,
-      "asof": "18.11."
+      "value": "IWM-ETF 264,20 $",
+      "chg": -2.19,
+      "asof": "19.11., gemessen am ETF"
     },
     {
       "name": "DAX",
-      "value": "25.736,24",
-      "chg": -1.19,
-      "asof": "18.11., Xetra-Schluss"
+      "value": "25.463,81",
+      "chg": -1.06,
+      "asof": "19.11., Xetra-Schluss. Future 20.11. früh 25.208"
     },
     {
       "name": "US-Rendite 10J",
-      "value": "5,07 %",
+      "value": "5,04 %",
       "chg": null,
-      "asof": "18.11., -3 Basispunkte"
+      "asof": "19.11., -3 Basispunkte"
     },
     {
       "name": "Öl (WTI)",
-      "value": "83,26 $",
-      "chg": -3.2,
-      "asof": "18.11., tiefster Schluss seit 26.8."
+      "value": "83,53 $",
+      "chg": 0.38,
+      "asof": "19.11."
     },
     {
       "name": "Bitcoin",
-      "value": "rund 57.840 €",
-      "chg": null,
-      "asof": "19.11. früh, Mittwoch rund -4 % in Dollar"
+      "value": "rund 61.510 $",
+      "chg": -2.7,
+      "asof": "20.11. 02:30, über 24 Stunden"
     }
   ],
   "sectors": [
     {
-      "key": "disc",
-      "strength": 2,
-      "text": "Stärkster US-Sektor mit rund +1,8 %. TJX +8,1 % und Target +4,0 % nach Zahlen, Amazon +3,8 % dank Anthropic-Bewertung."
+      "key": "energy",
+      "strength": 1,
+      "text": "Einer von nur zwei positiven US-Sektoren mit +0,14 %. WTI stieg leicht auf 83,53 $."
     },
     {
-      "key": "it",
+      "key": "staples",
       "strength": 0,
-      "text": "Gespalten. Palo Alto +9,9 % nach Zahlen, CrowdStrike +8,0 % nach einer Sicherheitswarnung. NVIDIA -2,9 %, heute früh fallen TSMC und Taiwan deutlich."
-    },
-    {
-      "key": "comm",
-      "strength": 0,
-      "text": "Kaum verändert mit rund +0,3 %. Tencent fällt heute in Hongkong um rund 6 %."
-    },
-    {
-      "key": "fin",
-      "strength": -1,
-      "text": "Rund -1,1 %. Das Fed-Protokoll und Waller deuten auf weitere Zinserhöhungen."
+      "text": "Knapp im Plus mit +0,04 %. Walmart fiel trotz besserer Zahlen und höherer Prognose um 1,0 %."
     },
     {
       "key": "health",
-      "strength": -2,
-      "text": "Rund -2,2 %. Humana -13,0 %, UnitedHealth -10,2 %, Elevance -7,6 % nach einer geplanten Prüfregel für Medicare Advantage."
+      "strength": 0,
+      "text": "Uneinheitlich. Insmed +20,6 % nach Berichten über ein mögliches Sanofi-Angebot."
     },
     {
-      "key": "energy",
+      "key": "comm",
+      "strength": -1,
+      "text": "Alphabet rund -2,9 %, obwohl das Anthropic-Debüt den Wert der Google-Beteiligung zeigt. Tencent fällt heute in Hongkong."
+    },
+    {
+      "key": "disc",
       "strength": -2,
-      "text": "Schwächster US-Sektor mit rund -3,3 %. WTI fiel um 3,2 % auf 83,26 $ nach einem Lageraufbau von 3,38 Mio. Barrel."
+      "text": "Amazon rund -3,9 % nach dem Plus vom Mittwoch. Die KI-Verkäufe trafen auch große Handelswerte."
+    },
+    {
+      "key": "it",
+      "strength": -2,
+      "text": "AMD -7,7 % nach einem Bericht über Verbindungen zu einem gelisteten chinesischen Serverhersteller, NVIDIA -3,3 %. Palo Alto +6,4 % nach Zahlen. In Tokio fallen SoftBank, Kioxia und Ibiden um mehr als 10 %."
+    },
+    {
+      "key": "ind",
+      "strength": -2,
+      "text": "Schwächster US-Sektor mit -2,61 %."
     },
     {
       "key": "mat",
-      "strength": -2,
-      "text": "Gold -3,5 % auf rund 3.729 $, Silber -4,8 %, Kupfer -5,2 %. Steigende Renditen und ein starker Dollar belasten."
+      "strength": -1,
+      "text": "Gold fiel um 1,4-2,1 % auf rund 3.660-3.675 $. In Deutschland stürzte Evonik um mehr als 16 % ab."
     },
     {
       "key": "crypto",
-      "strength": -2,
-      "text": "Bitcoin fiel am Mittwoch um rund 4 % auf etwa 62.300 $. Citi senkte das 12-Monats-Ziel auf 99.532 $."
+      "strength": -1,
+      "text": "Bitcoin fiel binnen 24 Stunden um 2,7 % auf rund 61.510 $. Der Angst-und-Gier-Index steht bei 12, extreme Angst."
     }
   ],
   "movers": {
     "us": {
-      "asof": "18.11. (breiter Markt)",
+      "asof": "19.11. (breiter Markt)",
       "up": [
         {
-          "name": "BellRing Brands",
-          "chg": 24.07,
-          "why": "Zahlen und Umsatzausblick 2,32-2,42 Mrd. $"
+          "name": "Insmed",
+          "chg": 20.58,
+          "why": "Berichte über ein mögliches Übernahmeangebot von Sanofi"
+        },
+        {
+          "name": "Anthropic (Erstnotiz)",
+          "chg": 17.1,
+          "why": "Schluss 97,17 $ gegenüber 83 $ Ausgabepreis, Eröffnung bei 111,50 $"
         },
         {
           "name": "Palo Alto Networks",
-          "chg": 9.9,
-          "why": "Umsatz +39 %, Jahresprognose angehoben"
-        },
-        {
-          "name": "TJX",
-          "chg": 8.05,
-          "why": "Vergleichbare Umsätze +4 %, Prognose angehoben"
-        },
-        {
-          "name": "Target",
-          "chg": 4.01,
-          "why": "Umsatz +7,1 %, Jahresausblick angehoben"
+          "chg": 6.42,
+          "why": "Zahlen über den Erwartungen, Übernahme für 4,5 Mrd. $"
         }
       ],
       "down": [
         {
-          "name": "Hyster-Yale",
-          "chg": -41.07,
-          "why": "Geplante Wandelanleihe über 125 Mio. $"
+          "name": "AMD",
+          "chg": -7.72,
+          "why": "Bericht über Verbindungen zu einem gelisteten chinesischen Serverhersteller"
         },
         {
-          "name": "Jumia",
-          "chg": -40.82,
-          "why": "Jahresprognose gesenkt, schwacher Black Friday"
+          "name": "Amazon",
+          "chg": -3.9,
+          "why": "Gewinnmitnahmen im KI-Ausverkauf"
         },
         {
-          "name": "Humana",
-          "chg": -12.98,
-          "why": "Geplante Medicare-Prüfregel"
+          "name": "NVIDIA",
+          "chg": -3.3,
+          "why": "Morgens bis 158,13 $, dann Verkäufe im KI-Sektor"
         },
         {
-          "name": "UnitedHealth",
-          "chg": -10.21,
-          "why": "Geplante Medicare-Prüfregel"
+          "name": "Alphabet",
+          "chg": -2.9,
+          "why": "KI-Werte unter Druck trotz Anthropic-Beteiligung"
         }
       ]
     },
     "de": {
-      "asof": "18.11. (DAX, MDax, SDax laut dpa-AFX)",
+      "asof": "19.11. (DAX, MDax, SDax laut dpa-AFX)",
       "up": [
         {
-          "name": "Drägerwerk (SDax)",
-          "chg": 6.6,
-          "why": "Ziele vom Kapitalmarkttag"
+          "name": "OHB (SDax)",
+          "chg": 4.6,
+          "why": "KI- und Satelliten-Thema"
         },
         {
-          "name": "Zalando",
-          "chg": 2.8,
-          "why": "Großaktionär Holch Povlsen kauft Aktien für gut 5 Mio. €"
+          "name": "Medios",
+          "chg": 2.3,
+          "why": "Großes Aktienrückkaufprogramm angekündigt"
         },
         {
-          "name": "Siltronic (MDax)",
+          "name": "Infineon, Siemens Energy, Aixtron",
           "chg": null,
-          "why": "Fast +5 % nach Kaufempfehlung von Berenberg"
-        },
-        {
-          "name": "Infineon",
-          "chg": null,
-          "why": "Erholung der Chipwerte nach NVIDIA-Zahlen"
+          "why": "Bis zu +2,1 % dank KI-Thema"
         }
       ],
       "down": [
         {
-          "name": "Deutz",
-          "chg": -17.0,
-          "why": "Rund -17 % nach kritischem Bericht eines Leerverkäufers"
+          "name": "Evonik",
+          "chg": null,
+          "why": "Mehr als -16 %, BASF gibt Übernahmeversuch nach zwei Absagen auf"
+        },
+        {
+          "name": "Lanxess",
+          "chg": -4.1,
+          "why": "Abstufung durch Kepler Cheuvreux"
+        },
+        {
+          "name": "SAP",
+          "chg": -3.6,
+          "why": "Vierter Verlusttag in Folge, zusammen mehr als -12 %"
+        },
+        {
+          "name": "Henkel Vz.",
+          "chg": -2.2,
+          "why": "Abstufung durch Kepler Cheuvreux"
         }
       ]
     }
   },
   "triggers": [
     {
-      "title": "Fed-Protokoll und Waller",
+      "title": "Anthropic-Debüt ohne Rückenwind",
+      "sectors": [
+        "it",
+        "comm",
+        "disc"
+      ],
+      "text": "Erster Kurs 111,50 $, Hoch rund 115 $, Schluss 97,17 $. Danach wurden KI-Werte breit verkauft. Sorgen um Bewertungen und die Rendite der KI-Ausgaben überwiegen. Heute folgt eine Privatplatzierung über 26 Mrd. $."
+    },
+    {
+      "title": "Fed bleibt auf Erhöhungskurs",
       "sectors": [
         "fin",
         "re",
@@ -185,107 +204,67 @@
         "crypto",
         "it"
       ],
-      "text": "Fast alle Mitglieder halten weitere Erhöhungen für angemessen, einige auch mehr als 0,25 Punkte im Dezember. Waller sprach sich für 0,5 Punkte aus. Kalshi sieht eine Erhöhung um 0,25 Punkte am 9.12. bei rund 90 %. Der Dollar stieg auf ein Jahreshoch."
+      "text": "Gouverneur Barr nannte die Inflation zu hoch. Märkte preisen eine Erhöhung im Dezember nahezu sicher ein. Der Preisindex der Philly-Fed stieg auf 58,2, der Gesamtindex fiel auf 6,3. Heute sprechen Waller und Cook."
     },
     {
-      "title": "Anthropic zu 83 $ bewertet",
+      "title": "Asien bricht ein",
+      "sectors": [
+        "it"
+      ],
+      "text": "Nikkei und Kospi fallen heute früh um rund 4,5 %, der Hang Seng um rund 2 % und liegt rund 20 % unter dem Januar-Hoch. MSCI Asien-Pazifik rund -3 %, tiefster Stand seit April."
+    },
+    {
+      "title": "Shenzhen-Gipfel ohne Durchbruch",
       "sectors": [
         "it",
-        "disc"
-      ],
-      "text": "Preis über der Spanne von 70-78 $, Erlös rund 81 Mrd. $, der größte Börsengang bisher. Die Bewertung liegt voll verwässert bei rund 1,5 Bio. $. Erster Handelstag an der Nasdaq ist heute."
-    },
-    {
-      "title": "Medicare-Regel trifft Versicherer",
-      "sectors": [
-        "health"
-      ],
-      "text": "Die Behörde CMS will Prüfergebnisse bei Medicare Advantage bis 2018 hochrechnen und schätzt Rückforderungen von 90,2 Mrd. $ für 2027-2036. Stellungnahmen sind bis 19.1.2027 möglich."
-    },
-    {
-      "title": "Öl und Metalle unter Druck",
-      "sectors": [
-        "energy",
-        "mat"
-      ],
-      "text": "WTI fiel um 3,2 % nach einem überraschenden Lageraufbau. Gold und Silber fielen auf den tiefsten Stand seit September 2025, belastet von Renditen über 5 % und einem festen Dollar."
-    },
-    {
-      "title": "Gipfel Trump, Xi und Putin",
-      "sectors": [
-        "it",
+        "mat",
         "energy"
       ],
-      "text": "Heute in Shenzhen, erstes Dreiertreffen dieser Art. Beobachter erwarten wenig Konkretes. Themen sind Zölle, Seltene Erden, Chips, Iran und Atomwaffen. Der Zollaufschub läuft bis 10.1.2027."
+      "text": "Keine Verlängerung des Zollaufschubs, der am 10.1. ausläuft, keine Lösung bei Chips und Seltenen Erden. China spricht von strategischer Stabilität. Bei der Ukraine gab es kaum sichtbare Fortschritte."
+    },
+    {
+      "title": "BASF gibt bei Evonik auf",
+      "sectors": [
+        "mat"
+      ],
+      "text": "Evonik lehnte zwei unverbindliche Barangebote ab, BASF beendete den Übernahmeversuch. Evonik fiel um mehr als 16 %, BASF um 1,0 %."
     }
   ],
   "positions": {
-    "NVDA": "Schloss am Mittwoch 2,9 % tiefer, der fünfte Verlusttag, die starken Zahlen stützten nur kurz. Seit Monatsbeginn steht laut Reuters rund -26 % zu Buche. Heute früh fallen TSMC und Taiwan deutlich, Nasdaq-Futures steigen. Im Blick: Gipfel in Shenzhen und Anthropic-Debüt.",
-    "AMZN": "Stieg am Mittwoch um 3,8 %, weil der Anthropic-Preis von 83 $ den Wert der Beteiligung zeigt. Laut Börsenprospekt hält Amazon danach rund 14,7 %. Heute folgen Walmart-Zahlen und die Erstnotiz von Anthropic.",
-    "BTC": "Fiel am Mittwoch um rund 4 % auf etwa 62.300 $, laut BTC-ECHO Tagesschluss 56.790 €. Heute früh rund 57.840 €. Die Aussicht auf weitere Fed-Erhöhungen und der starke Dollar belasten.",
-    "WORLD": "S&P 500 -0,2 % zum fünften Mal in Folge und unter der 200-Tage-Linie, Dow -1,1 %, Nasdaq +0,4 %. US-Futures steigen heute früh. Zinsausblick und Anthropic-Debüt bestimmen den Tag.",
-    "EM": "Asien heute schwach. Taiwan rund -3,9 %, TSMC -2,8 %, Hang Seng -1,9 %, Kospi -0,5 %, CSI 300 -0,5 %. Tencent -6,4 % und Alibaba -5,3 % vor Zahlen. Der Gipfel in Shenzhen kann China und Asien bewegen.",
-    "EUROPE": "DAX -1,19 % auf 25.736,24 Punkte, erstmals seit einiger Zeit unter 26.000, Euro Stoxx 50 -0,9 %. Chipwerte erholten sich etwas. Der Handel ist laut CMC dünn, kleine Orders bewegen die Kurse stärker."
+    "NVDA": "Fiel am Donnerstag um 3,3 % auf 145,98 $, der sechste Verlusttag. Morgens lag die Aktie noch bis 158,13 $. In Tradegate rund 133,78 € am Abend. Heute früh fallen Asiens Chipwerte deutlich, Nasdaq-Futures rund -0,7 %.",
+    "AMZN": "Fiel um rund 3,9 % auf etwa 257,37 $ und gab das Plus vom Mittwoch wieder ab. Das Anthropic-Debüt stützte nicht. In Stuttgart am Abend 234,40 €. Heute stehen keine eigenen Termine an, Black Friday folgt am 27.11.",
+    "BTC": "Rund 61.510 $, minus 2,7 % in 24 Stunden. Am Abend des 19.11. rund 56.750 €. Zinsangst und der Ausverkauf bei Risikoanlagen belasten, der Angst-Index zeigt extreme Angst.",
+    "WORLD": "S&P 500 -2,0 % zum sechsten Mal in Folge, Dow erstmals seit Juni unter 50.000. Die Futures zeigen heute früh weiter leicht nach unten. Fed-Reden und Optionsverfall bestimmen den Tag.",
+    "EM": "Asien heute sehr schwach. Kospi rund -4,5 %, Hang Seng rund -2 %, Shanghai -1,7 %. Samsung, Tencent und andere KI-Werte fallen. Der Gipfel in Shenzhen brachte keine Entlastung im Handelsstreit.",
+    "EUROPE": "DAX -1,06 % auf 25.463,81 Punkte, Drei-Wochen-Tief und rund 5 % unter dem Rekord. Euro Stoxx 50 -0,7 %. Der DAX-Future deutet heute auf einen Start um 25.200 Punkte. Lagarde und Nagel sprechen heute."
   },
   "events": [
     {
-      "date": "2026-11-19",
-      "time": "05:45",
-      "title": "Treffen Trump, Xi und Putin beim APEC-Gipfel in Shenzhen",
-      "kind": "Politik",
-      "text": "Trump trifft Xi laut Plan um 05:45 Uhr, das Dreiertreffen mit Putin ist für 07:30 Uhr deutscher Zeit geplant. Ergebnisse lagen bei Redaktionsschluss noch nicht vor. Der Zollaufschub zwischen USA und China läuft bis 10.1.2027.",
+      "date": "2026-11-20",
+      "time": "09:30",
+      "title": "Reden Lagarde und Nagel (Euro Finance Week)",
+      "kind": "Zinsen",
+      "text": "Lagarde um 09:30 Uhr, Bundesbank-Präsident Nagel um 14:00 Uhr. Hinweise auf den EZB-Entscheid am 17.12.",
       "sectors": {
-        "it": "Exportregeln für Chips und Seltene Erden sind Themen.",
-        "energy": "Iran, Ukraine und Sanktionen wirken auf den Ölpreis."
+        "fin": "Zinsausblick für europäische Banken."
       },
       "positions": {
-        "NVDA": "China-Geschäft und Exportregeln.",
-        "EM": "China und Asien reagieren direkt.",
-        "EUROPE": "Europa hängt an Handel und Energie."
-      },
-      "scenarios": [
-        {
-          "name": "Entspannung",
-          "text": "Signale zu Zöllen, Seltenen Erden oder Iran könnten Risikoanlagen und Asien stützen."
-        },
-        {
-          "name": "Symbolisches Treffen",
-          "text": "Wenig Konkretes, der Markt richtet sich wieder auf Zinsen und Zahlen."
-        },
-        {
-          "name": "Neue Spannungen",
-          "text": "Neue Zölle oder Exportregeln würden Chipwerte und Schwellenländer eher belasten."
-        }
-      ]
-    },
-    {
-      "date": "2026-11-19",
-      "time": "vorbörslich",
-      "title": "Zahlen Walmart und Alibaba",
-      "kind": "Zahlen",
-      "text": "Walmart vor US-Börsenbeginn, Optionen preisen rund ±6,2 % ein. Alibaba fiel in Hongkong vor den Zahlen um rund 5 %.",
-      "sectors": {
-        "staples": "Größter US-Händler, Signal für den Konsum.",
-        "disc": "Hinweise auf das Weihnachtsgeschäft."
-      },
-      "positions": {
-        "AMZN": "Direkter Wettbewerber im Handel.",
-        "EM": "Alibaba ist ein großer Wert in Schwellenländer-Indizes."
+        "EUROPE": "Zinssignale wirken direkt auf europäische Aktien."
       }
     },
     {
-      "date": "2026-11-19",
-      "time": "ab 15:30",
-      "title": "Erster Handelstag Anthropic (ANT)",
-      "kind": "Markt",
-      "text": "Ausgabepreis 83 $, Erlös rund 81 Mrd. $, Bewertung voll verwässert rund 1,5 Bio. $. Die genaue Uhrzeit der Erstnotiz ist offen, sie kann Stunden nach Handelsbeginn liegen.",
+      "date": "2026-11-20",
+      "time": "14:25",
+      "title": "Fed-Reden Waller und Cook",
+      "kind": "Zinsen",
+      "text": "Waller um 14:25 Uhr, Cook um 18:15 Uhr, Barkin um 22:00 Uhr. Waller hatte sich zuletzt für 0,5 Punkte im Dezember ausgesprochen.",
       "sectors": {
-        "it": "Stimmungstest für KI-Werte."
+        "it": "Zinsempfindliche Wachstumswerte.",
+        "crypto": "Zinsempfindlich."
       },
       "positions": {
-        "AMZN": "Amazon ist an Anthropic beteiligt.",
-        "NVDA": "Gradmesser für die KI-Nachfrage.",
-        "WORLD": "Großes Emissionsvolumen kann Mittel aus anderen Tech-Werten abziehen."
+        "NVDA": "Zinsangst belastet hoch bewertete Werte.",
+        "BTC": "Zinssignale bewegen Bitcoin."
       }
     },
     {
@@ -293,12 +272,13 @@
       "time": "16:00",
       "title": "Uni Michigan Verbraucherstimmung",
       "kind": "Konjunktur",
-      "text": "Stimmung und Inflationserwartung der Verbraucher.",
+      "text": "Zweite Lesung November, Prognose 51,5 nach 51,0. Die Inflationserwartung auf ein Jahr wird bei 4,3 % erwartet.",
       "sectors": {
         "disc": "Konsumlaune."
       },
       "positions": {
-        "WORLD": "Konjunkturbild der USA."
+        "WORLD": "Konjunkturbild der USA.",
+        "AMZN": "Konsumlaune vor dem Weihnachtsgeschäft."
       }
     },
     {
@@ -306,16 +286,21 @@
       "time": "ganztägig",
       "title": "Großer Optionsverfall (US)",
       "kind": "Markt",
-      "text": "Monatlicher Optionsverfall, an solchen Tagen sind Kursausschläge und Umsätze oft erhöht.",
-      "sectors": {},
-      "positions": {}
+      "text": "Monatlicher Optionsverfall, an solchen Tagen sind Kursausschläge und Umsätze oft erhöht. Zudem schließt das Anthropic-Angebot, eine Privatplatzierung über 26 Mrd. $ folgt.",
+      "sectors": {
+        "it": "Hohe Umsätze in KI-Werten möglich."
+      },
+      "positions": {
+        "NVDA": "Viele offene Optionen auf NVIDIA.",
+        "WORLD": "Breite Schwankungen möglich."
+      }
     },
     {
       "date": "2026-11-24",
       "time": "nachbörslich",
       "title": "Zahlen Dell, HP und Workday",
       "kind": "Zahlen",
-      "text": "Nach US-Börsenschluss. Vorbörslich berichten am selben Tag Medtronic und Analog Devices, Zoom bereits am 23.11. nachbörslich. Termine laut Vorschau, bitte bei den Firmen prüfen.",
+      "text": "Nach US-Börsenschluss. Vorbörslich berichten Medtronic und Analog Devices, Zoom bereits am 23.11. nachbörslich, Deere am 25.11. Termine laut Vorschau, bitte bei den Firmen prüfen.",
       "sectors": {
         "it": "Dell und HP zeigen die Nachfrage nach KI-Servern und PCs, Workday die Lage bei Software.",
         "health": "Medtronic ist ein großer Medizintechnik-Wert."
@@ -343,7 +328,7 @@
       "time": "offen",
       "title": "Angefragte Senatsanhörung zu NVIDIA",
       "kind": "Politik",
-      "text": "Der Vorsitzende des Banken-Ausschusses Tim Scott bat Huang, am 3.12. auszusagen. Handelsminister Lutnick soll am 10.12. freiwillig erscheinen.",
+      "text": "Der Vorsitzende des Banken-Ausschusses Tim Scott bat Huang, am 3.12. auszusagen. Huang ist seit dem 12.11. nicht mehr Vorstandschef, Colette Kress führt kommissarisch. Handelsminister Lutnick soll am 10.12. freiwillig erscheinen.",
       "sectors": {
         "it": "Politisches Risiko für den Chipsektor."
       },
@@ -384,7 +369,7 @@
       "time": "20:00",
       "title": "Fed-Zinsentscheid Dezember",
       "kind": "Zinsen",
-      "text": "Sitzung am 8. und 9.12., mit neuen Projektionen. Leitzins derzeit 3,75-4,00 %. Kalshi sieht eine Erhöhung um 0,25 Punkte bei rund 90 %. Gouverneur Waller wirbt für 0,5 Punkte.",
+      "text": "Sitzung am 8. und 9.12., mit neuen Projektionen. Leitzins derzeit 3,75-4,00 %. Märkte preisen eine Erhöhung nahezu sicher ein. Gouverneur Waller wirbt für 0,5 Punkte, Barr nennt die Inflation zu hoch.",
       "sectors": {
         "it": "Zinsempfindlich.",
         "fin": "Profitiert eher.",
@@ -410,57 +395,81 @@
         "NVDA": "Nur über den Wechselkurs EUR/USD.",
         "AMZN": "Nur über den Wechselkurs EUR/USD."
       }
+    },
+    {
+      "date": "2026-12-18",
+      "time": "ganztägig",
+      "title": "Großer Verfallstag (Hexensabbat)",
+      "kind": "Markt",
+      "text": "Quartalsverfall von Optionen und Futures an US- und europäischen Börsen. Oft mit hohen Umsätzen und Ausschlägen.",
+      "sectors": {},
+      "positions": {
+        "WORLD": "Breite Schwankungen möglich.",
+        "EUROPE": "Auch Eurex-Verfall."
+      }
     }
   ],
   "closes": {},
   "sources": [
     {
-      "title": "Motley Fool: S&P 500 Breaks Key Support as Fed Minutes Signal More Rate Hikes, 18.11.2026",
-      "url": "https://www.fool.com/coverage/stock-market-today/2026/11/18/stock-market-today-nov-18-s-and-p-500-breaks-key-support-as-fed-minutes-signal-more-rate-hikes-ahead/"
+      "title": "Motley Fool: Dow Plunges 1,100 Points as the S&P 500 Suffers Its 6th Straight Day of Losses, 19.11.2026",
+      "url": "https://www.fool.com/coverage/stock-market-today/2026/11/19/stock-market-today-nov-19-dow-plunges-1-100-points-as-the-s-and-p-500-suffers-its-6th-straight-day-of-losses/"
     },
     {
-      "title": "StockTitan: Stock Market Today, 18.11.2026",
-      "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-18-2026"
+      "title": "The Weekend Spread: The Close, 19.11.2026",
+      "url": "https://theweekendspread.substack.com/p/the-close-thursday-november-19-2026"
     },
     {
-      "title": "CappNotes: Closing Look, 18.11.2026",
-      "url": "https://cappnotes.substack.com/p/closing-look-wednesday-november-18"
+      "title": "AP/ABC News: Asia shares drop on AI worries, 20.11.2026",
+      "url": "https://abcnews.com/US/wireStory/asia-shares-drop-ai-worries-echoing-wall-streets-138309522"
     },
     {
-      "title": "finanzen.net/dpa-AFX: Aktien Frankfurt Schluss, 18.11.2026",
-      "url": "https://www.finanzen.net/nachricht/aktien/roundup-aktien-frankfurt-schluss-dax-rutscht-wieder-unter-26-000-punkte-16074280"
+      "title": "Kotak Neo: Kospi falls 5 %, Nikkei drops 4 %",
+      "url": "https://www.kotakneo.com/news/global-markets/kospi-nikkei-fall-hang-seng-nears-bear-market-as-ai-selloff-spreads/"
     },
     {
-      "title": "wallstreet-online/CMC: DAX rutscht unter 26.000 Punkte",
-      "url": "https://www.wallstreet-online.de/nachricht/21713784-aktien-frankfurt-schluss-dax-rutscht-26-000-punkte-nervositaet-anthropic-boersengang"
+      "title": "finanzen.at/dpa-AFX: Aktien Frankfurt Schluss, 19.11.2026",
+      "url": "https://www.finanzen.at/nachrichten/aktien/roundup-aktien-frankfurt-schluss-verluste-us-boersen-belasten-trotz-anthropic-1036784782"
     },
     {
-      "title": "Investing.com: Asia stocks slide as Taiwan drops 4%, 19.11.2026",
-      "url": "https://uk.investing.com/news/stock-market-news/asia-stocks-slide-as-taiwan-drops-4-ai-jitters-blunt-anthropic-ipo-optimism-4992225"
+      "title": "Börsen-Zeitung: Dax profitiert vom Anthropic-IPO überhaupt nicht",
+      "url": "https://www.boersen-zeitung.de/kapitalmaerkte/dax-profitiert-vom-anthropic-ipo-ueberhaupt-nicht"
     },
     {
-      "title": "Reuters/Yahoo: Stocks rise after Anthropic IPO pricing",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-rise-anthropic-ipo-pricing-015339932.html"
+      "title": "marketscreener: DAX-Futures im Frühhandel sehr schwach, 20.11.2026",
+      "url": "https://de.marketscreener.com/boerse-nachrichten/eurex-dax-futures-im-fruehhandel-sehr-schwach-ce785ed2d18bf424"
     },
     {
-      "title": "StockTitan: Anthropic IPO live",
-      "url": "https://www.stocktitan.net/articles/anthropic-ipo-live-ant-first-trading-day-2026"
+      "title": "finanzen.at/Dow Jones: Tagesvorschau Freitag, 20. November",
+      "url": "https://www.finanzen.at/nachrichten/aktien/tagesvorschau-freitag-20-november-vorlaufige-fassung-1036783489"
     },
     {
-      "title": "Al Jazeera: What do Trump, Putin and Xi want from their Shenzhen meeting?",
-      "url": "https://www.aljazeera.com/news/2026/11/19/what-do-trump-putin-and-xi-want-from-their-shenzhen-meeting"
+      "title": "Yahoo Finance: Stalemates over semiconductors and rare earth minerals appear little changed",
+      "url": "https://au.finance.yahoo.com/news/stalemates-over-semiconductors-and-rare-earth-minerals-appear-little-changed-as-trump-heads-home-from-china-121555352.html"
     },
     {
-      "title": "Asia Times: Trump and Xi meet in Shenzhen with little left to trade",
-      "url": "https://asiatimes.com/2026/11/trump-and-xi-meet-in-shenzhen-with-little-left-to-trade/"
+      "title": "CoinGabbar: Crypto News Nov 20",
+      "url": "https://www.coingabbar.com/en/crypto-news-today-cftc-rules-japan-risk-anthropic-bitcoin-price"
     },
     {
-      "title": "BTC-ECHO: Bitcoin Kurs",
-      "url": "https://www.btc-echo.de/kurs/bitcoin/"
+      "title": "tixio: Bitcoin-Kurs in Euro",
+      "url": "https://www.tixio.de/1368650-bitcoin-kurs-bei-58-12300-euro-149-gestiegen.html"
     },
     {
-      "title": "ad-hoc-news: Amazon vorbörslich, 18.11.2026",
-      "url": "https://www.ad-hoc-news.de/boerse/news/vorboerse/amazon-com-inc-aktie-aws-deal-ueber-5-mrd-dollar-vorboerslich-235-65-euro-1-86-prozent-hoeher/70529852"
+      "title": "boersennews: NVIDIA Aktie",
+      "url": "https://www.boersennews.de/markt/aktien/detail/us67066g1040/"
+    },
+    {
+      "title": "boerse.de: Amazon Aktie",
+      "url": "https://www.boerse.de/aktien/Amazon-Aktie/US0231351067"
+    },
+    {
+      "title": "boerse.de: Bitcoin historische Kurse",
+      "url": "https://www.boerse.de/historische-kurse/XBT-EUR/EU000A2YZK67"
+    },
+    {
+      "title": "Al Jazeera: Why did Nvidia CEO Jensen Huang resign?",
+      "url": "https://www.aljazeera.com/news/2026/11/12/why-did-nvidia-ceo-jensen-huang-resign-and-who-is-colette-kress"
     },
     {
       "title": "ifyouspent: Thanksgiving week earnings preview",
